@@ -1,0 +1,2461 @@
+,Team_Name,Division_id,Conference_id,Date,Team Played,Win,Total Wins
+0,Atlanta Hawks,Southeast,East,2016-10-27,Washington Wizards,1.0,1.0
+1,Atlanta Hawks,Southeast,East,2016-10-29,Philadelphia 76ers,1.0,2.0
+2,Atlanta Hawks,Southeast,East,2016-10-31,Sacramento Kings,1.0,3.0
+3,Atlanta Hawks,Southeast,East,2016-11-02,Los Angeles Lakers,0.0,3.0
+4,Atlanta Hawks,Southeast,East,2016-11-04,Washington Wizards,0.0,3.0
+5,Atlanta Hawks,Southeast,East,2016-11-05,Houston Rockets,1.0,4.0
+6,Atlanta Hawks,Southeast,East,2016-11-08,Cleveland Cavaliers,1.0,5.0
+7,Atlanta Hawks,Southeast,East,2016-11-09,Chicago Bulls,1.0,6.0
+8,Atlanta Hawks,Southeast,East,2016-11-12,Philadelphia 76ers,1.0,7.0
+9,Atlanta Hawks,Southeast,East,2016-11-15,Miami Heat,1.0,8.0
+10,Atlanta Hawks,Southeast,East,2016-11-16,Milwaukee Bucks,1.0,9.0
+11,Atlanta Hawks,Southeast,East,2016-11-18,Charlotte Hornets,0.0,9.0
+12,Atlanta Hawks,Southeast,East,2016-11-20,New York Knicks,0.0,9.0
+13,Atlanta Hawks,Southeast,East,2016-11-22,New Orleans Pelicans,0.0,9.0
+14,Atlanta Hawks,Southeast,East,2016-11-23,Indiana Pacers,1.0,10.0
+15,Atlanta Hawks,Southeast,East,2016-11-25,Utah Jazz,0.0,10.0
+16,Atlanta Hawks,Southeast,East,2016-11-27,Los Angeles Lakers,0.0,10.0
+17,Atlanta Hawks,Southeast,East,2016-11-28,Golden State Warriors,0.0,10.0
+18,Atlanta Hawks,Southeast,East,2016-11-30,Phoenix Suns,0.0,10.0
+19,Atlanta Hawks,Southeast,East,2016-12-02,Detroit Pistons,0.0,10.0
+20,Atlanta Hawks,Southeast,East,2016-12-03,Toronto Raptors,0.0,10.0
+21,Atlanta Hawks,Southeast,East,2016-12-05,Oklahoma City Thunder,0.0,10.0
+22,Atlanta Hawks,Southeast,East,2016-12-07,Miami Heat,1.0,11.0
+23,Atlanta Hawks,Southeast,East,2016-12-09,Milwaukee Bucks,1.0,12.0
+24,Atlanta Hawks,Southeast,East,2016-12-13,Orlando Magic,0.0,12.0
+25,Atlanta Hawks,Southeast,East,2016-12-16,Toronto Raptors,1.0,13.0
+26,Atlanta Hawks,Southeast,East,2016-12-17,Charlotte Hornets,0.0,13.0
+27,Atlanta Hawks,Southeast,East,2016-12-19,Oklahoma City Thunder,1.0,14.0
+28,Atlanta Hawks,Southeast,East,2016-12-21,Minnesota Timberwolves,0.0,14.0
+29,Atlanta Hawks,Southeast,East,2016-12-23,Denver Nuggets,1.0,15.0
+30,Atlanta Hawks,Southeast,East,2016-12-26,Minnesota Timberwolves,0.0,15.0
+31,Atlanta Hawks,Southeast,East,2016-12-28,New York Knicks,1.0,16.0
+32,Atlanta Hawks,Southeast,East,2016-12-30,Detroit Pistons,1.0,17.0
+33,Atlanta Hawks,Southeast,East,2017-01-01,San Antonio Spurs,1.0,18.0
+34,Atlanta Hawks,Southeast,East,2017-01-04,Orlando Magic,1.0,19.0
+35,Atlanta Hawks,Southeast,East,2017-01-05,New Orleans Pelicans,1.0,20.0
+36,Atlanta Hawks,Southeast,East,2017-01-07,Dallas Mavericks,1.0,21.0
+37,Atlanta Hawks,Southeast,East,2017-01-10,Brooklyn Nets,1.0,22.0
+38,Atlanta Hawks,Southeast,East,2017-01-13,Boston Celtics,0.0,22.0
+39,Atlanta Hawks,Southeast,East,2017-01-15,Milwaukee Bucks,1.0,23.0
+40,Atlanta Hawks,Southeast,East,2017-01-16,New York Knicks,1.0,24.0
+41,Atlanta Hawks,Southeast,East,2017-01-18,Detroit Pistons,0.0,24.0
+42,Atlanta Hawks,Southeast,East,2017-01-20,Chicago Bulls,1.0,25.0
+43,Atlanta Hawks,Southeast,East,2017-01-21,Philadelphia 76ers,1.0,26.0
+44,Atlanta Hawks,Southeast,East,2017-01-23,LA Clippers,0.0,26.0
+45,Atlanta Hawks,Southeast,East,2017-01-25,Chicago Bulls,1.0,27.0
+46,Atlanta Hawks,Southeast,East,2017-01-27,Washington Wizards,0.0,27.0
+47,Atlanta Hawks,Southeast,East,2017-01-29,New York Knicks,1.0,28.0
+48,Atlanta Hawks,Southeast,East,2017-02-01,Miami Heat,0.0,28.0
+49,Atlanta Hawks,Southeast,East,2017-02-02,Houston Rockets,1.0,29.0
+50,Atlanta Hawks,Southeast,East,2017-02-04,Orlando Magic,1.0,30.0
+51,Atlanta Hawks,Southeast,East,2017-02-06,Utah Jazz,0.0,30.0
+52,Atlanta Hawks,Southeast,East,2017-02-08,Denver Nuggets,1.0,31.0
+53,Atlanta Hawks,Southeast,East,2017-02-10,Sacramento Kings,0.0,31.0
+54,Atlanta Hawks,Southeast,East,2017-02-13,Portland Trail Blazers,1.0,32.0
+55,Atlanta Hawks,Southeast,East,2017-02-15,LA Clippers,0.0,32.0
+56,Atlanta Hawks,Southeast,East,2017-02-24,Miami Heat,0.0,32.0
+57,Atlanta Hawks,Southeast,East,2017-02-25,Orlando Magic,0.0,32.0
+58,Atlanta Hawks,Southeast,East,2017-02-27,Boston Celtics,1.0,33.0
+59,Atlanta Hawks,Southeast,East,2017-03-01,Dallas Mavericks,1.0,34.0
+60,Atlanta Hawks,Southeast,East,2017-03-03,Cleveland Cavaliers,0.0,34.0
+61,Atlanta Hawks,Southeast,East,2017-03-05,Indiana Pacers,0.0,34.0
+62,Atlanta Hawks,Southeast,East,2017-03-06,Golden State Warriors,0.0,34.0
+63,Atlanta Hawks,Southeast,East,2017-03-08,Brooklyn Nets,1.0,35.0
+64,Atlanta Hawks,Southeast,East,2017-03-10,Toronto Raptors,1.0,36.0
+65,Atlanta Hawks,Southeast,East,2017-03-11,Memphis Grizzlies,1.0,37.0
+66,Atlanta Hawks,Southeast,East,2017-03-13,San Antonio Spurs,0.0,37.0
+67,Atlanta Hawks,Southeast,East,2017-03-16,Memphis Grizzlies,0.0,37.0
+68,Atlanta Hawks,Southeast,East,2017-03-18,Portland Trail Blazers,0.0,37.0
+69,Atlanta Hawks,Southeast,East,2017-03-20,Charlotte Hornets,0.0,37.0
+70,Atlanta Hawks,Southeast,East,2017-03-22,Washington Wizards,0.0,37.0
+71,Atlanta Hawks,Southeast,East,2017-03-24,Milwaukee Bucks,0.0,37.0
+72,Atlanta Hawks,Southeast,East,2017-03-26,Brooklyn Nets,0.0,37.0
+73,Atlanta Hawks,Southeast,East,2017-03-28,Phoenix Suns,1.0,38.0
+74,Atlanta Hawks,Southeast,East,2017-03-29,Philadelphia 76ers,1.0,39.0
+75,Atlanta Hawks,Southeast,East,2017-04-01,Chicago Bulls,0.0,39.0
+76,Atlanta Hawks,Southeast,East,2017-04-02,Brooklyn Nets,0.0,39.0
+77,Atlanta Hawks,Southeast,East,2017-04-06,Boston Celtics,1.0,40.0
+78,Atlanta Hawks,Southeast,East,2017-04-07,Cleveland Cavaliers,1.0,41.0
+79,Atlanta Hawks,Southeast,East,2017-04-09,Cleveland Cavaliers,1.0,42.0
+80,Atlanta Hawks,Southeast,East,2017-04-11,Charlotte Hornets,1.0,43.0
+81,Atlanta Hawks,Southeast,East,2017-04-12,Indiana Pacers,0.0,43.0
+82,Boston Celtics,Atlantic,East,2016-10-26,Brooklyn Nets,1.0,1.0
+83,Boston Celtics,Atlantic,East,2016-10-27,Chicago Bulls,0.0,1.0
+84,Boston Celtics,Atlantic,East,2016-10-29,Charlotte Hornets,1.0,2.0
+85,Boston Celtics,Atlantic,East,2016-11-02,Chicago Bulls,1.0,3.0
+86,Boston Celtics,Atlantic,East,2016-11-03,Cleveland Cavaliers,0.0,3.0
+87,Boston Celtics,Atlantic,East,2016-11-06,Denver Nuggets,0.0,3.0
+88,Boston Celtics,Atlantic,East,2016-11-09,Washington Wizards,0.0,3.0
+89,Boston Celtics,Atlantic,East,2016-11-11,New York Knicks,1.0,4.0
+90,Boston Celtics,Atlantic,East,2016-11-12,Indiana Pacers,1.0,5.0
+91,Boston Celtics,Atlantic,East,2016-11-14,New Orleans Pelicans,0.0,5.0
+92,Boston Celtics,Atlantic,East,2016-11-16,Dallas Mavericks,1.0,6.0
+93,Boston Celtics,Atlantic,East,2016-11-18,Golden State Warriors,0.0,6.0
+94,Boston Celtics,Atlantic,East,2016-11-19,Detroit Pistons,1.0,7.0
+95,Boston Celtics,Atlantic,East,2016-11-21,Minnesota Timberwolves,1.0,8.0
+96,Boston Celtics,Atlantic,East,2016-11-23,Brooklyn Nets,1.0,9.0
+97,Boston Celtics,Atlantic,East,2016-11-25,San Antonio Spurs,0.0,9.0
+98,Boston Celtics,Atlantic,East,2016-11-28,Miami Heat,1.0,10.0
+99,Boston Celtics,Atlantic,East,2016-11-30,Detroit Pistons,0.0,10.0
+100,Boston Celtics,Atlantic,East,2016-12-02,Sacramento Kings,1.0,11.0
+101,Boston Celtics,Atlantic,East,2016-12-03,Philadelphia 76ers,1.0,12.0
+102,Boston Celtics,Atlantic,East,2016-12-05,Houston Rockets,0.0,12.0
+103,Boston Celtics,Atlantic,East,2016-12-07,Orlando Magic,1.0,13.0
+104,Boston Celtics,Atlantic,East,2016-12-09,Toronto Raptors,0.0,13.0
+105,Boston Celtics,Atlantic,East,2016-12-11,Oklahoma City Thunder,0.0,13.0
+106,Boston Celtics,Atlantic,East,2016-12-14,San Antonio Spurs,0.0,13.0
+107,Boston Celtics,Atlantic,East,2016-12-16,Charlotte Hornets,1.0,14.0
+108,Boston Celtics,Atlantic,East,2016-12-18,Miami Heat,1.0,15.0
+109,Boston Celtics,Atlantic,East,2016-12-20,Memphis Grizzlies,1.0,16.0
+110,Boston Celtics,Atlantic,East,2016-12-22,Indiana Pacers,1.0,17.0
+111,Boston Celtics,Atlantic,East,2016-12-23,Oklahoma City Thunder,0.0,17.0
+112,Boston Celtics,Atlantic,East,2016-12-25,New York Knicks,1.0,18.0
+113,Boston Celtics,Atlantic,East,2016-12-27,Memphis Grizzlies,1.0,19.0
+114,Boston Celtics,Atlantic,East,2016-12-29,Cleveland Cavaliers,0.0,19.0
+115,Boston Celtics,Atlantic,East,2016-12-30,Miami Heat,1.0,20.0
+116,Boston Celtics,Atlantic,East,2017-01-03,Utah Jazz,1.0,21.0
+117,Boston Celtics,Atlantic,East,2017-01-06,Philadelphia 76ers,1.0,22.0
+118,Boston Celtics,Atlantic,East,2017-01-07,New Orleans Pelicans,1.0,23.0
+119,Boston Celtics,Atlantic,East,2017-01-10,Toronto Raptors,0.0,23.0
+120,Boston Celtics,Atlantic,East,2017-01-11,Washington Wizards,1.0,24.0
+121,Boston Celtics,Atlantic,East,2017-01-13,Atlanta Hawks,1.0,25.0
+122,Boston Celtics,Atlantic,East,2017-01-16,Charlotte Hornets,1.0,26.0
+123,Boston Celtics,Atlantic,East,2017-01-18,New York Knicks,0.0,26.0
+124,Boston Celtics,Atlantic,East,2017-01-21,Portland Trail Blazers,0.0,26.0
+125,Boston Celtics,Atlantic,East,2017-01-24,Washington Wizards,0.0,26.0
+126,Boston Celtics,Atlantic,East,2017-01-25,Houston Rockets,1.0,27.0
+127,Boston Celtics,Atlantic,East,2017-01-27,Orlando Magic,1.0,28.0
+128,Boston Celtics,Atlantic,East,2017-01-28,Milwaukee Bucks,1.0,29.0
+129,Boston Celtics,Atlantic,East,2017-01-30,Detroit Pistons,1.0,30.0
+130,Boston Celtics,Atlantic,East,2017-02-01,Toronto Raptors,1.0,31.0
+131,Boston Celtics,Atlantic,East,2017-02-03,Los Angeles Lakers,1.0,32.0
+132,Boston Celtics,Atlantic,East,2017-02-05,LA Clippers,1.0,33.0
+133,Boston Celtics,Atlantic,East,2017-02-08,Sacramento Kings,0.0,33.0
+134,Boston Celtics,Atlantic,East,2017-02-09,Portland Trail Blazers,1.0,34.0
+135,Boston Celtics,Atlantic,East,2017-02-11,Utah Jazz,1.0,35.0
+136,Boston Celtics,Atlantic,East,2017-02-13,Dallas Mavericks,1.0,36.0
+137,Boston Celtics,Atlantic,East,2017-02-15,Philadelphia 76ers,1.0,37.0
+138,Boston Celtics,Atlantic,East,2017-02-16,Chicago Bulls,0.0,37.0
+139,Boston Celtics,Atlantic,East,2017-02-24,Toronto Raptors,0.0,37.0
+140,Boston Celtics,Atlantic,East,2017-02-26,Detroit Pistons,1.0,38.0
+141,Boston Celtics,Atlantic,East,2017-02-27,Atlanta Hawks,0.0,38.0
+142,Boston Celtics,Atlantic,East,2017-03-01,Cleveland Cavaliers,1.0,39.0
+143,Boston Celtics,Atlantic,East,2017-03-03,Los Angeles Lakers,1.0,40.0
+144,Boston Celtics,Atlantic,East,2017-03-05,Phoenix Suns,0.0,40.0
+145,Boston Celtics,Atlantic,East,2017-03-06,LA Clippers,0.0,40.0
+146,Boston Celtics,Atlantic,East,2017-03-08,Golden State Warriors,1.0,41.0
+147,Boston Celtics,Atlantic,East,2017-03-10,Denver Nuggets,0.0,41.0
+148,Boston Celtics,Atlantic,East,2017-03-12,Chicago Bulls,1.0,42.0
+149,Boston Celtics,Atlantic,East,2017-03-15,Minnesota Timberwolves,1.0,43.0
+150,Boston Celtics,Atlantic,East,2017-03-17,Brooklyn Nets,1.0,44.0
+151,Boston Celtics,Atlantic,East,2017-03-19,Philadelphia 76ers,0.0,44.0
+152,Boston Celtics,Atlantic,East,2017-03-20,Washington Wizards,1.0,45.0
+153,Boston Celtics,Atlantic,East,2017-03-22,Indiana Pacers,1.0,46.0
+154,Boston Celtics,Atlantic,East,2017-03-24,Phoenix Suns,1.0,47.0
+155,Boston Celtics,Atlantic,East,2017-03-26,Miami Heat,1.0,48.0
+156,Boston Celtics,Atlantic,East,2017-03-29,Milwaukee Bucks,0.0,48.0
+157,Boston Celtics,Atlantic,East,2017-03-31,Orlando Magic,1.0,49.0
+158,Boston Celtics,Atlantic,East,2017-04-02,New York Knicks,1.0,50.0
+159,Boston Celtics,Atlantic,East,2017-04-05,Cleveland Cavaliers,0.0,50.0
+160,Boston Celtics,Atlantic,East,2017-04-06,Atlanta Hawks,0.0,50.0
+161,Boston Celtics,Atlantic,East,2017-04-08,Charlotte Hornets,1.0,51.0
+162,Boston Celtics,Atlantic,East,2017-04-10,Brooklyn Nets,1.0,52.0
+163,Boston Celtics,Atlantic,East,2017-04-12,Milwaukee Bucks,1.0,53.0
+164,Brooklyn Nets,Atlantic,East,2016-10-26,Boston Celtics,0.0,0.0
+165,Brooklyn Nets,Atlantic,East,2016-10-28,Indiana Pacers,1.0,1.0
+166,Brooklyn Nets,Atlantic,East,2016-10-29,Milwaukee Bucks,0.0,1.0
+167,Brooklyn Nets,Atlantic,East,2016-10-31,Chicago Bulls,0.0,1.0
+168,Brooklyn Nets,Atlantic,East,2016-11-02,Detroit Pistons,1.0,2.0
+169,Brooklyn Nets,Atlantic,East,2016-11-04,Charlotte Hornets,0.0,2.0
+170,Brooklyn Nets,Atlantic,East,2016-11-08,Minnesota Timberwolves,1.0,3.0
+171,Brooklyn Nets,Atlantic,East,2016-11-09,New York Knicks,0.0,3.0
+172,Brooklyn Nets,Atlantic,East,2016-11-12,Phoenix Suns,1.0,4.0
+173,Brooklyn Nets,Atlantic,East,2016-11-14,LA Clippers,0.0,4.0
+174,Brooklyn Nets,Atlantic,East,2016-11-15,Los Angeles Lakers,0.0,4.0
+175,Brooklyn Nets,Atlantic,East,2016-11-18,Oklahoma City Thunder,0.0,4.0
+176,Brooklyn Nets,Atlantic,East,2016-11-20,Portland Trail Blazers,0.0,4.0
+177,Brooklyn Nets,Atlantic,East,2016-11-23,Boston Celtics,0.0,4.0
+178,Brooklyn Nets,Atlantic,East,2016-11-25,Indiana Pacers,0.0,4.0
+179,Brooklyn Nets,Atlantic,East,2016-11-27,Sacramento Kings,0.0,4.0
+180,Brooklyn Nets,Atlantic,East,2016-11-29,LA Clippers,1.0,5.0
+181,Brooklyn Nets,Atlantic,East,2016-12-01,Milwaukee Bucks,0.0,5.0
+182,Brooklyn Nets,Atlantic,East,2016-12-03,Milwaukee Bucks,0.0,5.0
+183,Brooklyn Nets,Atlantic,East,2016-12-05,Washington Wizards,0.0,5.0
+184,Brooklyn Nets,Atlantic,East,2016-12-07,Denver Nuggets,1.0,6.0
+185,Brooklyn Nets,Atlantic,East,2016-12-10,San Antonio Spurs,0.0,6.0
+186,Brooklyn Nets,Atlantic,East,2016-12-12,Houston Rockets,0.0,6.0
+187,Brooklyn Nets,Atlantic,East,2016-12-14,Los Angeles Lakers,1.0,7.0
+188,Brooklyn Nets,Atlantic,East,2016-12-16,Orlando Magic,0.0,7.0
+189,Brooklyn Nets,Atlantic,East,2016-12-18,Philadelphia 76ers,0.0,7.0
+190,Brooklyn Nets,Atlantic,East,2016-12-20,Toronto Raptors,0.0,7.0
+191,Brooklyn Nets,Atlantic,East,2016-12-22,Golden State Warriors,0.0,7.0
+192,Brooklyn Nets,Atlantic,East,2016-12-23,Cleveland Cavaliers,0.0,7.0
+193,Brooklyn Nets,Atlantic,East,2016-12-26,Charlotte Hornets,1.0,8.0
+194,Brooklyn Nets,Atlantic,East,2016-12-28,Chicago Bulls,0.0,8.0
+195,Brooklyn Nets,Atlantic,East,2016-12-30,Washington Wizards,0.0,8.0
+196,Brooklyn Nets,Atlantic,East,2017-01-02,Utah Jazz,0.0,8.0
+197,Brooklyn Nets,Atlantic,East,2017-01-05,Indiana Pacers,0.0,8.0
+198,Brooklyn Nets,Atlantic,East,2017-01-06,Cleveland Cavaliers,0.0,8.0
+199,Brooklyn Nets,Atlantic,East,2017-01-08,Philadelphia 76ers,0.0,8.0
+200,Brooklyn Nets,Atlantic,East,2017-01-10,Atlanta Hawks,0.0,8.0
+201,Brooklyn Nets,Atlantic,East,2017-01-12,New Orleans Pelicans,0.0,8.0
+202,Brooklyn Nets,Atlantic,East,2017-01-13,Toronto Raptors,0.0,8.0
+203,Brooklyn Nets,Atlantic,East,2017-01-15,Houston Rockets,0.0,8.0
+204,Brooklyn Nets,Atlantic,East,2017-01-17,Toronto Raptors,0.0,8.0
+205,Brooklyn Nets,Atlantic,East,2017-01-20,New Orleans Pelicans,1.0,9.0
+206,Brooklyn Nets,Atlantic,East,2017-01-21,Charlotte Hornets,0.0,9.0
+207,Brooklyn Nets,Atlantic,East,2017-01-23,San Antonio Spurs,0.0,9.0
+208,Brooklyn Nets,Atlantic,East,2017-01-25,Miami Heat,0.0,9.0
+209,Brooklyn Nets,Atlantic,East,2017-01-27,Cleveland Cavaliers,0.0,9.0
+210,Brooklyn Nets,Atlantic,East,2017-01-28,Minnesota Timberwolves,0.0,9.0
+211,Brooklyn Nets,Atlantic,East,2017-01-30,Miami Heat,0.0,9.0
+212,Brooklyn Nets,Atlantic,East,2017-02-01,New York Knicks,0.0,9.0
+213,Brooklyn Nets,Atlantic,East,2017-02-03,Indiana Pacers,0.0,9.0
+214,Brooklyn Nets,Atlantic,East,2017-02-05,Toronto Raptors,0.0,9.0
+215,Brooklyn Nets,Atlantic,East,2017-02-07,Charlotte Hornets,0.0,9.0
+216,Brooklyn Nets,Atlantic,East,2017-02-08,Washington Wizards,0.0,9.0
+217,Brooklyn Nets,Atlantic,East,2017-02-10,Miami Heat,0.0,9.0
+218,Brooklyn Nets,Atlantic,East,2017-02-13,Memphis Grizzlies,0.0,9.0
+219,Brooklyn Nets,Atlantic,East,2017-02-15,Milwaukee Bucks,0.0,9.0
+220,Brooklyn Nets,Atlantic,East,2017-02-24,Denver Nuggets,0.0,9.0
+221,Brooklyn Nets,Atlantic,East,2017-02-25,Golden State Warriors,0.0,9.0
+222,Brooklyn Nets,Atlantic,East,2017-03-01,Sacramento Kings,1.0,10.0
+223,Brooklyn Nets,Atlantic,East,2017-03-03,Utah Jazz,0.0,10.0
+224,Brooklyn Nets,Atlantic,East,2017-03-04,Portland Trail Blazers,0.0,10.0
+225,Brooklyn Nets,Atlantic,East,2017-03-06,Memphis Grizzlies,1.0,11.0
+226,Brooklyn Nets,Atlantic,East,2017-03-08,Atlanta Hawks,0.0,11.0
+227,Brooklyn Nets,Atlantic,East,2017-03-10,Dallas Mavericks,0.0,11.0
+228,Brooklyn Nets,Atlantic,East,2017-03-12,New York Knicks,1.0,12.0
+229,Brooklyn Nets,Atlantic,East,2017-03-14,Oklahoma City Thunder,0.0,12.0
+230,Brooklyn Nets,Atlantic,East,2017-03-16,New York Knicks,1.0,13.0
+231,Brooklyn Nets,Atlantic,East,2017-03-17,Boston Celtics,0.0,13.0
+232,Brooklyn Nets,Atlantic,East,2017-03-19,Dallas Mavericks,0.0,13.0
+233,Brooklyn Nets,Atlantic,East,2017-03-21,Detroit Pistons,1.0,14.0
+234,Brooklyn Nets,Atlantic,East,2017-03-23,Phoenix Suns,1.0,15.0
+235,Brooklyn Nets,Atlantic,East,2017-03-24,Washington Wizards,0.0,15.0
+236,Brooklyn Nets,Atlantic,East,2017-03-26,Atlanta Hawks,1.0,16.0
+237,Brooklyn Nets,Atlantic,East,2017-03-28,Philadelphia 76ers,0.0,16.0
+238,Brooklyn Nets,Atlantic,East,2017-03-30,Detroit Pistons,0.0,16.0
+239,Brooklyn Nets,Atlantic,East,2017-04-01,Orlando Magic,1.0,17.0
+240,Brooklyn Nets,Atlantic,East,2017-04-02,Atlanta Hawks,1.0,18.0
+241,Brooklyn Nets,Atlantic,East,2017-04-04,Philadelphia 76ers,1.0,19.0
+242,Brooklyn Nets,Atlantic,East,2017-04-06,Orlando Magic,0.0,19.0
+243,Brooklyn Nets,Atlantic,East,2017-04-08,Chicago Bulls,1.0,20.0
+244,Brooklyn Nets,Atlantic,East,2017-04-10,Boston Celtics,0.0,20.0
+245,Brooklyn Nets,Atlantic,East,2017-04-12,Chicago Bulls,0.0,20.0
+246,Charlotte Hornets,Southeast,East,2016-10-26,Milwaukee Bucks,1.0,1.0
+247,Charlotte Hornets,Southeast,East,2016-10-28,Miami Heat,1.0,2.0
+248,Charlotte Hornets,Southeast,East,2016-10-29,Boston Celtics,0.0,2.0
+249,Charlotte Hornets,Southeast,East,2016-11-02,Philadelphia 76ers,1.0,3.0
+250,Charlotte Hornets,Southeast,East,2016-11-04,Brooklyn Nets,1.0,4.0
+251,Charlotte Hornets,Southeast,East,2016-11-07,Indiana Pacers,1.0,5.0
+252,Charlotte Hornets,Southeast,East,2016-11-09,Utah Jazz,1.0,6.0
+253,Charlotte Hornets,Southeast,East,2016-11-11,Toronto Raptors,0.0,6.0
+254,Charlotte Hornets,Southeast,East,2016-11-13,Cleveland Cavaliers,0.0,6.0
+255,Charlotte Hornets,Southeast,East,2016-11-15,Minnesota Timberwolves,1.0,7.0
+256,Charlotte Hornets,Southeast,East,2016-11-18,Atlanta Hawks,1.0,8.0
+257,Charlotte Hornets,Southeast,East,2016-11-19,New Orleans Pelicans,0.0,8.0
+258,Charlotte Hornets,Southeast,East,2016-11-21,Memphis Grizzlies,0.0,8.0
+259,Charlotte Hornets,Southeast,East,2016-11-23,San Antonio Spurs,0.0,8.0
+260,Charlotte Hornets,Southeast,East,2016-11-25,New York Knicks,0.0,8.0
+261,Charlotte Hornets,Southeast,East,2016-11-26,New York Knicks,1.0,9.0
+262,Charlotte Hornets,Southeast,East,2016-11-28,Memphis Grizzlies,1.0,10.0
+263,Charlotte Hornets,Southeast,East,2016-11-29,Detroit Pistons,0.0,10.0
+264,Charlotte Hornets,Southeast,East,2016-12-01,Dallas Mavericks,1.0,11.0
+265,Charlotte Hornets,Southeast,East,2016-12-03,Minnesota Timberwolves,0.0,11.0
+266,Charlotte Hornets,Southeast,East,2016-12-05,Dallas Mavericks,1.0,12.0
+267,Charlotte Hornets,Southeast,East,2016-12-07,Detroit Pistons,1.0,13.0
+268,Charlotte Hornets,Southeast,East,2016-12-09,Orlando Magic,1.0,14.0
+269,Charlotte Hornets,Southeast,East,2016-12-10,Cleveland Cavaliers,0.0,14.0
+270,Charlotte Hornets,Southeast,East,2016-12-12,Indiana Pacers,0.0,14.0
+271,Charlotte Hornets,Southeast,East,2016-12-14,Washington Wizards,0.0,14.0
+272,Charlotte Hornets,Southeast,East,2016-12-16,Boston Celtics,0.0,14.0
+273,Charlotte Hornets,Southeast,East,2016-12-17,Atlanta Hawks,1.0,15.0
+274,Charlotte Hornets,Southeast,East,2016-12-20,Los Angeles Lakers,1.0,16.0
+275,Charlotte Hornets,Southeast,East,2016-12-23,Chicago Bulls,1.0,17.0
+276,Charlotte Hornets,Southeast,East,2016-12-26,Brooklyn Nets,0.0,17.0
+277,Charlotte Hornets,Southeast,East,2016-12-28,Orlando Magic,1.0,18.0
+278,Charlotte Hornets,Southeast,East,2016-12-29,Miami Heat,1.0,19.0
+279,Charlotte Hornets,Southeast,East,2016-12-31,Cleveland Cavaliers,0.0,19.0
+280,Charlotte Hornets,Southeast,East,2017-01-02,Chicago Bulls,0.0,19.0
+281,Charlotte Hornets,Southeast,East,2017-01-04,Oklahoma City Thunder,1.0,20.0
+282,Charlotte Hornets,Southeast,East,2017-01-05,Detroit Pistons,0.0,20.0
+283,Charlotte Hornets,Southeast,East,2017-01-07,San Antonio Spurs,0.0,20.0
+284,Charlotte Hornets,Southeast,East,2017-01-10,Houston Rockets,0.0,20.0
+285,Charlotte Hornets,Southeast,East,2017-01-13,Philadelphia 76ers,0.0,20.0
+286,Charlotte Hornets,Southeast,East,2017-01-16,Boston Celtics,0.0,20.0
+287,Charlotte Hornets,Southeast,East,2017-01-18,Portland Trail Blazers,1.0,21.0
+288,Charlotte Hornets,Southeast,East,2017-01-20,Toronto Raptors,1.0,22.0
+289,Charlotte Hornets,Southeast,East,2017-01-21,Brooklyn Nets,1.0,23.0
+290,Charlotte Hornets,Southeast,East,2017-01-23,Washington Wizards,0.0,23.0
+291,Charlotte Hornets,Southeast,East,2017-01-25,Golden State Warriors,0.0,23.0
+292,Charlotte Hornets,Southeast,East,2017-01-27,New York Knicks,0.0,23.0
+293,Charlotte Hornets,Southeast,East,2017-01-28,Sacramento Kings,0.0,23.0
+294,Charlotte Hornets,Southeast,East,2017-01-31,Portland Trail Blazers,0.0,23.0
+295,Charlotte Hornets,Southeast,East,2017-02-01,Golden State Warriors,0.0,23.0
+296,Charlotte Hornets,Southeast,East,2017-02-04,Utah Jazz,0.0,23.0
+297,Charlotte Hornets,Southeast,East,2017-02-07,Brooklyn Nets,1.0,24.0
+298,Charlotte Hornets,Southeast,East,2017-02-09,Houston Rockets,0.0,24.0
+299,Charlotte Hornets,Southeast,East,2017-02-11,LA Clippers,0.0,24.0
+300,Charlotte Hornets,Southeast,East,2017-02-13,Philadelphia 76ers,0.0,24.0
+301,Charlotte Hornets,Southeast,East,2017-02-15,Toronto Raptors,0.0,24.0
+302,Charlotte Hornets,Southeast,East,2017-02-23,Detroit Pistons,0.0,24.0
+303,Charlotte Hornets,Southeast,East,2017-02-25,Sacramento Kings,1.0,25.0
+304,Charlotte Hornets,Southeast,East,2017-02-26,LA Clippers,0.0,25.0
+305,Charlotte Hornets,Southeast,East,2017-02-28,Los Angeles Lakers,1.0,26.0
+306,Charlotte Hornets,Southeast,East,2017-03-02,Phoenix Suns,0.0,26.0
+307,Charlotte Hornets,Southeast,East,2017-03-04,Denver Nuggets,1.0,27.0
+308,Charlotte Hornets,Southeast,East,2017-03-06,Indiana Pacers,1.0,28.0
+309,Charlotte Hornets,Southeast,East,2017-03-08,Miami Heat,0.0,28.0
+310,Charlotte Hornets,Southeast,East,2017-03-10,Orlando Magic,1.0,29.0
+311,Charlotte Hornets,Southeast,East,2017-03-11,New Orleans Pelicans,0.0,29.0
+312,Charlotte Hornets,Southeast,East,2017-03-13,Chicago Bulls,0.0,29.0
+313,Charlotte Hornets,Southeast,East,2017-03-15,Indiana Pacers,0.0,29.0
+314,Charlotte Hornets,Southeast,East,2017-03-18,Washington Wizards,1.0,30.0
+315,Charlotte Hornets,Southeast,East,2017-03-20,Atlanta Hawks,1.0,31.0
+316,Charlotte Hornets,Southeast,East,2017-03-22,Orlando Magic,1.0,32.0
+317,Charlotte Hornets,Southeast,East,2017-03-24,Cleveland Cavaliers,0.0,32.0
+318,Charlotte Hornets,Southeast,East,2017-03-26,Phoenix Suns,1.0,33.0
+319,Charlotte Hornets,Southeast,East,2017-03-28,Milwaukee Bucks,0.0,33.0
+320,Charlotte Hornets,Southeast,East,2017-03-29,Toronto Raptors,1.0,34.0
+321,Charlotte Hornets,Southeast,East,2017-03-31,Denver Nuggets,1.0,35.0
+322,Charlotte Hornets,Southeast,East,2017-04-02,Oklahoma City Thunder,1.0,36.0
+323,Charlotte Hornets,Southeast,East,2017-04-04,Washington Wizards,0.0,36.0
+324,Charlotte Hornets,Southeast,East,2017-04-05,Miami Heat,0.0,36.0
+325,Charlotte Hornets,Southeast,East,2017-04-08,Boston Celtics,0.0,36.0
+326,Charlotte Hornets,Southeast,East,2017-04-10,Milwaukee Bucks,0.0,36.0
+327,Charlotte Hornets,Southeast,East,2017-04-11,Atlanta Hawks,0.0,36.0
+328,Chicago Bulls,Central,East,2016-10-27,Boston Celtics,1.0,1.0
+329,Chicago Bulls,Central,East,2016-10-29,Indiana Pacers,1.0,2.0
+330,Chicago Bulls,Central,East,2016-10-31,Brooklyn Nets,1.0,3.0
+331,Chicago Bulls,Central,East,2016-11-02,Boston Celtics,0.0,3.0
+332,Chicago Bulls,Central,East,2016-11-04,New York Knicks,0.0,3.0
+333,Chicago Bulls,Central,East,2016-11-05,Indiana Pacers,0.0,3.0
+334,Chicago Bulls,Central,East,2016-11-07,Orlando Magic,1.0,4.0
+335,Chicago Bulls,Central,East,2016-11-09,Atlanta Hawks,0.0,4.0
+336,Chicago Bulls,Central,East,2016-11-10,Miami Heat,1.0,5.0
+337,Chicago Bulls,Central,East,2016-11-12,Washington Wizards,1.0,6.0
+338,Chicago Bulls,Central,East,2016-11-15,Portland Trail Blazers,1.0,7.0
+339,Chicago Bulls,Central,East,2016-11-17,Utah Jazz,1.0,8.0
+340,Chicago Bulls,Central,East,2016-11-19,LA Clippers,0.0,8.0
+341,Chicago Bulls,Central,East,2016-11-20,Los Angeles Lakers,1.0,9.0
+342,Chicago Bulls,Central,East,2016-11-22,Denver Nuggets,0.0,9.0
+343,Chicago Bulls,Central,East,2016-11-25,Philadelphia 76ers,1.0,10.0
+344,Chicago Bulls,Central,East,2016-11-30,Los Angeles Lakers,0.0,10.0
+345,Chicago Bulls,Central,East,2016-12-02,Cleveland Cavaliers,1.0,11.0
+346,Chicago Bulls,Central,East,2016-12-03,Dallas Mavericks,0.0,11.0
+347,Chicago Bulls,Central,East,2016-12-05,Portland Trail Blazers,0.0,11.0
+348,Chicago Bulls,Central,East,2016-12-06,Detroit Pistons,0.0,11.0
+349,Chicago Bulls,Central,East,2016-12-08,San Antonio Spurs,1.0,12.0
+350,Chicago Bulls,Central,East,2016-12-10,Miami Heat,1.0,13.0
+351,Chicago Bulls,Central,East,2016-12-13,Minnesota Timberwolves,0.0,13.0
+352,Chicago Bulls,Central,East,2016-12-15,Milwaukee Bucks,0.0,13.0
+353,Chicago Bulls,Central,East,2016-12-16,Milwaukee Bucks,0.0,13.0
+354,Chicago Bulls,Central,East,2016-12-19,Detroit Pistons,1.0,14.0
+355,Chicago Bulls,Central,East,2016-12-21,Washington Wizards,0.0,14.0
+356,Chicago Bulls,Central,East,2016-12-23,Charlotte Hornets,0.0,14.0
+357,Chicago Bulls,Central,East,2016-12-25,San Antonio Spurs,0.0,14.0
+358,Chicago Bulls,Central,East,2016-12-26,Indiana Pacers,1.0,15.0
+359,Chicago Bulls,Central,East,2016-12-28,Brooklyn Nets,1.0,16.0
+360,Chicago Bulls,Central,East,2016-12-30,Indiana Pacers,0.0,16.0
+361,Chicago Bulls,Central,East,2016-12-31,Milwaukee Bucks,0.0,16.0
+362,Chicago Bulls,Central,East,2017-01-02,Charlotte Hornets,1.0,17.0
+363,Chicago Bulls,Central,East,2017-01-04,Cleveland Cavaliers,1.0,18.0
+364,Chicago Bulls,Central,East,2017-01-07,Toronto Raptors,1.0,19.0
+365,Chicago Bulls,Central,East,2017-01-09,Oklahoma City Thunder,0.0,19.0
+366,Chicago Bulls,Central,East,2017-01-10,Washington Wizards,0.0,19.0
+367,Chicago Bulls,Central,East,2017-01-12,New York Knicks,0.0,19.0
+368,Chicago Bulls,Central,East,2017-01-14,New Orleans Pelicans,1.0,20.0
+369,Chicago Bulls,Central,East,2017-01-15,Memphis Grizzlies,1.0,21.0
+370,Chicago Bulls,Central,East,2017-01-17,Dallas Mavericks,0.0,21.0
+371,Chicago Bulls,Central,East,2017-01-20,Atlanta Hawks,0.0,21.0
+372,Chicago Bulls,Central,East,2017-01-21,Sacramento Kings,1.0,22.0
+373,Chicago Bulls,Central,East,2017-01-24,Orlando Magic,1.0,23.0
+374,Chicago Bulls,Central,East,2017-01-25,Atlanta Hawks,0.0,23.0
+375,Chicago Bulls,Central,East,2017-01-27,Miami Heat,0.0,23.0
+376,Chicago Bulls,Central,East,2017-01-29,Philadelphia 76ers,1.0,24.0
+377,Chicago Bulls,Central,East,2017-02-01,Oklahoma City Thunder,1.0,25.0
+378,Chicago Bulls,Central,East,2017-02-03,Houston Rockets,0.0,25.0
+379,Chicago Bulls,Central,East,2017-02-06,Sacramento Kings,1.0,26.0
+380,Chicago Bulls,Central,East,2017-02-08,Golden State Warriors,0.0,26.0
+381,Chicago Bulls,Central,East,2017-02-10,Phoenix Suns,0.0,26.0
+382,Chicago Bulls,Central,East,2017-02-12,Minnesota Timberwolves,0.0,26.0
+383,Chicago Bulls,Central,East,2017-02-14,Toronto Raptors,1.0,27.0
+384,Chicago Bulls,Central,East,2017-02-16,Boston Celtics,1.0,28.0
+385,Chicago Bulls,Central,East,2017-02-24,Phoenix Suns,1.0,29.0
+386,Chicago Bulls,Central,East,2017-02-25,Cleveland Cavaliers,1.0,30.0
+387,Chicago Bulls,Central,East,2017-02-28,Denver Nuggets,0.0,30.0
+388,Chicago Bulls,Central,East,2017-03-02,Golden State Warriors,1.0,31.0
+389,Chicago Bulls,Central,East,2017-03-04,LA Clippers,0.0,31.0
+390,Chicago Bulls,Central,East,2017-03-06,Detroit Pistons,0.0,31.0
+391,Chicago Bulls,Central,East,2017-03-08,Orlando Magic,0.0,31.0
+392,Chicago Bulls,Central,East,2017-03-10,Houston Rockets,0.0,31.0
+393,Chicago Bulls,Central,East,2017-03-12,Boston Celtics,0.0,31.0
+394,Chicago Bulls,Central,East,2017-03-13,Charlotte Hornets,1.0,32.0
+395,Chicago Bulls,Central,East,2017-03-15,Memphis Grizzlies,0.0,32.0
+396,Chicago Bulls,Central,East,2017-03-17,Washington Wizards,0.0,32.0
+397,Chicago Bulls,Central,East,2017-03-18,Utah Jazz,1.0,33.0
+398,Chicago Bulls,Central,East,2017-03-21,Toronto Raptors,0.0,33.0
+399,Chicago Bulls,Central,East,2017-03-22,Detroit Pistons,1.0,34.0
+400,Chicago Bulls,Central,East,2017-03-24,Philadelphia 76ers,0.0,34.0
+401,Chicago Bulls,Central,East,2017-03-26,Milwaukee Bucks,1.0,35.0
+402,Chicago Bulls,Central,East,2017-03-30,Cleveland Cavaliers,1.0,36.0
+403,Chicago Bulls,Central,East,2017-04-01,Atlanta Hawks,1.0,37.0
+404,Chicago Bulls,Central,East,2017-04-02,New Orleans Pelicans,1.0,38.0
+405,Chicago Bulls,Central,East,2017-04-04,New York Knicks,0.0,38.0
+406,Chicago Bulls,Central,East,2017-04-06,Philadelphia 76ers,1.0,39.0
+407,Chicago Bulls,Central,East,2017-04-08,Brooklyn Nets,0.0,39.0
+408,Chicago Bulls,Central,East,2017-04-10,Orlando Magic,1.0,40.0
+409,Chicago Bulls,Central,East,2017-04-12,Brooklyn Nets,1.0,41.0
+410,Cleveland Cavaliers,Central,East,2016-10-25,New York Knicks,1.0,1.0
+411,Cleveland Cavaliers,Central,East,2016-10-28,Toronto Raptors,1.0,2.0
+412,Cleveland Cavaliers,Central,East,2016-10-29,Orlando Magic,1.0,3.0
+413,Cleveland Cavaliers,Central,East,2016-11-01,Houston Rockets,1.0,4.0
+414,Cleveland Cavaliers,Central,East,2016-11-03,Boston Celtics,1.0,5.0
+415,Cleveland Cavaliers,Central,East,2016-11-05,Philadelphia 76ers,1.0,6.0
+416,Cleveland Cavaliers,Central,East,2016-11-08,Atlanta Hawks,0.0,6.0
+417,Cleveland Cavaliers,Central,East,2016-11-11,Washington Wizards,1.0,7.0
+418,Cleveland Cavaliers,Central,East,2016-11-13,Charlotte Hornets,1.0,8.0
+419,Cleveland Cavaliers,Central,East,2016-11-15,Toronto Raptors,1.0,9.0
+420,Cleveland Cavaliers,Central,East,2016-11-16,Indiana Pacers,0.0,9.0
+421,Cleveland Cavaliers,Central,East,2016-11-18,Detroit Pistons,1.0,10.0
+422,Cleveland Cavaliers,Central,East,2016-11-23,Portland Trail Blazers,1.0,11.0
+423,Cleveland Cavaliers,Central,East,2016-11-25,Dallas Mavericks,1.0,12.0
+424,Cleveland Cavaliers,Central,East,2016-11-27,Philadelphia 76ers,1.0,13.0
+425,Cleveland Cavaliers,Central,East,2016-11-29,Milwaukee Bucks,0.0,13.0
+426,Cleveland Cavaliers,Central,East,2016-12-01,LA Clippers,0.0,13.0
+427,Cleveland Cavaliers,Central,East,2016-12-02,Chicago Bulls,0.0,13.0
+428,Cleveland Cavaliers,Central,East,2016-12-05,Toronto Raptors,1.0,14.0
+429,Cleveland Cavaliers,Central,East,2016-12-07,New York Knicks,1.0,15.0
+430,Cleveland Cavaliers,Central,East,2016-12-09,Miami Heat,1.0,16.0
+431,Cleveland Cavaliers,Central,East,2016-12-10,Charlotte Hornets,1.0,17.0
+432,Cleveland Cavaliers,Central,East,2016-12-13,Memphis Grizzlies,1.0,18.0
+433,Cleveland Cavaliers,Central,East,2016-12-14,Memphis Grizzlies,0.0,18.0
+434,Cleveland Cavaliers,Central,East,2016-12-17,Los Angeles Lakers,1.0,19.0
+435,Cleveland Cavaliers,Central,East,2016-12-20,Milwaukee Bucks,1.0,20.0
+436,Cleveland Cavaliers,Central,East,2016-12-21,Milwaukee Bucks,1.0,21.0
+437,Cleveland Cavaliers,Central,East,2016-12-23,Brooklyn Nets,1.0,22.0
+438,Cleveland Cavaliers,Central,East,2016-12-25,Golden State Warriors,1.0,23.0
+439,Cleveland Cavaliers,Central,East,2016-12-26,Detroit Pistons,0.0,23.0
+440,Cleveland Cavaliers,Central,East,2016-12-29,Boston Celtics,1.0,24.0
+441,Cleveland Cavaliers,Central,East,2016-12-31,Charlotte Hornets,1.0,25.0
+442,Cleveland Cavaliers,Central,East,2017-01-02,New Orleans Pelicans,1.0,26.0
+443,Cleveland Cavaliers,Central,East,2017-01-04,Chicago Bulls,0.0,26.0
+444,Cleveland Cavaliers,Central,East,2017-01-06,Brooklyn Nets,1.0,27.0
+445,Cleveland Cavaliers,Central,East,2017-01-08,Phoenix Suns,1.0,28.0
+446,Cleveland Cavaliers,Central,East,2017-01-10,Utah Jazz,0.0,28.0
+447,Cleveland Cavaliers,Central,East,2017-01-11,Portland Trail Blazers,0.0,28.0
+448,Cleveland Cavaliers,Central,East,2017-01-13,Sacramento Kings,1.0,29.0
+449,Cleveland Cavaliers,Central,East,2017-01-16,Golden State Warriors,0.0,29.0
+450,Cleveland Cavaliers,Central,East,2017-01-19,Phoenix Suns,1.0,30.0
+451,Cleveland Cavaliers,Central,East,2017-01-21,San Antonio Spurs,0.0,30.0
+452,Cleveland Cavaliers,Central,East,2017-01-23,New Orleans Pelicans,0.0,30.0
+453,Cleveland Cavaliers,Central,East,2017-01-25,Sacramento Kings,0.0,30.0
+454,Cleveland Cavaliers,Central,East,2017-01-27,Brooklyn Nets,1.0,31.0
+455,Cleveland Cavaliers,Central,East,2017-01-29,Oklahoma City Thunder,1.0,32.0
+456,Cleveland Cavaliers,Central,East,2017-01-30,Dallas Mavericks,0.0,32.0
+457,Cleveland Cavaliers,Central,East,2017-02-01,Minnesota Timberwolves,1.0,33.0
+458,Cleveland Cavaliers,Central,East,2017-02-04,New York Knicks,1.0,34.0
+459,Cleveland Cavaliers,Central,East,2017-02-06,Washington Wizards,1.0,35.0
+460,Cleveland Cavaliers,Central,East,2017-02-08,Indiana Pacers,1.0,36.0
+461,Cleveland Cavaliers,Central,East,2017-02-09,Oklahoma City Thunder,0.0,36.0
+462,Cleveland Cavaliers,Central,East,2017-02-11,Denver Nuggets,1.0,37.0
+463,Cleveland Cavaliers,Central,East,2017-02-14,Minnesota Timberwolves,1.0,38.0
+464,Cleveland Cavaliers,Central,East,2017-02-15,Indiana Pacers,1.0,39.0
+465,Cleveland Cavaliers,Central,East,2017-02-23,New York Knicks,1.0,40.0
+466,Cleveland Cavaliers,Central,East,2017-02-25,Chicago Bulls,0.0,40.0
+467,Cleveland Cavaliers,Central,East,2017-02-27,Milwaukee Bucks,1.0,41.0
+468,Cleveland Cavaliers,Central,East,2017-03-01,Boston Celtics,0.0,41.0
+469,Cleveland Cavaliers,Central,East,2017-03-03,Atlanta Hawks,1.0,42.0
+470,Cleveland Cavaliers,Central,East,2017-03-04,Miami Heat,0.0,42.0
+471,Cleveland Cavaliers,Central,East,2017-03-06,Miami Heat,0.0,42.0
+472,Cleveland Cavaliers,Central,East,2017-03-09,Detroit Pistons,0.0,42.0
+473,Cleveland Cavaliers,Central,East,2017-03-11,Orlando Magic,1.0,43.0
+474,Cleveland Cavaliers,Central,East,2017-03-12,Houston Rockets,0.0,43.0
+475,Cleveland Cavaliers,Central,East,2017-03-14,Detroit Pistons,1.0,44.0
+476,Cleveland Cavaliers,Central,East,2017-03-16,Utah Jazz,1.0,45.0
+477,Cleveland Cavaliers,Central,East,2017-03-18,LA Clippers,0.0,45.0
+478,Cleveland Cavaliers,Central,East,2017-03-19,Los Angeles Lakers,1.0,46.0
+479,Cleveland Cavaliers,Central,East,2017-03-22,Denver Nuggets,0.0,46.0
+480,Cleveland Cavaliers,Central,East,2017-03-24,Charlotte Hornets,1.0,47.0
+481,Cleveland Cavaliers,Central,East,2017-03-25,Washington Wizards,0.0,47.0
+482,Cleveland Cavaliers,Central,East,2017-03-27,San Antonio Spurs,0.0,47.0
+483,Cleveland Cavaliers,Central,East,2017-03-30,Chicago Bulls,0.0,47.0
+484,Cleveland Cavaliers,Central,East,2017-03-31,Philadelphia 76ers,1.0,48.0
+485,Cleveland Cavaliers,Central,East,2017-04-02,Indiana Pacers,1.0,49.0
+486,Cleveland Cavaliers,Central,East,2017-04-04,Orlando Magic,1.0,50.0
+487,Cleveland Cavaliers,Central,East,2017-04-05,Boston Celtics,1.0,51.0
+488,Cleveland Cavaliers,Central,East,2017-04-07,Atlanta Hawks,0.0,51.0
+489,Cleveland Cavaliers,Central,East,2017-04-09,Atlanta Hawks,0.0,51.0
+490,Cleveland Cavaliers,Central,East,2017-04-10,Miami Heat,0.0,51.0
+491,Cleveland Cavaliers,Central,East,2017-04-12,Toronto Raptors,0.0,51.0
+492,Dallas Mavericks,Southwest,West,2016-10-26,Indiana Pacers,0.0,0.0
+493,Dallas Mavericks,Southwest,West,2016-10-28,Houston Rockets,0.0,0.0
+494,Dallas Mavericks,Southwest,West,2016-10-30,Houston Rockets,0.0,0.0
+495,Dallas Mavericks,Southwest,West,2016-11-02,Utah Jazz,0.0,0.0
+496,Dallas Mavericks,Southwest,West,2016-11-04,Portland Trail Blazers,0.0,0.0
+497,Dallas Mavericks,Southwest,West,2016-11-06,Milwaukee Bucks,1.0,1.0
+498,Dallas Mavericks,Southwest,West,2016-11-08,Los Angeles Lakers,1.0,2.0
+499,Dallas Mavericks,Southwest,West,2016-11-09,Golden State Warriors,0.0,2.0
+500,Dallas Mavericks,Southwest,West,2016-11-14,New York Knicks,0.0,2.0
+501,Dallas Mavericks,Southwest,West,2016-11-16,Boston Celtics,0.0,2.0
+502,Dallas Mavericks,Southwest,West,2016-11-18,Memphis Grizzlies,0.0,2.0
+503,Dallas Mavericks,Southwest,West,2016-11-19,Orlando Magic,0.0,2.0
+504,Dallas Mavericks,Southwest,West,2016-11-21,San Antonio Spurs,0.0,2.0
+505,Dallas Mavericks,Southwest,West,2016-11-23,LA Clippers,0.0,2.0
+506,Dallas Mavericks,Southwest,West,2016-11-25,Cleveland Cavaliers,0.0,2.0
+507,Dallas Mavericks,Southwest,West,2016-11-27,New Orleans Pelicans,1.0,3.0
+508,Dallas Mavericks,Southwest,West,2016-11-30,San Antonio Spurs,0.0,3.0
+509,Dallas Mavericks,Southwest,West,2016-12-01,Charlotte Hornets,0.0,3.0
+510,Dallas Mavericks,Southwest,West,2016-12-03,Chicago Bulls,1.0,4.0
+511,Dallas Mavericks,Southwest,West,2016-12-05,Charlotte Hornets,0.0,4.0
+512,Dallas Mavericks,Southwest,West,2016-12-07,Sacramento Kings,0.0,4.0
+513,Dallas Mavericks,Southwest,West,2016-12-09,Indiana Pacers,1.0,5.0
+514,Dallas Mavericks,Southwest,West,2016-12-10,Houston Rockets,0.0,5.0
+515,Dallas Mavericks,Southwest,West,2016-12-12,Denver Nuggets,1.0,6.0
+516,Dallas Mavericks,Southwest,West,2016-12-14,Detroit Pistons,0.0,6.0
+517,Dallas Mavericks,Southwest,West,2016-12-16,Utah Jazz,0.0,6.0
+518,Dallas Mavericks,Southwest,West,2016-12-18,Sacramento Kings,1.0,7.0
+519,Dallas Mavericks,Southwest,West,2016-12-19,Denver Nuggets,0.0,7.0
+520,Dallas Mavericks,Southwest,West,2016-12-21,Portland Trail Blazers,1.0,8.0
+521,Dallas Mavericks,Southwest,West,2016-12-23,LA Clippers,1.0,9.0
+522,Dallas Mavericks,Southwest,West,2016-12-26,New Orleans Pelicans,0.0,9.0
+523,Dallas Mavericks,Southwest,West,2016-12-27,Houston Rockets,0.0,9.0
+524,Dallas Mavericks,Southwest,West,2016-12-29,Los Angeles Lakers,1.0,10.0
+525,Dallas Mavericks,Southwest,West,2016-12-30,Golden State Warriors,0.0,10.0
+526,Dallas Mavericks,Southwest,West,2017-01-03,Washington Wizards,1.0,11.0
+527,Dallas Mavericks,Southwest,West,2017-01-05,Phoenix Suns,0.0,11.0
+528,Dallas Mavericks,Southwest,West,2017-01-07,Atlanta Hawks,0.0,11.0
+529,Dallas Mavericks,Southwest,West,2017-01-09,Minnesota Timberwolves,0.0,11.0
+530,Dallas Mavericks,Southwest,West,2017-01-12,Phoenix Suns,1.0,12.0
+531,Dallas Mavericks,Southwest,West,2017-01-15,Minnesota Timberwolves,1.0,13.0
+532,Dallas Mavericks,Southwest,West,2017-01-17,Chicago Bulls,1.0,14.0
+533,Dallas Mavericks,Southwest,West,2017-01-19,Miami Heat,0.0,14.0
+534,Dallas Mavericks,Southwest,West,2017-01-20,Utah Jazz,0.0,14.0
+535,Dallas Mavericks,Southwest,West,2017-01-22,Los Angeles Lakers,1.0,15.0
+536,Dallas Mavericks,Southwest,West,2017-01-25,New York Knicks,1.0,16.0
+537,Dallas Mavericks,Southwest,West,2017-01-26,Oklahoma City Thunder,0.0,16.0
+538,Dallas Mavericks,Southwest,West,2017-01-29,San Antonio Spurs,1.0,17.0
+539,Dallas Mavericks,Southwest,West,2017-01-30,Cleveland Cavaliers,1.0,18.0
+540,Dallas Mavericks,Southwest,West,2017-02-01,Philadelphia 76ers,1.0,19.0
+541,Dallas Mavericks,Southwest,West,2017-02-03,Portland Trail Blazers,1.0,20.0
+542,Dallas Mavericks,Southwest,West,2017-02-06,Denver Nuggets,0.0,20.0
+543,Dallas Mavericks,Southwest,West,2017-02-07,Portland Trail Blazers,0.0,20.0
+544,Dallas Mavericks,Southwest,West,2017-02-09,Utah Jazz,1.0,21.0
+545,Dallas Mavericks,Southwest,West,2017-02-11,Orlando Magic,1.0,22.0
+546,Dallas Mavericks,Southwest,West,2017-02-13,Boston Celtics,0.0,22.0
+547,Dallas Mavericks,Southwest,West,2017-02-15,Detroit Pistons,0.0,22.0
+548,Dallas Mavericks,Southwest,West,2017-02-24,Minnesota Timberwolves,0.0,22.0
+549,Dallas Mavericks,Southwest,West,2017-02-25,New Orleans Pelicans,1.0,23.0
+550,Dallas Mavericks,Southwest,West,2017-02-27,Miami Heat,1.0,24.0
+551,Dallas Mavericks,Southwest,West,2017-03-01,Atlanta Hawks,0.0,24.0
+552,Dallas Mavericks,Southwest,West,2017-03-03,Memphis Grizzlies,1.0,25.0
+553,Dallas Mavericks,Southwest,West,2017-03-05,Oklahoma City Thunder,1.0,26.0
+554,Dallas Mavericks,Southwest,West,2017-03-07,Los Angeles Lakers,1.0,27.0
+555,Dallas Mavericks,Southwest,West,2017-03-10,Brooklyn Nets,1.0,28.0
+556,Dallas Mavericks,Southwest,West,2017-03-11,Phoenix Suns,0.0,28.0
+557,Dallas Mavericks,Southwest,West,2017-03-13,Toronto Raptors,0.0,28.0
+558,Dallas Mavericks,Southwest,West,2017-03-15,Washington Wizards,1.0,29.0
+559,Dallas Mavericks,Southwest,West,2017-03-17,Philadelphia 76ers,0.0,29.0
+560,Dallas Mavericks,Southwest,West,2017-03-19,Brooklyn Nets,1.0,30.0
+561,Dallas Mavericks,Southwest,West,2017-03-21,Golden State Warriors,0.0,30.0
+562,Dallas Mavericks,Southwest,West,2017-03-23,LA Clippers,1.0,31.0
+563,Dallas Mavericks,Southwest,West,2017-03-25,Toronto Raptors,0.0,31.0
+564,Dallas Mavericks,Southwest,West,2017-03-27,Oklahoma City Thunder,0.0,31.0
+565,Dallas Mavericks,Southwest,West,2017-03-29,New Orleans Pelicans,0.0,31.0
+566,Dallas Mavericks,Southwest,West,2017-03-31,Memphis Grizzlies,0.0,31.0
+567,Dallas Mavericks,Southwest,West,2017-04-02,Milwaukee Bucks,1.0,32.0
+568,Dallas Mavericks,Southwest,West,2017-04-04,Sacramento Kings,0.0,32.0
+569,Dallas Mavericks,Southwest,West,2017-04-05,LA Clippers,0.0,32.0
+570,Dallas Mavericks,Southwest,West,2017-04-07,San Antonio Spurs,0.0,32.0
+571,Dallas Mavericks,Southwest,West,2017-04-09,Phoenix Suns,0.0,32.0
+572,Dallas Mavericks,Southwest,West,2017-04-11,Denver Nuggets,0.0,32.0
+573,Dallas Mavericks,Southwest,West,2017-04-12,Memphis Grizzlies,1.0,33.0
+574,Denver Nuggets,Northwest,West,2016-10-26,New Orleans Pelicans,1.0,1.0
+575,Denver Nuggets,Northwest,West,2016-10-29,Portland Trail Blazers,0.0,1.0
+576,Denver Nuggets,Northwest,West,2016-10-31,Toronto Raptors,0.0,1.0
+577,Denver Nuggets,Northwest,West,2016-11-03,Minnesota Timberwolves,1.0,2.0
+578,Denver Nuggets,Northwest,West,2016-11-05,Detroit Pistons,0.0,2.0
+579,Denver Nuggets,Northwest,West,2016-11-06,Boston Celtics,1.0,3.0
+580,Denver Nuggets,Northwest,West,2016-11-08,Memphis Grizzlies,0.0,3.0
+581,Denver Nuggets,Northwest,West,2016-11-10,Golden State Warriors,0.0,3.0
+582,Denver Nuggets,Northwest,West,2016-11-12,Detroit Pistons,0.0,3.0
+583,Denver Nuggets,Northwest,West,2016-11-13,Portland Trail Blazers,0.0,3.0
+584,Denver Nuggets,Northwest,West,2016-11-16,Phoenix Suns,1.0,4.0
+585,Denver Nuggets,Northwest,West,2016-11-18,Toronto Raptors,0.0,4.0
+586,Denver Nuggets,Northwest,West,2016-11-20,Utah Jazz,1.0,5.0
+587,Denver Nuggets,Northwest,West,2016-11-22,Chicago Bulls,1.0,6.0
+588,Denver Nuggets,Northwest,West,2016-11-23,Utah Jazz,0.0,6.0
+589,Denver Nuggets,Northwest,West,2016-11-25,Oklahoma City Thunder,0.0,6.0
+590,Denver Nuggets,Northwest,West,2016-11-27,Phoenix Suns,1.0,7.0
+591,Denver Nuggets,Northwest,West,2016-11-30,Miami Heat,0.0,7.0
+592,Denver Nuggets,Northwest,West,2016-12-02,Houston Rockets,0.0,7.0
+593,Denver Nuggets,Northwest,West,2016-12-03,Utah Jazz,0.0,7.0
+594,Denver Nuggets,Northwest,West,2016-12-05,Philadelphia 76ers,1.0,8.0
+595,Denver Nuggets,Northwest,West,2016-12-07,Brooklyn Nets,0.0,8.0
+596,Denver Nuggets,Northwest,West,2016-12-08,Washington Wizards,0.0,8.0
+597,Denver Nuggets,Northwest,West,2016-12-10,Orlando Magic,1.0,9.0
+598,Denver Nuggets,Northwest,West,2016-12-12,Dallas Mavericks,0.0,9.0
+599,Denver Nuggets,Northwest,West,2016-12-15,Portland Trail Blazers,1.0,10.0
+600,Denver Nuggets,Northwest,West,2016-12-17,New York Knicks,1.0,11.0
+601,Denver Nuggets,Northwest,West,2016-12-19,Dallas Mavericks,1.0,12.0
+602,Denver Nuggets,Northwest,West,2016-12-20,LA Clippers,0.0,12.0
+603,Denver Nuggets,Northwest,West,2016-12-23,Atlanta Hawks,0.0,12.0
+604,Denver Nuggets,Northwest,West,2016-12-26,LA Clippers,1.0,13.0
+605,Denver Nuggets,Northwest,West,2016-12-28,Minnesota Timberwolves,1.0,14.0
+606,Denver Nuggets,Northwest,West,2016-12-30,Philadelphia 76ers,0.0,14.0
+607,Denver Nuggets,Northwest,West,2017-01-02,Golden State Warriors,0.0,14.0
+608,Denver Nuggets,Northwest,West,2017-01-03,Sacramento Kings,0.0,14.0
+609,Denver Nuggets,Northwest,West,2017-01-05,San Antonio Spurs,0.0,14.0
+610,Denver Nuggets,Northwest,West,2017-01-07,Oklahoma City Thunder,0.0,14.0
+611,Denver Nuggets,Northwest,West,2017-01-12,Indiana Pacers,1.0,15.0
+612,Denver Nuggets,Northwest,West,2017-01-16,Orlando Magic,1.0,16.0
+613,Denver Nuggets,Northwest,West,2017-01-17,Los Angeles Lakers,1.0,17.0
+614,Denver Nuggets,Northwest,West,2017-01-19,San Antonio Spurs,0.0,17.0
+615,Denver Nuggets,Northwest,West,2017-01-21,LA Clippers,1.0,18.0
+616,Denver Nuggets,Northwest,West,2017-01-22,Minnesota Timberwolves,0.0,18.0
+617,Denver Nuggets,Northwest,West,2017-01-24,Utah Jazz,1.0,19.0
+618,Denver Nuggets,Northwest,West,2017-01-26,Phoenix Suns,1.0,20.0
+619,Denver Nuggets,Northwest,West,2017-01-28,Phoenix Suns,1.0,21.0
+620,Denver Nuggets,Northwest,West,2017-01-31,Los Angeles Lakers,0.0,21.0
+621,Denver Nuggets,Northwest,West,2017-02-01,Memphis Grizzlies,0.0,21.0
+622,Denver Nuggets,Northwest,West,2017-02-03,Milwaukee Bucks,1.0,22.0
+623,Denver Nuggets,Northwest,West,2017-02-04,San Antonio Spurs,0.0,22.0
+624,Denver Nuggets,Northwest,West,2017-02-06,Dallas Mavericks,1.0,23.0
+625,Denver Nuggets,Northwest,West,2017-02-08,Atlanta Hawks,0.0,23.0
+626,Denver Nuggets,Northwest,West,2017-02-10,New York Knicks,1.0,24.0
+627,Denver Nuggets,Northwest,West,2017-02-11,Cleveland Cavaliers,0.0,24.0
+628,Denver Nuggets,Northwest,West,2017-02-13,Golden State Warriors,1.0,25.0
+629,Denver Nuggets,Northwest,West,2017-02-15,Minnesota Timberwolves,0.0,25.0
+630,Denver Nuggets,Northwest,West,2017-02-23,Sacramento Kings,0.0,25.0
+631,Denver Nuggets,Northwest,West,2017-02-24,Brooklyn Nets,1.0,26.0
+632,Denver Nuggets,Northwest,West,2017-02-26,Memphis Grizzlies,0.0,26.0
+633,Denver Nuggets,Northwest,West,2017-02-28,Chicago Bulls,1.0,27.0
+634,Denver Nuggets,Northwest,West,2017-03-01,Milwaukee Bucks,1.0,28.0
+635,Denver Nuggets,Northwest,West,2017-03-04,Charlotte Hornets,0.0,28.0
+636,Denver Nuggets,Northwest,West,2017-03-06,Sacramento Kings,1.0,29.0
+637,Denver Nuggets,Northwest,West,2017-03-08,Washington Wizards,0.0,29.0
+638,Denver Nuggets,Northwest,West,2017-03-10,Boston Celtics,1.0,30.0
+639,Denver Nuggets,Northwest,West,2017-03-11,Sacramento Kings,1.0,31.0
+640,Denver Nuggets,Northwest,West,2017-03-13,Los Angeles Lakers,1.0,32.0
+641,Denver Nuggets,Northwest,West,2017-03-16,LA Clippers,1.0,33.0
+642,Denver Nuggets,Northwest,West,2017-03-18,Houston Rockets,0.0,33.0
+643,Denver Nuggets,Northwest,West,2017-03-20,Houston Rockets,0.0,33.0
+644,Denver Nuggets,Northwest,West,2017-03-22,Cleveland Cavaliers,1.0,34.0
+645,Denver Nuggets,Northwest,West,2017-03-24,Indiana Pacers,1.0,35.0
+646,Denver Nuggets,Northwest,West,2017-03-26,New Orleans Pelicans,0.0,35.0
+647,Denver Nuggets,Northwest,West,2017-03-28,Portland Trail Blazers,0.0,35.0
+648,Denver Nuggets,Northwest,West,2017-03-31,Charlotte Hornets,0.0,35.0
+649,Denver Nuggets,Northwest,West,2017-04-02,Miami Heat,1.0,36.0
+650,Denver Nuggets,Northwest,West,2017-04-04,New Orleans Pelicans,1.0,37.0
+651,Denver Nuggets,Northwest,West,2017-04-05,Houston Rockets,0.0,37.0
+652,Denver Nuggets,Northwest,West,2017-04-07,New Orleans Pelicans,1.0,38.0
+653,Denver Nuggets,Northwest,West,2017-04-09,Oklahoma City Thunder,0.0,38.0
+654,Denver Nuggets,Northwest,West,2017-04-11,Dallas Mavericks,1.0,39.0
+655,Denver Nuggets,Northwest,West,2017-04-12,Oklahoma City Thunder,1.0,40.0
+656,Detroit Pistons,Central,East,2016-10-26,Toronto Raptors,0.0,0.0
+657,Detroit Pistons,Central,East,2016-10-28,Orlando Magic,1.0,1.0
+658,Detroit Pistons,Central,East,2016-10-30,Milwaukee Bucks,1.0,2.0
+659,Detroit Pistons,Central,East,2016-11-01,New York Knicks,1.0,3.0
+660,Detroit Pistons,Central,East,2016-11-02,Brooklyn Nets,0.0,3.0
+661,Detroit Pistons,Central,East,2016-11-05,Denver Nuggets,1.0,4.0
+662,Detroit Pistons,Central,East,2016-11-07,LA Clippers,0.0,4.0
+663,Detroit Pistons,Central,East,2016-11-09,Phoenix Suns,0.0,4.0
+664,Detroit Pistons,Central,East,2016-11-11,San Antonio Spurs,0.0,4.0
+665,Detroit Pistons,Central,East,2016-11-12,Denver Nuggets,1.0,5.0
+666,Detroit Pistons,Central,East,2016-11-14,Oklahoma City Thunder,1.0,6.0
+667,Detroit Pistons,Central,East,2016-11-16,New York Knicks,0.0,6.0
+668,Detroit Pistons,Central,East,2016-11-18,Cleveland Cavaliers,0.0,6.0
+669,Detroit Pistons,Central,East,2016-11-19,Boston Celtics,0.0,6.0
+670,Detroit Pistons,Central,East,2016-11-21,Houston Rockets,0.0,6.0
+671,Detroit Pistons,Central,East,2016-11-23,Miami Heat,1.0,7.0
+672,Detroit Pistons,Central,East,2016-11-25,LA Clippers,1.0,8.0
+673,Detroit Pistons,Central,East,2016-11-26,Oklahoma City Thunder,0.0,8.0
+674,Detroit Pistons,Central,East,2016-11-29,Charlotte Hornets,1.0,9.0
+675,Detroit Pistons,Central,East,2016-11-30,Boston Celtics,1.0,10.0
+676,Detroit Pistons,Central,East,2016-12-02,Atlanta Hawks,1.0,11.0
+677,Detroit Pistons,Central,East,2016-12-04,Orlando Magic,0.0,11.0
+678,Detroit Pistons,Central,East,2016-12-06,Chicago Bulls,1.0,12.0
+679,Detroit Pistons,Central,East,2016-12-07,Charlotte Hornets,0.0,12.0
+680,Detroit Pistons,Central,East,2016-12-09,Minnesota Timberwolves,1.0,13.0
+681,Detroit Pistons,Central,East,2016-12-11,Philadelphia 76ers,0.0,13.0
+682,Detroit Pistons,Central,East,2016-12-14,Dallas Mavericks,1.0,14.0
+683,Detroit Pistons,Central,East,2016-12-16,Washington Wizards,0.0,14.0
+684,Detroit Pistons,Central,East,2016-12-17,Indiana Pacers,0.0,14.0
+685,Detroit Pistons,Central,East,2016-12-19,Chicago Bulls,0.0,14.0
+686,Detroit Pistons,Central,East,2016-12-21,Memphis Grizzlies,0.0,14.0
+687,Detroit Pistons,Central,East,2016-12-23,Golden State Warriors,0.0,14.0
+688,Detroit Pistons,Central,East,2016-12-26,Cleveland Cavaliers,1.0,15.0
+689,Detroit Pistons,Central,East,2016-12-28,Milwaukee Bucks,0.0,15.0
+690,Detroit Pistons,Central,East,2016-12-30,Atlanta Hawks,0.0,15.0
+691,Detroit Pistons,Central,East,2017-01-01,Miami Heat,1.0,16.0
+692,Detroit Pistons,Central,East,2017-01-03,Indiana Pacers,0.0,16.0
+693,Detroit Pistons,Central,East,2017-01-05,Charlotte Hornets,1.0,17.0
+694,Detroit Pistons,Central,East,2017-01-08,Portland Trail Blazers,1.0,18.0
+695,Detroit Pistons,Central,East,2017-01-10,Sacramento Kings,0.0,18.0
+696,Detroit Pistons,Central,East,2017-01-12,Golden State Warriors,0.0,18.0
+697,Detroit Pistons,Central,East,2017-01-13,Utah Jazz,0.0,18.0
+698,Detroit Pistons,Central,East,2017-01-15,Los Angeles Lakers,1.0,19.0
+699,Detroit Pistons,Central,East,2017-01-18,Atlanta Hawks,1.0,20.0
+700,Detroit Pistons,Central,East,2017-01-21,Washington Wizards,1.0,21.0
+701,Detroit Pistons,Central,East,2017-01-23,Sacramento Kings,0.0,21.0
+702,Detroit Pistons,Central,East,2017-01-28,Miami Heat,0.0,21.0
+703,Detroit Pistons,Central,East,2017-01-30,Boston Celtics,0.0,21.0
+704,Detroit Pistons,Central,East,2017-02-01,New Orleans Pelicans,1.0,22.0
+705,Detroit Pistons,Central,East,2017-02-03,Minnesota Timberwolves,1.0,23.0
+706,Detroit Pistons,Central,East,2017-02-04,Indiana Pacers,0.0,23.0
+707,Detroit Pistons,Central,East,2017-02-06,Philadelphia 76ers,1.0,24.0
+708,Detroit Pistons,Central,East,2017-02-08,Los Angeles Lakers,1.0,25.0
+709,Detroit Pistons,Central,East,2017-02-10,San Antonio Spurs,0.0,25.0
+710,Detroit Pistons,Central,East,2017-02-12,Toronto Raptors,1.0,26.0
+711,Detroit Pistons,Central,East,2017-02-13,Milwaukee Bucks,0.0,26.0
+712,Detroit Pistons,Central,East,2017-02-15,Dallas Mavericks,1.0,27.0
+713,Detroit Pistons,Central,East,2017-02-23,Charlotte Hornets,1.0,28.0
+714,Detroit Pistons,Central,East,2017-02-26,Boston Celtics,0.0,28.0
+715,Detroit Pistons,Central,East,2017-02-28,Portland Trail Blazers,1.0,29.0
+716,Detroit Pistons,Central,East,2017-03-01,New Orleans Pelicans,0.0,29.0
+717,Detroit Pistons,Central,East,2017-03-04,Philadelphia 76ers,1.0,30.0
+718,Detroit Pistons,Central,East,2017-03-06,Chicago Bulls,1.0,31.0
+719,Detroit Pistons,Central,East,2017-03-08,Indiana Pacers,0.0,31.0
+720,Detroit Pistons,Central,East,2017-03-09,Cleveland Cavaliers,1.0,32.0
+721,Detroit Pistons,Central,East,2017-03-11,New York Knicks,1.0,33.0
+722,Detroit Pistons,Central,East,2017-03-14,Cleveland Cavaliers,0.0,33.0
+723,Detroit Pistons,Central,East,2017-03-15,Utah Jazz,0.0,33.0
+724,Detroit Pistons,Central,East,2017-03-17,Toronto Raptors,0.0,33.0
+725,Detroit Pistons,Central,East,2017-03-19,Phoenix Suns,1.0,34.0
+726,Detroit Pistons,Central,East,2017-03-21,Brooklyn Nets,0.0,34.0
+727,Detroit Pistons,Central,East,2017-03-22,Chicago Bulls,0.0,34.0
+728,Detroit Pistons,Central,East,2017-03-24,Orlando Magic,0.0,34.0
+729,Detroit Pistons,Central,East,2017-03-27,New York Knicks,0.0,34.0
+730,Detroit Pistons,Central,East,2017-03-28,Miami Heat,0.0,34.0
+731,Detroit Pistons,Central,East,2017-03-30,Brooklyn Nets,1.0,35.0
+732,Detroit Pistons,Central,East,2017-03-31,Milwaukee Bucks,0.0,35.0
+733,Detroit Pistons,Central,East,2017-04-05,Toronto Raptors,0.0,35.0
+734,Detroit Pistons,Central,East,2017-04-07,Houston Rockets,1.0,36.0
+735,Detroit Pistons,Central,East,2017-04-09,Memphis Grizzlies,1.0,37.0
+736,Detroit Pistons,Central,East,2017-04-10,Washington Wizards,0.0,37.0
+737,Detroit Pistons,Central,East,2017-04-12,Orlando Magic,0.0,37.0
+738,Golden State Warriors,Pacific,West,2016-10-25,San Antonio Spurs,0.0,0.0
+739,Golden State Warriors,Pacific,West,2016-10-28,New Orleans Pelicans,1.0,1.0
+740,Golden State Warriors,Pacific,West,2016-10-30,Phoenix Suns,1.0,2.0
+741,Golden State Warriors,Pacific,West,2016-11-01,Portland Trail Blazers,1.0,3.0
+742,Golden State Warriors,Pacific,West,2016-11-03,Oklahoma City Thunder,1.0,4.0
+743,Golden State Warriors,Pacific,West,2016-11-04,Los Angeles Lakers,0.0,4.0
+744,Golden State Warriors,Pacific,West,2016-11-07,New Orleans Pelicans,1.0,5.0
+745,Golden State Warriors,Pacific,West,2016-11-09,Dallas Mavericks,1.0,6.0
+746,Golden State Warriors,Pacific,West,2016-11-10,Denver Nuggets,1.0,7.0
+747,Golden State Warriors,Pacific,West,2016-11-13,Phoenix Suns,1.0,8.0
+748,Golden State Warriors,Pacific,West,2016-11-16,Toronto Raptors,1.0,9.0
+749,Golden State Warriors,Pacific,West,2016-11-18,Boston Celtics,1.0,10.0
+750,Golden State Warriors,Pacific,West,2016-11-19,Milwaukee Bucks,1.0,11.0
+751,Golden State Warriors,Pacific,West,2016-11-21,Indiana Pacers,1.0,12.0
+752,Golden State Warriors,Pacific,West,2016-11-23,Los Angeles Lakers,1.0,13.0
+753,Golden State Warriors,Pacific,West,2016-11-25,Los Angeles Lakers,1.0,14.0
+754,Golden State Warriors,Pacific,West,2016-11-26,Minnesota Timberwolves,1.0,15.0
+755,Golden State Warriors,Pacific,West,2016-11-28,Atlanta Hawks,1.0,16.0
+756,Golden State Warriors,Pacific,West,2016-12-01,Houston Rockets,0.0,16.0
+757,Golden State Warriors,Pacific,West,2016-12-03,Phoenix Suns,1.0,17.0
+758,Golden State Warriors,Pacific,West,2016-12-05,Indiana Pacers,1.0,18.0
+759,Golden State Warriors,Pacific,West,2016-12-07,LA Clippers,1.0,19.0
+760,Golden State Warriors,Pacific,West,2016-12-08,Utah Jazz,1.0,20.0
+761,Golden State Warriors,Pacific,West,2016-12-10,Memphis Grizzlies,0.0,20.0
+762,Golden State Warriors,Pacific,West,2016-12-11,Minnesota Timberwolves,1.0,21.0
+763,Golden State Warriors,Pacific,West,2016-12-13,New Orleans Pelicans,1.0,22.0
+764,Golden State Warriors,Pacific,West,2016-12-15,New York Knicks,1.0,23.0
+765,Golden State Warriors,Pacific,West,2016-12-17,Portland Trail Blazers,1.0,24.0
+766,Golden State Warriors,Pacific,West,2016-12-20,Utah Jazz,1.0,25.0
+767,Golden State Warriors,Pacific,West,2016-12-22,Brooklyn Nets,1.0,26.0
+768,Golden State Warriors,Pacific,West,2016-12-23,Detroit Pistons,1.0,27.0
+769,Golden State Warriors,Pacific,West,2016-12-25,Cleveland Cavaliers,0.0,27.0
+770,Golden State Warriors,Pacific,West,2016-12-28,Toronto Raptors,1.0,28.0
+771,Golden State Warriors,Pacific,West,2016-12-30,Dallas Mavericks,1.0,29.0
+772,Golden State Warriors,Pacific,West,2017-01-02,Denver Nuggets,1.0,30.0
+773,Golden State Warriors,Pacific,West,2017-01-04,Portland Trail Blazers,1.0,31.0
+774,Golden State Warriors,Pacific,West,2017-01-06,Memphis Grizzlies,0.0,31.0
+775,Golden State Warriors,Pacific,West,2017-01-08,Sacramento Kings,1.0,32.0
+776,Golden State Warriors,Pacific,West,2017-01-10,Miami Heat,1.0,33.0
+777,Golden State Warriors,Pacific,West,2017-01-12,Detroit Pistons,1.0,34.0
+778,Golden State Warriors,Pacific,West,2017-01-16,Cleveland Cavaliers,1.0,35.0
+779,Golden State Warriors,Pacific,West,2017-01-18,Oklahoma City Thunder,1.0,36.0
+780,Golden State Warriors,Pacific,West,2017-01-20,Houston Rockets,1.0,37.0
+781,Golden State Warriors,Pacific,West,2017-01-22,Orlando Magic,1.0,38.0
+782,Golden State Warriors,Pacific,West,2017-01-23,Miami Heat,0.0,38.0
+783,Golden State Warriors,Pacific,West,2017-01-25,Charlotte Hornets,1.0,39.0
+784,Golden State Warriors,Pacific,West,2017-01-28,LA Clippers,1.0,40.0
+785,Golden State Warriors,Pacific,West,2017-01-29,Portland Trail Blazers,1.0,41.0
+786,Golden State Warriors,Pacific,West,2017-02-01,Charlotte Hornets,1.0,42.0
+787,Golden State Warriors,Pacific,West,2017-02-02,LA Clippers,1.0,43.0
+788,Golden State Warriors,Pacific,West,2017-02-04,Sacramento Kings,0.0,43.0
+789,Golden State Warriors,Pacific,West,2017-02-08,Chicago Bulls,1.0,44.0
+790,Golden State Warriors,Pacific,West,2017-02-10,Memphis Grizzlies,1.0,45.0
+791,Golden State Warriors,Pacific,West,2017-02-11,Oklahoma City Thunder,1.0,46.0
+792,Golden State Warriors,Pacific,West,2017-02-13,Denver Nuggets,0.0,46.0
+793,Golden State Warriors,Pacific,West,2017-02-15,Sacramento Kings,1.0,47.0
+794,Golden State Warriors,Pacific,West,2017-02-23,LA Clippers,1.0,48.0
+795,Golden State Warriors,Pacific,West,2017-02-25,Brooklyn Nets,1.0,49.0
+796,Golden State Warriors,Pacific,West,2017-02-27,Philadelphia 76ers,1.0,50.0
+797,Golden State Warriors,Pacific,West,2017-02-28,Washington Wizards,0.0,50.0
+798,Golden State Warriors,Pacific,West,2017-03-02,Chicago Bulls,0.0,50.0
+799,Golden State Warriors,Pacific,West,2017-03-05,New York Knicks,1.0,51.0
+800,Golden State Warriors,Pacific,West,2017-03-06,Atlanta Hawks,1.0,52.0
+801,Golden State Warriors,Pacific,West,2017-03-08,Boston Celtics,0.0,52.0
+802,Golden State Warriors,Pacific,West,2017-03-10,Minnesota Timberwolves,0.0,52.0
+803,Golden State Warriors,Pacific,West,2017-03-11,San Antonio Spurs,0.0,52.0
+804,Golden State Warriors,Pacific,West,2017-03-14,Philadelphia 76ers,1.0,53.0
+805,Golden State Warriors,Pacific,West,2017-03-16,Orlando Magic,1.0,54.0
+806,Golden State Warriors,Pacific,West,2017-03-18,Milwaukee Bucks,1.0,55.0
+807,Golden State Warriors,Pacific,West,2017-03-20,Oklahoma City Thunder,1.0,56.0
+808,Golden State Warriors,Pacific,West,2017-03-21,Dallas Mavericks,1.0,57.0
+809,Golden State Warriors,Pacific,West,2017-03-24,Sacramento Kings,1.0,58.0
+810,Golden State Warriors,Pacific,West,2017-03-26,Memphis Grizzlies,1.0,59.0
+811,Golden State Warriors,Pacific,West,2017-03-28,Houston Rockets,1.0,60.0
+812,Golden State Warriors,Pacific,West,2017-03-29,San Antonio Spurs,1.0,61.0
+813,Golden State Warriors,Pacific,West,2017-03-31,Houston Rockets,1.0,62.0
+814,Golden State Warriors,Pacific,West,2017-04-02,Washington Wizards,1.0,63.0
+815,Golden State Warriors,Pacific,West,2017-04-04,Minnesota Timberwolves,1.0,64.0
+816,Golden State Warriors,Pacific,West,2017-04-05,Phoenix Suns,1.0,65.0
+817,Golden State Warriors,Pacific,West,2017-04-08,New Orleans Pelicans,1.0,66.0
+818,Golden State Warriors,Pacific,West,2017-04-10,Utah Jazz,0.0,66.0
+819,Golden State Warriors,Pacific,West,2017-04-12,Los Angeles Lakers,1.0,67.0
+820,Houston Rockets,Southwest,West,2016-10-26,Los Angeles Lakers,0.0,0.0
+821,Houston Rockets,Southwest,West,2016-10-28,Dallas Mavericks,1.0,1.0
+822,Houston Rockets,Southwest,West,2016-10-30,Dallas Mavericks,1.0,2.0
+823,Houston Rockets,Southwest,West,2016-11-01,Cleveland Cavaliers,0.0,2.0
+824,Houston Rockets,Southwest,West,2016-11-02,New York Knicks,1.0,3.0
+825,Houston Rockets,Southwest,West,2016-11-05,Atlanta Hawks,0.0,3.0
+826,Houston Rockets,Southwest,West,2016-11-07,Washington Wizards,1.0,4.0
+827,Houston Rockets,Southwest,West,2016-11-09,San Antonio Spurs,1.0,5.0
+828,Houston Rockets,Southwest,West,2016-11-12,San Antonio Spurs,0.0,5.0
+829,Houston Rockets,Southwest,West,2016-11-14,Philadelphia 76ers,1.0,6.0
+830,Houston Rockets,Southwest,West,2016-11-16,Oklahoma City Thunder,0.0,6.0
+831,Houston Rockets,Southwest,West,2016-11-17,Portland Trail Blazers,1.0,7.0
+832,Houston Rockets,Southwest,West,2016-11-19,Utah Jazz,1.0,8.0
+833,Houston Rockets,Southwest,West,2016-11-21,Detroit Pistons,1.0,9.0
+834,Houston Rockets,Southwest,West,2016-11-23,Toronto Raptors,0.0,9.0
+835,Houston Rockets,Southwest,West,2016-11-25,Sacramento Kings,1.0,10.0
+836,Houston Rockets,Southwest,West,2016-11-27,Portland Trail Blazers,1.0,11.0
+837,Houston Rockets,Southwest,West,2016-11-29,Utah Jazz,0.0,11.0
+838,Houston Rockets,Southwest,West,2016-12-01,Golden State Warriors,1.0,12.0
+839,Houston Rockets,Southwest,West,2016-12-02,Denver Nuggets,1.0,13.0
+840,Houston Rockets,Southwest,West,2016-12-05,Boston Celtics,1.0,14.0
+841,Houston Rockets,Southwest,West,2016-12-07,Los Angeles Lakers,1.0,15.0
+842,Houston Rockets,Southwest,West,2016-12-09,Oklahoma City Thunder,1.0,16.0
+843,Houston Rockets,Southwest,West,2016-12-10,Dallas Mavericks,1.0,17.0
+844,Houston Rockets,Southwest,West,2016-12-12,Brooklyn Nets,1.0,18.0
+845,Houston Rockets,Southwest,West,2016-12-14,Sacramento Kings,1.0,19.0
+846,Houston Rockets,Southwest,West,2016-12-16,New Orleans Pelicans,1.0,20.0
+847,Houston Rockets,Southwest,West,2016-12-17,Minnesota Timberwolves,1.0,21.0
+848,Houston Rockets,Southwest,West,2016-12-20,San Antonio Spurs,0.0,21.0
+849,Houston Rockets,Southwest,West,2016-12-21,Phoenix Suns,1.0,22.0
+850,Houston Rockets,Southwest,West,2016-12-23,Memphis Grizzlies,0.0,22.0
+851,Houston Rockets,Southwest,West,2016-12-26,Phoenix Suns,1.0,23.0
+852,Houston Rockets,Southwest,West,2016-12-27,Dallas Mavericks,1.0,24.0
+853,Houston Rockets,Southwest,West,2016-12-30,LA Clippers,1.0,25.0
+854,Houston Rockets,Southwest,West,2016-12-31,New York Knicks,1.0,26.0
+855,Houston Rockets,Southwest,West,2017-01-02,Washington Wizards,1.0,27.0
+856,Houston Rockets,Southwest,West,2017-01-05,Oklahoma City Thunder,1.0,28.0
+857,Houston Rockets,Southwest,West,2017-01-06,Orlando Magic,1.0,29.0
+858,Houston Rockets,Southwest,West,2017-01-08,Toronto Raptors,1.0,30.0
+859,Houston Rockets,Southwest,West,2017-01-10,Charlotte Hornets,1.0,31.0
+860,Houston Rockets,Southwest,West,2017-01-11,Minnesota Timberwolves,0.0,31.0
+861,Houston Rockets,Southwest,West,2017-01-13,Memphis Grizzlies,0.0,31.0
+862,Houston Rockets,Southwest,West,2017-01-15,Brooklyn Nets,1.0,32.0
+863,Houston Rockets,Southwest,West,2017-01-17,Miami Heat,0.0,32.0
+864,Houston Rockets,Southwest,West,2017-01-18,Milwaukee Bucks,1.0,33.0
+865,Houston Rockets,Southwest,West,2017-01-20,Golden State Warriors,0.0,33.0
+866,Houston Rockets,Southwest,West,2017-01-21,Memphis Grizzlies,1.0,34.0
+867,Houston Rockets,Southwest,West,2017-01-23,Milwaukee Bucks,0.0,34.0
+868,Houston Rockets,Southwest,West,2017-01-25,Boston Celtics,0.0,34.0
+869,Houston Rockets,Southwest,West,2017-01-27,Philadelphia 76ers,1.0,35.0
+870,Houston Rockets,Southwest,West,2017-01-29,Indiana Pacers,0.0,35.0
+871,Houston Rockets,Southwest,West,2017-01-31,Sacramento Kings,1.0,36.0
+872,Houston Rockets,Southwest,West,2017-02-02,Atlanta Hawks,0.0,36.0
+873,Houston Rockets,Southwest,West,2017-02-03,Chicago Bulls,1.0,37.0
+874,Houston Rockets,Southwest,West,2017-02-07,Orlando Magic,1.0,38.0
+875,Houston Rockets,Southwest,West,2017-02-09,Charlotte Hornets,1.0,39.0
+876,Houston Rockets,Southwest,West,2017-02-11,Phoenix Suns,1.0,40.0
+877,Houston Rockets,Southwest,West,2017-02-15,Miami Heat,0.0,40.0
+878,Houston Rockets,Southwest,West,2017-02-23,New Orleans Pelicans,1.0,41.0
+879,Houston Rockets,Southwest,West,2017-02-25,Minnesota Timberwolves,1.0,42.0
+880,Houston Rockets,Southwest,West,2017-02-27,Indiana Pacers,0.0,42.0
+881,Houston Rockets,Southwest,West,2017-03-01,LA Clippers,1.0,43.0
+882,Houston Rockets,Southwest,West,2017-03-04,Memphis Grizzlies,1.0,44.0
+883,Houston Rockets,Southwest,West,2017-03-06,San Antonio Spurs,0.0,44.0
+884,Houston Rockets,Southwest,West,2017-03-08,Utah Jazz,0.0,44.0
+885,Houston Rockets,Southwest,West,2017-03-10,Chicago Bulls,1.0,45.0
+886,Houston Rockets,Southwest,West,2017-03-12,Cleveland Cavaliers,1.0,46.0
+887,Houston Rockets,Southwest,West,2017-03-15,Los Angeles Lakers,1.0,47.0
+888,Houston Rockets,Southwest,West,2017-03-17,New Orleans Pelicans,0.0,47.0
+889,Houston Rockets,Southwest,West,2017-03-18,Denver Nuggets,1.0,48.0
+890,Houston Rockets,Southwest,West,2017-03-20,Denver Nuggets,1.0,49.0
+891,Houston Rockets,Southwest,West,2017-03-24,New Orleans Pelicans,1.0,50.0
+892,Houston Rockets,Southwest,West,2017-03-26,Oklahoma City Thunder,1.0,51.0
+893,Houston Rockets,Southwest,West,2017-03-28,Golden State Warriors,0.0,51.0
+894,Houston Rockets,Southwest,West,2017-03-30,Portland Trail Blazers,0.0,51.0
+895,Houston Rockets,Southwest,West,2017-03-31,Golden State Warriors,0.0,51.0
+896,Houston Rockets,Southwest,West,2017-04-02,Phoenix Suns,1.0,52.0
+897,Houston Rockets,Southwest,West,2017-04-05,Denver Nuggets,1.0,53.0
+898,Houston Rockets,Southwest,West,2017-04-07,Detroit Pistons,0.0,53.0
+899,Houston Rockets,Southwest,West,2017-04-09,Sacramento Kings,1.0,54.0
+900,Houston Rockets,Southwest,West,2017-04-10,LA Clippers,0.0,54.0
+901,Houston Rockets,Southwest,West,2017-04-12,Minnesota Timberwolves,1.0,55.0
+902,Indiana Pacers,Central,East,2016-10-26,Dallas Mavericks,1.0,1.0
+903,Indiana Pacers,Central,East,2016-10-28,Brooklyn Nets,0.0,1.0
+904,Indiana Pacers,Central,East,2016-10-29,Chicago Bulls,0.0,1.0
+905,Indiana Pacers,Central,East,2016-11-01,Los Angeles Lakers,1.0,2.0
+906,Indiana Pacers,Central,East,2016-11-03,Milwaukee Bucks,0.0,2.0
+907,Indiana Pacers,Central,East,2016-11-05,Chicago Bulls,1.0,3.0
+908,Indiana Pacers,Central,East,2016-11-07,Charlotte Hornets,0.0,3.0
+909,Indiana Pacers,Central,East,2016-11-09,Philadelphia 76ers,1.0,4.0
+910,Indiana Pacers,Central,East,2016-11-11,Philadelphia 76ers,0.0,4.0
+911,Indiana Pacers,Central,East,2016-11-12,Boston Celtics,0.0,4.0
+912,Indiana Pacers,Central,East,2016-11-14,Orlando Magic,1.0,5.0
+913,Indiana Pacers,Central,East,2016-11-16,Cleveland Cavaliers,1.0,6.0
+914,Indiana Pacers,Central,East,2016-11-18,Phoenix Suns,0.0,6.0
+915,Indiana Pacers,Central,East,2016-11-20,Oklahoma City Thunder,1.0,7.0
+916,Indiana Pacers,Central,East,2016-11-21,Golden State Warriors,0.0,7.0
+917,Indiana Pacers,Central,East,2016-11-23,Atlanta Hawks,0.0,7.0
+918,Indiana Pacers,Central,East,2016-11-25,Brooklyn Nets,1.0,8.0
+919,Indiana Pacers,Central,East,2016-11-27,LA Clippers,1.0,9.0
+920,Indiana Pacers,Central,East,2016-11-30,Portland Trail Blazers,0.0,9.0
+921,Indiana Pacers,Central,East,2016-12-04,LA Clippers,1.0,10.0
+922,Indiana Pacers,Central,East,2016-12-05,Golden State Warriors,0.0,10.0
+923,Indiana Pacers,Central,East,2016-12-07,Phoenix Suns,1.0,11.0
+924,Indiana Pacers,Central,East,2016-12-09,Dallas Mavericks,0.0,11.0
+925,Indiana Pacers,Central,East,2016-12-10,Portland Trail Blazers,1.0,12.0
+926,Indiana Pacers,Central,East,2016-12-12,Charlotte Hornets,1.0,13.0
+927,Indiana Pacers,Central,East,2016-12-14,Miami Heat,0.0,13.0
+928,Indiana Pacers,Central,East,2016-12-15,New Orleans Pelicans,0.0,13.0
+929,Indiana Pacers,Central,East,2016-12-17,Detroit Pistons,1.0,14.0
+930,Indiana Pacers,Central,East,2016-12-19,Washington Wizards,1.0,15.0
+931,Indiana Pacers,Central,East,2016-12-20,New York Knicks,0.0,15.0
+932,Indiana Pacers,Central,East,2016-12-22,Boston Celtics,0.0,15.0
+933,Indiana Pacers,Central,East,2016-12-26,Chicago Bulls,0.0,15.0
+934,Indiana Pacers,Central,East,2016-12-28,Washington Wizards,0.0,15.0
+935,Indiana Pacers,Central,East,2016-12-30,Chicago Bulls,1.0,16.0
+936,Indiana Pacers,Central,East,2017-01-01,Orlando Magic,1.0,17.0
+937,Indiana Pacers,Central,East,2017-01-03,Detroit Pistons,1.0,18.0
+938,Indiana Pacers,Central,East,2017-01-05,Brooklyn Nets,1.0,19.0
+939,Indiana Pacers,Central,East,2017-01-07,New York Knicks,1.0,20.0
+940,Indiana Pacers,Central,East,2017-01-12,Denver Nuggets,0.0,20.0
+941,Indiana Pacers,Central,East,2017-01-16,New Orleans Pelicans,1.0,21.0
+942,Indiana Pacers,Central,East,2017-01-18,Sacramento Kings,1.0,22.0
+943,Indiana Pacers,Central,East,2017-01-20,Los Angeles Lakers,0.0,22.0
+944,Indiana Pacers,Central,East,2017-01-21,Utah Jazz,0.0,22.0
+945,Indiana Pacers,Central,East,2017-01-23,New York Knicks,0.0,22.0
+946,Indiana Pacers,Central,East,2017-01-26,Minnesota Timberwolves,1.0,23.0
+947,Indiana Pacers,Central,East,2017-01-27,Sacramento Kings,1.0,24.0
+948,Indiana Pacers,Central,East,2017-01-29,Houston Rockets,1.0,25.0
+949,Indiana Pacers,Central,East,2017-02-01,Orlando Magic,1.0,26.0
+950,Indiana Pacers,Central,East,2017-02-03,Brooklyn Nets,1.0,27.0
+951,Indiana Pacers,Central,East,2017-02-04,Detroit Pistons,1.0,28.0
+952,Indiana Pacers,Central,East,2017-02-06,Oklahoma City Thunder,1.0,29.0
+953,Indiana Pacers,Central,East,2017-02-08,Cleveland Cavaliers,0.0,29.0
+954,Indiana Pacers,Central,East,2017-02-10,Washington Wizards,0.0,29.0
+955,Indiana Pacers,Central,East,2017-02-11,Milwaukee Bucks,0.0,29.0
+956,Indiana Pacers,Central,East,2017-02-13,San Antonio Spurs,0.0,29.0
+957,Indiana Pacers,Central,East,2017-02-15,Cleveland Cavaliers,0.0,29.0
+958,Indiana Pacers,Central,East,2017-02-16,Washington Wizards,0.0,29.0
+959,Indiana Pacers,Central,East,2017-02-24,Memphis Grizzlies,1.0,30.0
+960,Indiana Pacers,Central,East,2017-02-25,Miami Heat,0.0,30.0
+961,Indiana Pacers,Central,East,2017-02-27,Houston Rockets,1.0,31.0
+962,Indiana Pacers,Central,East,2017-03-01,San Antonio Spurs,0.0,31.0
+963,Indiana Pacers,Central,East,2017-03-05,Atlanta Hawks,1.0,32.0
+964,Indiana Pacers,Central,East,2017-03-06,Charlotte Hornets,0.0,32.0
+965,Indiana Pacers,Central,East,2017-03-08,Detroit Pistons,1.0,33.0
+966,Indiana Pacers,Central,East,2017-03-10,Milwaukee Bucks,0.0,33.0
+967,Indiana Pacers,Central,East,2017-03-12,Miami Heat,1.0,34.0
+968,Indiana Pacers,Central,East,2017-03-14,New York Knicks,0.0,34.0
+969,Indiana Pacers,Central,East,2017-03-15,Charlotte Hornets,1.0,35.0
+970,Indiana Pacers,Central,East,2017-03-19,Toronto Raptors,0.0,35.0
+971,Indiana Pacers,Central,East,2017-03-20,Utah Jazz,1.0,36.0
+972,Indiana Pacers,Central,East,2017-03-22,Boston Celtics,0.0,36.0
+973,Indiana Pacers,Central,East,2017-03-24,Denver Nuggets,0.0,36.0
+974,Indiana Pacers,Central,East,2017-03-26,Philadelphia 76ers,1.0,37.0
+975,Indiana Pacers,Central,East,2017-03-28,Minnesota Timberwolves,0.0,37.0
+976,Indiana Pacers,Central,East,2017-03-29,Memphis Grizzlies,0.0,37.0
+977,Indiana Pacers,Central,East,2017-03-31,Toronto Raptors,0.0,37.0
+978,Indiana Pacers,Central,East,2017-04-02,Cleveland Cavaliers,0.0,37.0
+979,Indiana Pacers,Central,East,2017-04-04,Toronto Raptors,1.0,38.0
+980,Indiana Pacers,Central,East,2017-04-06,Milwaukee Bucks,1.0,39.0
+981,Indiana Pacers,Central,East,2017-04-08,Orlando Magic,1.0,40.0
+982,Indiana Pacers,Central,East,2017-04-10,Philadelphia 76ers,1.0,41.0
+983,Indiana Pacers,Central,East,2017-04-12,Atlanta Hawks,1.0,42.0
+984,LA Clippers,Pacific,West,2016-10-27,Portland Trail Blazers,1.0,1.0
+985,LA Clippers,Pacific,West,2016-10-30,Utah Jazz,1.0,2.0
+986,LA Clippers,Pacific,West,2016-10-31,Phoenix Suns,1.0,3.0
+987,LA Clippers,Pacific,West,2016-11-02,Oklahoma City Thunder,0.0,3.0
+988,LA Clippers,Pacific,West,2016-11-04,Memphis Grizzlies,1.0,4.0
+989,LA Clippers,Pacific,West,2016-11-05,San Antonio Spurs,1.0,5.0
+990,LA Clippers,Pacific,West,2016-11-07,Detroit Pistons,1.0,6.0
+991,LA Clippers,Pacific,West,2016-11-09,Portland Trail Blazers,1.0,7.0
+992,LA Clippers,Pacific,West,2016-11-11,Oklahoma City Thunder,1.0,8.0
+993,LA Clippers,Pacific,West,2016-11-12,Minnesota Timberwolves,1.0,9.0
+994,LA Clippers,Pacific,West,2016-11-14,Brooklyn Nets,1.0,10.0
+995,LA Clippers,Pacific,West,2016-11-16,Memphis Grizzlies,0.0,10.0
+996,LA Clippers,Pacific,West,2016-11-18,Sacramento Kings,1.0,11.0
+997,LA Clippers,Pacific,West,2016-11-19,Chicago Bulls,1.0,12.0
+998,LA Clippers,Pacific,West,2016-11-21,Toronto Raptors,1.0,13.0
+999,LA Clippers,Pacific,West,2016-11-23,Dallas Mavericks,1.0,14.0
+1000,LA Clippers,Pacific,West,2016-11-25,Detroit Pistons,0.0,14.0
+1001,LA Clippers,Pacific,West,2016-11-27,Indiana Pacers,0.0,14.0
+1002,LA Clippers,Pacific,West,2016-11-29,Brooklyn Nets,0.0,14.0
+1003,LA Clippers,Pacific,West,2016-12-01,Cleveland Cavaliers,1.0,15.0
+1004,LA Clippers,Pacific,West,2016-12-02,New Orleans Pelicans,1.0,16.0
+1005,LA Clippers,Pacific,West,2016-12-04,Indiana Pacers,0.0,16.0
+1006,LA Clippers,Pacific,West,2016-12-07,Golden State Warriors,0.0,16.0
+1007,LA Clippers,Pacific,West,2016-12-10,New Orleans Pelicans,1.0,17.0
+1008,LA Clippers,Pacific,West,2016-12-12,Portland Trail Blazers,1.0,18.0
+1009,LA Clippers,Pacific,West,2016-12-14,Orlando Magic,1.0,19.0
+1010,LA Clippers,Pacific,West,2016-12-16,Miami Heat,1.0,20.0
+1011,LA Clippers,Pacific,West,2016-12-18,Washington Wizards,0.0,20.0
+1012,LA Clippers,Pacific,West,2016-12-20,Denver Nuggets,1.0,21.0
+1013,LA Clippers,Pacific,West,2016-12-22,San Antonio Spurs,1.0,22.0
+1014,LA Clippers,Pacific,West,2016-12-23,Dallas Mavericks,0.0,22.0
+1015,LA Clippers,Pacific,West,2016-12-25,Los Angeles Lakers,0.0,22.0
+1016,LA Clippers,Pacific,West,2016-12-26,Denver Nuggets,0.0,22.0
+1017,LA Clippers,Pacific,West,2016-12-28,New Orleans Pelicans,0.0,22.0
+1018,LA Clippers,Pacific,West,2016-12-30,Houston Rockets,0.0,22.0
+1019,LA Clippers,Pacific,West,2016-12-31,Oklahoma City Thunder,0.0,22.0
+1020,LA Clippers,Pacific,West,2017-01-02,Phoenix Suns,1.0,23.0
+1021,LA Clippers,Pacific,West,2017-01-04,Memphis Grizzlies,1.0,24.0
+1022,LA Clippers,Pacific,West,2017-01-06,Sacramento Kings,1.0,25.0
+1023,LA Clippers,Pacific,West,2017-01-08,Miami Heat,1.0,26.0
+1024,LA Clippers,Pacific,West,2017-01-11,Orlando Magic,1.0,27.0
+1025,LA Clippers,Pacific,West,2017-01-14,Los Angeles Lakers,1.0,28.0
+1026,LA Clippers,Pacific,West,2017-01-16,Oklahoma City Thunder,1.0,29.0
+1027,LA Clippers,Pacific,West,2017-01-19,Minnesota Timberwolves,0.0,29.0
+1028,LA Clippers,Pacific,West,2017-01-21,Denver Nuggets,0.0,29.0
+1029,LA Clippers,Pacific,West,2017-01-23,Atlanta Hawks,1.0,30.0
+1030,LA Clippers,Pacific,West,2017-01-24,Philadelphia 76ers,0.0,30.0
+1031,LA Clippers,Pacific,West,2017-01-28,Golden State Warriors,0.0,30.0
+1032,LA Clippers,Pacific,West,2017-02-01,Phoenix Suns,1.0,31.0
+1033,LA Clippers,Pacific,West,2017-02-02,Golden State Warriors,0.0,31.0
+1034,LA Clippers,Pacific,West,2017-02-05,Boston Celtics,0.0,31.0
+1035,LA Clippers,Pacific,West,2017-02-06,Toronto Raptors,0.0,31.0
+1036,LA Clippers,Pacific,West,2017-02-08,New York Knicks,1.0,32.0
+1037,LA Clippers,Pacific,West,2017-02-11,Charlotte Hornets,1.0,33.0
+1038,LA Clippers,Pacific,West,2017-02-13,Utah Jazz,1.0,34.0
+1039,LA Clippers,Pacific,West,2017-02-15,Atlanta Hawks,1.0,35.0
+1040,LA Clippers,Pacific,West,2017-02-23,Golden State Warriors,0.0,35.0
+1041,LA Clippers,Pacific,West,2017-02-24,San Antonio Spurs,0.0,35.0
+1042,LA Clippers,Pacific,West,2017-02-26,Charlotte Hornets,1.0,36.0
+1043,LA Clippers,Pacific,West,2017-03-01,Houston Rockets,0.0,36.0
+1044,LA Clippers,Pacific,West,2017-03-03,Milwaukee Bucks,0.0,36.0
+1045,LA Clippers,Pacific,West,2017-03-04,Chicago Bulls,1.0,37.0
+1046,LA Clippers,Pacific,West,2017-03-06,Boston Celtics,1.0,38.0
+1047,LA Clippers,Pacific,West,2017-03-08,Minnesota Timberwolves,0.0,38.0
+1048,LA Clippers,Pacific,West,2017-03-09,Memphis Grizzlies,1.0,39.0
+1049,LA Clippers,Pacific,West,2017-03-11,Philadelphia 76ers,1.0,40.0
+1050,LA Clippers,Pacific,West,2017-03-13,Utah Jazz,0.0,40.0
+1051,LA Clippers,Pacific,West,2017-03-15,Milwaukee Bucks,0.0,40.0
+1052,LA Clippers,Pacific,West,2017-03-16,Denver Nuggets,0.0,40.0
+1053,LA Clippers,Pacific,West,2017-03-18,Cleveland Cavaliers,1.0,41.0
+1054,LA Clippers,Pacific,West,2017-03-20,New York Knicks,1.0,42.0
+1055,LA Clippers,Pacific,West,2017-03-21,Los Angeles Lakers,1.0,43.0
+1056,LA Clippers,Pacific,West,2017-03-23,Dallas Mavericks,0.0,43.0
+1057,LA Clippers,Pacific,West,2017-03-25,Utah Jazz,1.0,44.0
+1058,LA Clippers,Pacific,West,2017-03-26,Sacramento Kings,0.0,44.0
+1059,LA Clippers,Pacific,West,2017-03-29,Washington Wizards,1.0,45.0
+1060,LA Clippers,Pacific,West,2017-03-30,Phoenix Suns,1.0,46.0
+1061,LA Clippers,Pacific,West,2017-04-01,Los Angeles Lakers,1.0,47.0
+1062,LA Clippers,Pacific,West,2017-04-05,Dallas Mavericks,1.0,48.0
+1063,LA Clippers,Pacific,West,2017-04-08,San Antonio Spurs,1.0,49.0
+1064,LA Clippers,Pacific,West,2017-04-10,Houston Rockets,1.0,50.0
+1065,LA Clippers,Pacific,West,2017-04-12,Sacramento Kings,1.0,51.0
+1066,Los Angeles Lakers,Pacific,West,2016-10-26,Houston Rockets,1.0,1.0
+1067,Los Angeles Lakers,Pacific,West,2016-10-28,Utah Jazz,0.0,1.0
+1068,Los Angeles Lakers,Pacific,West,2016-10-30,Oklahoma City Thunder,0.0,1.0
+1069,Los Angeles Lakers,Pacific,West,2016-11-01,Indiana Pacers,0.0,1.0
+1070,Los Angeles Lakers,Pacific,West,2016-11-02,Atlanta Hawks,1.0,2.0
+1071,Los Angeles Lakers,Pacific,West,2016-11-04,Golden State Warriors,1.0,3.0
+1072,Los Angeles Lakers,Pacific,West,2016-11-06,Phoenix Suns,1.0,4.0
+1073,Los Angeles Lakers,Pacific,West,2016-11-08,Dallas Mavericks,0.0,4.0
+1074,Los Angeles Lakers,Pacific,West,2016-11-10,Sacramento Kings,1.0,5.0
+1075,Los Angeles Lakers,Pacific,West,2016-11-12,New Orleans Pelicans,1.0,6.0
+1076,Los Angeles Lakers,Pacific,West,2016-11-13,Minnesota Timberwolves,0.0,6.0
+1077,Los Angeles Lakers,Pacific,West,2016-11-15,Brooklyn Nets,1.0,7.0
+1078,Los Angeles Lakers,Pacific,West,2016-11-18,San Antonio Spurs,0.0,7.0
+1079,Los Angeles Lakers,Pacific,West,2016-11-20,Chicago Bulls,0.0,7.0
+1080,Los Angeles Lakers,Pacific,West,2016-11-22,Oklahoma City Thunder,1.0,8.0
+1081,Los Angeles Lakers,Pacific,West,2016-11-23,Golden State Warriors,0.0,8.0
+1082,Los Angeles Lakers,Pacific,West,2016-11-25,Golden State Warriors,0.0,8.0
+1083,Los Angeles Lakers,Pacific,West,2016-11-27,Atlanta Hawks,1.0,9.0
+1084,Los Angeles Lakers,Pacific,West,2016-11-29,New Orleans Pelicans,0.0,9.0
+1085,Los Angeles Lakers,Pacific,West,2016-11-30,Chicago Bulls,1.0,10.0
+1086,Los Angeles Lakers,Pacific,West,2016-12-02,Toronto Raptors,0.0,10.0
+1087,Los Angeles Lakers,Pacific,West,2016-12-03,Memphis Grizzlies,0.0,10.0
+1088,Los Angeles Lakers,Pacific,West,2016-12-05,Utah Jazz,0.0,10.0
+1089,Los Angeles Lakers,Pacific,West,2016-12-07,Houston Rockets,0.0,10.0
+1090,Los Angeles Lakers,Pacific,West,2016-12-09,Phoenix Suns,0.0,10.0
+1091,Los Angeles Lakers,Pacific,West,2016-12-11,New York Knicks,0.0,10.0
+1092,Los Angeles Lakers,Pacific,West,2016-12-12,Sacramento Kings,0.0,10.0
+1093,Los Angeles Lakers,Pacific,West,2016-12-14,Brooklyn Nets,0.0,10.0
+1094,Los Angeles Lakers,Pacific,West,2016-12-16,Philadelphia 76ers,1.0,11.0
+1095,Los Angeles Lakers,Pacific,West,2016-12-17,Cleveland Cavaliers,0.0,11.0
+1096,Los Angeles Lakers,Pacific,West,2016-12-20,Charlotte Hornets,0.0,11.0
+1097,Los Angeles Lakers,Pacific,West,2016-12-22,Miami Heat,0.0,11.0
+1098,Los Angeles Lakers,Pacific,West,2016-12-23,Orlando Magic,0.0,11.0
+1099,Los Angeles Lakers,Pacific,West,2016-12-25,LA Clippers,1.0,12.0
+1100,Los Angeles Lakers,Pacific,West,2016-12-27,Utah Jazz,0.0,12.0
+1101,Los Angeles Lakers,Pacific,West,2016-12-29,Dallas Mavericks,0.0,12.0
+1102,Los Angeles Lakers,Pacific,West,2017-01-01,Toronto Raptors,0.0,12.0
+1103,Los Angeles Lakers,Pacific,West,2017-01-03,Memphis Grizzlies,1.0,13.0
+1104,Los Angeles Lakers,Pacific,West,2017-01-05,Portland Trail Blazers,0.0,13.0
+1105,Los Angeles Lakers,Pacific,West,2017-01-06,Miami Heat,1.0,14.0
+1106,Los Angeles Lakers,Pacific,West,2017-01-08,Orlando Magic,1.0,15.0
+1107,Los Angeles Lakers,Pacific,West,2017-01-10,Portland Trail Blazers,0.0,15.0
+1108,Los Angeles Lakers,Pacific,West,2017-01-12,San Antonio Spurs,0.0,15.0
+1109,Los Angeles Lakers,Pacific,West,2017-01-14,LA Clippers,0.0,15.0
+1110,Los Angeles Lakers,Pacific,West,2017-01-15,Detroit Pistons,0.0,15.0
+1111,Los Angeles Lakers,Pacific,West,2017-01-17,Denver Nuggets,0.0,15.0
+1112,Los Angeles Lakers,Pacific,West,2017-01-20,Indiana Pacers,1.0,16.0
+1113,Los Angeles Lakers,Pacific,West,2017-01-22,Dallas Mavericks,0.0,16.0
+1114,Los Angeles Lakers,Pacific,West,2017-01-25,Portland Trail Blazers,0.0,16.0
+1115,Los Angeles Lakers,Pacific,West,2017-01-26,Utah Jazz,0.0,16.0
+1116,Los Angeles Lakers,Pacific,West,2017-01-31,Denver Nuggets,1.0,17.0
+1117,Los Angeles Lakers,Pacific,West,2017-02-02,Washington Wizards,0.0,17.0
+1118,Los Angeles Lakers,Pacific,West,2017-02-03,Boston Celtics,0.0,17.0
+1119,Los Angeles Lakers,Pacific,West,2017-02-06,New York Knicks,1.0,18.0
+1120,Los Angeles Lakers,Pacific,West,2017-02-08,Detroit Pistons,0.0,18.0
+1121,Los Angeles Lakers,Pacific,West,2017-02-10,Milwaukee Bucks,1.0,19.0
+1122,Los Angeles Lakers,Pacific,West,2017-02-14,Sacramento Kings,0.0,19.0
+1123,Los Angeles Lakers,Pacific,West,2017-02-15,Phoenix Suns,0.0,19.0
+1124,Los Angeles Lakers,Pacific,West,2017-02-24,Oklahoma City Thunder,0.0,19.0
+1125,Los Angeles Lakers,Pacific,West,2017-02-26,San Antonio Spurs,0.0,19.0
+1126,Los Angeles Lakers,Pacific,West,2017-02-28,Charlotte Hornets,0.0,19.0
+1127,Los Angeles Lakers,Pacific,West,2017-03-03,Boston Celtics,0.0,19.0
+1128,Los Angeles Lakers,Pacific,West,2017-03-05,New Orleans Pelicans,0.0,19.0
+1129,Los Angeles Lakers,Pacific,West,2017-03-07,Dallas Mavericks,0.0,19.0
+1130,Los Angeles Lakers,Pacific,West,2017-03-09,Phoenix Suns,1.0,20.0
+1131,Los Angeles Lakers,Pacific,West,2017-03-12,Philadelphia 76ers,0.0,20.0
+1132,Los Angeles Lakers,Pacific,West,2017-03-13,Denver Nuggets,0.0,20.0
+1133,Los Angeles Lakers,Pacific,West,2017-03-15,Houston Rockets,0.0,20.0
+1134,Los Angeles Lakers,Pacific,West,2017-03-17,Milwaukee Bucks,0.0,20.0
+1135,Los Angeles Lakers,Pacific,West,2017-03-19,Cleveland Cavaliers,0.0,20.0
+1136,Los Angeles Lakers,Pacific,West,2017-03-21,LA Clippers,0.0,20.0
+1137,Los Angeles Lakers,Pacific,West,2017-03-24,Minnesota Timberwolves,1.0,21.0
+1138,Los Angeles Lakers,Pacific,West,2017-03-26,Portland Trail Blazers,0.0,21.0
+1139,Los Angeles Lakers,Pacific,West,2017-03-28,Washington Wizards,0.0,21.0
+1140,Los Angeles Lakers,Pacific,West,2017-03-30,Minnesota Timberwolves,0.0,21.0
+1141,Los Angeles Lakers,Pacific,West,2017-04-01,LA Clippers,0.0,21.0
+1142,Los Angeles Lakers,Pacific,West,2017-04-02,Memphis Grizzlies,1.0,22.0
+1143,Los Angeles Lakers,Pacific,West,2017-04-05,San Antonio Spurs,1.0,23.0
+1144,Los Angeles Lakers,Pacific,West,2017-04-07,Sacramento Kings,1.0,24.0
+1145,Los Angeles Lakers,Pacific,West,2017-04-09,Minnesota Timberwolves,1.0,25.0
+1146,Los Angeles Lakers,Pacific,West,2017-04-11,New Orleans Pelicans,1.0,26.0
+1147,Los Angeles Lakers,Pacific,West,2017-04-12,Golden State Warriors,0.0,26.0
+1148,Memphis Grizzlies,Southwest,West,2016-10-26,Minnesota Timberwolves,1.0,1.0
+1149,Memphis Grizzlies,Southwest,West,2016-10-29,New York Knicks,0.0,1.0
+1150,Memphis Grizzlies,Southwest,West,2016-10-30,Washington Wizards,1.0,2.0
+1151,Memphis Grizzlies,Southwest,West,2016-11-01,Minnesota Timberwolves,0.0,2.0
+1152,Memphis Grizzlies,Southwest,West,2016-11-02,New Orleans Pelicans,1.0,3.0
+1153,Memphis Grizzlies,Southwest,West,2016-11-04,LA Clippers,0.0,3.0
+1154,Memphis Grizzlies,Southwest,West,2016-11-06,Portland Trail Blazers,0.0,3.0
+1155,Memphis Grizzlies,Southwest,West,2016-11-08,Denver Nuggets,1.0,4.0
+1156,Memphis Grizzlies,Southwest,West,2016-11-12,Milwaukee Bucks,0.0,4.0
+1157,Memphis Grizzlies,Southwest,West,2016-11-14,Utah Jazz,1.0,5.0
+1158,Memphis Grizzlies,Southwest,West,2016-11-16,LA Clippers,1.0,6.0
+1159,Memphis Grizzlies,Southwest,West,2016-11-18,Dallas Mavericks,1.0,7.0
+1160,Memphis Grizzlies,Southwest,West,2016-11-19,Minnesota Timberwolves,1.0,8.0
+1161,Memphis Grizzlies,Southwest,West,2016-11-21,Charlotte Hornets,1.0,9.0
+1162,Memphis Grizzlies,Southwest,West,2016-11-23,Philadelphia 76ers,1.0,10.0
+1163,Memphis Grizzlies,Southwest,West,2016-11-25,Miami Heat,0.0,10.0
+1164,Memphis Grizzlies,Southwest,West,2016-11-26,Miami Heat,1.0,11.0
+1165,Memphis Grizzlies,Southwest,West,2016-11-28,Charlotte Hornets,0.0,11.0
+1166,Memphis Grizzlies,Southwest,West,2016-11-30,Toronto Raptors,0.0,11.0
+1167,Memphis Grizzlies,Southwest,West,2016-12-01,Orlando Magic,1.0,12.0
+1168,Memphis Grizzlies,Southwest,West,2016-12-03,Los Angeles Lakers,1.0,13.0
+1169,Memphis Grizzlies,Southwest,West,2016-12-05,New Orleans Pelicans,1.0,14.0
+1170,Memphis Grizzlies,Southwest,West,2016-12-06,Philadelphia 76ers,1.0,15.0
+1171,Memphis Grizzlies,Southwest,West,2016-12-08,Portland Trail Blazers,1.0,16.0
+1172,Memphis Grizzlies,Southwest,West,2016-12-10,Golden State Warriors,1.0,17.0
+1173,Memphis Grizzlies,Southwest,West,2016-12-13,Cleveland Cavaliers,0.0,17.0
+1174,Memphis Grizzlies,Southwest,West,2016-12-14,Cleveland Cavaliers,1.0,18.0
+1175,Memphis Grizzlies,Southwest,West,2016-12-16,Sacramento Kings,0.0,18.0
+1176,Memphis Grizzlies,Southwest,West,2016-12-18,Utah Jazz,0.0,18.0
+1177,Memphis Grizzlies,Southwest,West,2016-12-20,Boston Celtics,0.0,18.0
+1178,Memphis Grizzlies,Southwest,West,2016-12-21,Detroit Pistons,1.0,19.0
+1179,Memphis Grizzlies,Southwest,West,2016-12-23,Houston Rockets,1.0,20.0
+1180,Memphis Grizzlies,Southwest,West,2016-12-26,Orlando Magic,0.0,20.0
+1181,Memphis Grizzlies,Southwest,West,2016-12-27,Boston Celtics,0.0,20.0
+1182,Memphis Grizzlies,Southwest,West,2016-12-29,Oklahoma City Thunder,1.0,21.0
+1183,Memphis Grizzlies,Southwest,West,2016-12-31,Sacramento Kings,1.0,22.0
+1184,Memphis Grizzlies,Southwest,West,2017-01-03,Los Angeles Lakers,0.0,22.0
+1185,Memphis Grizzlies,Southwest,West,2017-01-04,LA Clippers,0.0,22.0
+1186,Memphis Grizzlies,Southwest,West,2017-01-06,Golden State Warriors,1.0,23.0
+1187,Memphis Grizzlies,Southwest,West,2017-01-08,Utah Jazz,1.0,24.0
+1188,Memphis Grizzlies,Southwest,West,2017-01-11,Oklahoma City Thunder,0.0,24.0
+1189,Memphis Grizzlies,Southwest,West,2017-01-13,Houston Rockets,1.0,25.0
+1190,Memphis Grizzlies,Southwest,West,2017-01-15,Chicago Bulls,0.0,25.0
+1191,Memphis Grizzlies,Southwest,West,2017-01-18,Washington Wizards,0.0,25.0
+1192,Memphis Grizzlies,Southwest,West,2017-01-20,Sacramento Kings,1.0,26.0
+1193,Memphis Grizzlies,Southwest,West,2017-01-21,Houston Rockets,0.0,26.0
+1194,Memphis Grizzlies,Southwest,West,2017-01-25,Toronto Raptors,1.0,27.0
+1195,Memphis Grizzlies,Southwest,West,2017-01-27,Portland Trail Blazers,0.0,27.0
+1196,Memphis Grizzlies,Southwest,West,2017-01-28,Utah Jazz,1.0,28.0
+1197,Memphis Grizzlies,Southwest,West,2017-01-30,Phoenix Suns,1.0,29.0
+1198,Memphis Grizzlies,Southwest,West,2017-02-01,Denver Nuggets,1.0,30.0
+1199,Memphis Grizzlies,Southwest,West,2017-02-03,Oklahoma City Thunder,0.0,30.0
+1200,Memphis Grizzlies,Southwest,West,2017-02-04,Minnesota Timberwolves,1.0,31.0
+1201,Memphis Grizzlies,Southwest,West,2017-02-06,San Antonio Spurs,1.0,32.0
+1202,Memphis Grizzlies,Southwest,West,2017-02-08,Phoenix Suns,1.0,33.0
+1203,Memphis Grizzlies,Southwest,West,2017-02-10,Golden State Warriors,0.0,33.0
+1204,Memphis Grizzlies,Southwest,West,2017-02-13,Brooklyn Nets,1.0,34.0
+1205,Memphis Grizzlies,Southwest,West,2017-02-15,New Orleans Pelicans,0.0,34.0
+1206,Memphis Grizzlies,Southwest,West,2017-02-24,Indiana Pacers,0.0,34.0
+1207,Memphis Grizzlies,Southwest,West,2017-02-26,Denver Nuggets,1.0,35.0
+1208,Memphis Grizzlies,Southwest,West,2017-02-28,Phoenix Suns,1.0,36.0
+1209,Memphis Grizzlies,Southwest,West,2017-03-03,Dallas Mavericks,0.0,36.0
+1210,Memphis Grizzlies,Southwest,West,2017-03-04,Houston Rockets,0.0,36.0
+1211,Memphis Grizzlies,Southwest,West,2017-03-06,Brooklyn Nets,0.0,36.0
+1212,Memphis Grizzlies,Southwest,West,2017-03-09,LA Clippers,0.0,36.0
+1213,Memphis Grizzlies,Southwest,West,2017-03-11,Atlanta Hawks,0.0,36.0
+1214,Memphis Grizzlies,Southwest,West,2017-03-13,Milwaukee Bucks,1.0,37.0
+1215,Memphis Grizzlies,Southwest,West,2017-03-15,Chicago Bulls,1.0,38.0
+1216,Memphis Grizzlies,Southwest,West,2017-03-16,Atlanta Hawks,1.0,39.0
+1217,Memphis Grizzlies,Southwest,West,2017-03-18,San Antonio Spurs,1.0,40.0
+1218,Memphis Grizzlies,Southwest,West,2017-03-21,New Orleans Pelicans,0.0,40.0
+1219,Memphis Grizzlies,Southwest,West,2017-03-23,San Antonio Spurs,0.0,40.0
+1220,Memphis Grizzlies,Southwest,West,2017-03-26,Golden State Warriors,0.0,40.0
+1221,Memphis Grizzlies,Southwest,West,2017-03-27,Sacramento Kings,0.0,40.0
+1222,Memphis Grizzlies,Southwest,West,2017-03-29,Indiana Pacers,1.0,41.0
+1223,Memphis Grizzlies,Southwest,West,2017-03-31,Dallas Mavericks,1.0,42.0
+1224,Memphis Grizzlies,Southwest,West,2017-04-02,Los Angeles Lakers,0.0,42.0
+1225,Memphis Grizzlies,Southwest,West,2017-04-04,San Antonio Spurs,0.0,42.0
+1226,Memphis Grizzlies,Southwest,West,2017-04-05,Oklahoma City Thunder,0.0,42.0
+1227,Memphis Grizzlies,Southwest,West,2017-04-07,New York Knicks,1.0,43.0
+1228,Memphis Grizzlies,Southwest,West,2017-04-09,Detroit Pistons,0.0,43.0
+1229,Memphis Grizzlies,Southwest,West,2017-04-12,Dallas Mavericks,0.0,43.0
+1230,Miami Heat,Southeast,East,2016-10-26,Orlando Magic,1.0,1.0
+1231,Miami Heat,Southeast,East,2016-10-28,Charlotte Hornets,0.0,1.0
+1232,Miami Heat,Southeast,East,2016-10-30,San Antonio Spurs,0.0,1.0
+1233,Miami Heat,Southeast,East,2016-11-01,Sacramento Kings,1.0,2.0
+1234,Miami Heat,Southeast,East,2016-11-04,Toronto Raptors,0.0,2.0
+1235,Miami Heat,Southeast,East,2016-11-07,Oklahoma City Thunder,0.0,2.0
+1236,Miami Heat,Southeast,East,2016-11-10,Chicago Bulls,0.0,2.0
+1237,Miami Heat,Southeast,East,2016-11-12,Utah Jazz,0.0,2.0
+1238,Miami Heat,Southeast,East,2016-11-14,San Antonio Spurs,0.0,2.0
+1239,Miami Heat,Southeast,East,2016-11-15,Atlanta Hawks,0.0,2.0
+1240,Miami Heat,Southeast,East,2016-11-17,Milwaukee Bucks,1.0,3.0
+1241,Miami Heat,Southeast,East,2016-11-19,Washington Wizards,1.0,4.0
+1242,Miami Heat,Southeast,East,2016-11-21,Philadelphia 76ers,0.0,4.0
+1243,Miami Heat,Southeast,East,2016-11-23,Detroit Pistons,0.0,4.0
+1244,Miami Heat,Southeast,East,2016-11-25,Memphis Grizzlies,1.0,5.0
+1245,Miami Heat,Southeast,East,2016-11-26,Memphis Grizzlies,0.0,5.0
+1246,Miami Heat,Southeast,East,2016-11-28,Boston Celtics,0.0,5.0
+1247,Miami Heat,Southeast,East,2016-11-30,Denver Nuggets,1.0,6.0
+1248,Miami Heat,Southeast,East,2016-12-01,Utah Jazz,1.0,7.0
+1249,Miami Heat,Southeast,East,2016-12-03,Portland Trail Blazers,0.0,7.0
+1250,Miami Heat,Southeast,East,2016-12-06,New York Knicks,0.0,7.0
+1251,Miami Heat,Southeast,East,2016-12-07,Atlanta Hawks,0.0,7.0
+1252,Miami Heat,Southeast,East,2016-12-09,Cleveland Cavaliers,0.0,7.0
+1253,Miami Heat,Southeast,East,2016-12-10,Chicago Bulls,0.0,7.0
+1254,Miami Heat,Southeast,East,2016-12-12,Washington Wizards,1.0,8.0
+1255,Miami Heat,Southeast,East,2016-12-14,Indiana Pacers,1.0,9.0
+1256,Miami Heat,Southeast,East,2016-12-16,LA Clippers,0.0,9.0
+1257,Miami Heat,Southeast,East,2016-12-18,Boston Celtics,0.0,9.0
+1258,Miami Heat,Southeast,East,2016-12-20,Orlando Magic,0.0,9.0
+1259,Miami Heat,Southeast,East,2016-12-22,Los Angeles Lakers,1.0,10.0
+1260,Miami Heat,Southeast,East,2016-12-23,New Orleans Pelicans,0.0,10.0
+1261,Miami Heat,Southeast,East,2016-12-27,Oklahoma City Thunder,0.0,10.0
+1262,Miami Heat,Southeast,East,2016-12-29,Charlotte Hornets,0.0,10.0
+1263,Miami Heat,Southeast,East,2016-12-30,Boston Celtics,0.0,10.0
+1264,Miami Heat,Southeast,East,2017-01-01,Detroit Pistons,0.0,10.0
+1265,Miami Heat,Southeast,East,2017-01-03,Phoenix Suns,0.0,10.0
+1266,Miami Heat,Southeast,East,2017-01-04,Sacramento Kings,1.0,11.0
+1267,Miami Heat,Southeast,East,2017-01-06,Los Angeles Lakers,0.0,11.0
+1268,Miami Heat,Southeast,East,2017-01-08,LA Clippers,0.0,11.0
+1269,Miami Heat,Southeast,East,2017-01-10,Golden State Warriors,0.0,11.0
+1270,Miami Heat,Southeast,East,2017-01-13,Milwaukee Bucks,0.0,11.0
+1271,Miami Heat,Southeast,East,2017-01-17,Houston Rockets,1.0,12.0
+1272,Miami Heat,Southeast,East,2017-01-19,Dallas Mavericks,1.0,13.0
+1273,Miami Heat,Southeast,East,2017-01-21,Milwaukee Bucks,1.0,14.0
+1274,Miami Heat,Southeast,East,2017-01-23,Golden State Warriors,1.0,15.0
+1275,Miami Heat,Southeast,East,2017-01-25,Brooklyn Nets,1.0,16.0
+1276,Miami Heat,Southeast,East,2017-01-27,Chicago Bulls,1.0,17.0
+1277,Miami Heat,Southeast,East,2017-01-28,Detroit Pistons,1.0,18.0
+1278,Miami Heat,Southeast,East,2017-01-30,Brooklyn Nets,1.0,19.0
+1279,Miami Heat,Southeast,East,2017-02-01,Atlanta Hawks,1.0,20.0
+1280,Miami Heat,Southeast,East,2017-02-04,Philadelphia 76ers,1.0,21.0
+1281,Miami Heat,Southeast,East,2017-02-06,Minnesota Timberwolves,1.0,22.0
+1282,Miami Heat,Southeast,East,2017-02-08,Milwaukee Bucks,1.0,23.0
+1283,Miami Heat,Southeast,East,2017-02-10,Brooklyn Nets,1.0,24.0
+1284,Miami Heat,Southeast,East,2017-02-11,Philadelphia 76ers,0.0,24.0
+1285,Miami Heat,Southeast,East,2017-02-13,Orlando Magic,0.0,24.0
+1286,Miami Heat,Southeast,East,2017-02-15,Houston Rockets,1.0,25.0
+1287,Miami Heat,Southeast,East,2017-02-24,Atlanta Hawks,1.0,26.0
+1288,Miami Heat,Southeast,East,2017-02-25,Indiana Pacers,1.0,27.0
+1289,Miami Heat,Southeast,East,2017-02-27,Dallas Mavericks,0.0,27.0
+1290,Miami Heat,Southeast,East,2017-03-01,Philadelphia 76ers,1.0,28.0
+1291,Miami Heat,Southeast,East,2017-03-03,Orlando Magic,0.0,28.0
+1292,Miami Heat,Southeast,East,2017-03-04,Cleveland Cavaliers,1.0,29.0
+1293,Miami Heat,Southeast,East,2017-03-06,Cleveland Cavaliers,1.0,30.0
+1294,Miami Heat,Southeast,East,2017-03-08,Charlotte Hornets,1.0,31.0
+1295,Miami Heat,Southeast,East,2017-03-11,Toronto Raptors,1.0,32.0
+1296,Miami Heat,Southeast,East,2017-03-12,Indiana Pacers,0.0,32.0
+1297,Miami Heat,Southeast,East,2017-03-15,New Orleans Pelicans,1.0,33.0
+1298,Miami Heat,Southeast,East,2017-03-17,Minnesota Timberwolves,1.0,34.0
+1299,Miami Heat,Southeast,East,2017-03-19,Portland Trail Blazers,0.0,34.0
+1300,Miami Heat,Southeast,East,2017-03-21,Phoenix Suns,1.0,35.0
+1301,Miami Heat,Southeast,East,2017-03-23,Toronto Raptors,0.0,35.0
+1302,Miami Heat,Southeast,East,2017-03-26,Boston Celtics,0.0,35.0
+1303,Miami Heat,Southeast,East,2017-03-28,Detroit Pistons,1.0,36.0
+1304,Miami Heat,Southeast,East,2017-03-29,New York Knicks,1.0,37.0
+1305,Miami Heat,Southeast,East,2017-03-31,New York Knicks,0.0,37.0
+1306,Miami Heat,Southeast,East,2017-04-02,Denver Nuggets,0.0,37.0
+1307,Miami Heat,Southeast,East,2017-04-05,Charlotte Hornets,1.0,38.0
+1308,Miami Heat,Southeast,East,2017-04-07,Toronto Raptors,0.0,38.0
+1309,Miami Heat,Southeast,East,2017-04-08,Washington Wizards,1.0,39.0
+1310,Miami Heat,Southeast,East,2017-04-10,Cleveland Cavaliers,1.0,40.0
+1311,Miami Heat,Southeast,East,2017-04-12,Washington Wizards,1.0,41.0
+1312,Milwaukee Bucks,Central,East,2016-10-26,Charlotte Hornets,0.0,0.0
+1313,Milwaukee Bucks,Central,East,2016-10-29,Brooklyn Nets,1.0,1.0
+1314,Milwaukee Bucks,Central,East,2016-10-30,Detroit Pistons,0.0,1.0
+1315,Milwaukee Bucks,Central,East,2016-11-01,New Orleans Pelicans,1.0,2.0
+1316,Milwaukee Bucks,Central,East,2016-11-03,Indiana Pacers,1.0,3.0
+1317,Milwaukee Bucks,Central,East,2016-11-05,Sacramento Kings,1.0,4.0
+1318,Milwaukee Bucks,Central,East,2016-11-06,Dallas Mavericks,0.0,4.0
+1319,Milwaukee Bucks,Central,East,2016-11-10,New Orleans Pelicans,0.0,4.0
+1320,Milwaukee Bucks,Central,East,2016-11-12,Memphis Grizzlies,1.0,5.0
+1321,Milwaukee Bucks,Central,East,2016-11-16,Atlanta Hawks,0.0,5.0
+1322,Milwaukee Bucks,Central,East,2016-11-17,Miami Heat,0.0,5.0
+1323,Milwaukee Bucks,Central,East,2016-11-19,Golden State Warriors,0.0,5.0
+1324,Milwaukee Bucks,Central,East,2016-11-21,Orlando Magic,1.0,6.0
+1325,Milwaukee Bucks,Central,East,2016-11-25,Toronto Raptors,0.0,6.0
+1326,Milwaukee Bucks,Central,East,2016-11-27,Orlando Magic,1.0,7.0
+1327,Milwaukee Bucks,Central,East,2016-11-29,Cleveland Cavaliers,1.0,8.0
+1328,Milwaukee Bucks,Central,East,2016-12-01,Brooklyn Nets,1.0,9.0
+1329,Milwaukee Bucks,Central,East,2016-12-03,Brooklyn Nets,1.0,10.0
+1330,Milwaukee Bucks,Central,East,2016-12-05,San Antonio Spurs,0.0,10.0
+1331,Milwaukee Bucks,Central,East,2016-12-07,Portland Trail Blazers,1.0,11.0
+1332,Milwaukee Bucks,Central,East,2016-12-09,Atlanta Hawks,0.0,11.0
+1333,Milwaukee Bucks,Central,East,2016-12-10,Washington Wizards,0.0,11.0
+1334,Milwaukee Bucks,Central,East,2016-12-12,Toronto Raptors,0.0,11.0
+1335,Milwaukee Bucks,Central,East,2016-12-15,Chicago Bulls,1.0,12.0
+1336,Milwaukee Bucks,Central,East,2016-12-16,Chicago Bulls,1.0,13.0
+1337,Milwaukee Bucks,Central,East,2016-12-20,Cleveland Cavaliers,0.0,13.0
+1338,Milwaukee Bucks,Central,East,2016-12-21,Cleveland Cavaliers,0.0,13.0
+1339,Milwaukee Bucks,Central,East,2016-12-23,Washington Wizards,1.0,14.0
+1340,Milwaukee Bucks,Central,East,2016-12-26,Washington Wizards,0.0,14.0
+1341,Milwaukee Bucks,Central,East,2016-12-28,Detroit Pistons,1.0,15.0
+1342,Milwaukee Bucks,Central,East,2016-12-30,Minnesota Timberwolves,0.0,15.0
+1343,Milwaukee Bucks,Central,East,2016-12-31,Chicago Bulls,1.0,16.0
+1344,Milwaukee Bucks,Central,East,2017-01-02,Oklahoma City Thunder,1.0,17.0
+1345,Milwaukee Bucks,Central,East,2017-01-04,New York Knicks,1.0,18.0
+1346,Milwaukee Bucks,Central,East,2017-01-06,New York Knicks,0.0,18.0
+1347,Milwaukee Bucks,Central,East,2017-01-08,Washington Wizards,0.0,18.0
+1348,Milwaukee Bucks,Central,East,2017-01-10,San Antonio Spurs,1.0,19.0
+1349,Milwaukee Bucks,Central,East,2017-01-13,Miami Heat,1.0,20.0
+1350,Milwaukee Bucks,Central,East,2017-01-15,Atlanta Hawks,0.0,20.0
+1351,Milwaukee Bucks,Central,East,2017-01-16,Philadelphia 76ers,0.0,20.0
+1352,Milwaukee Bucks,Central,East,2017-01-18,Houston Rockets,0.0,20.0
+1353,Milwaukee Bucks,Central,East,2017-01-20,Orlando Magic,0.0,20.0
+1354,Milwaukee Bucks,Central,East,2017-01-21,Miami Heat,0.0,20.0
+1355,Milwaukee Bucks,Central,East,2017-01-23,Houston Rockets,1.0,21.0
+1356,Milwaukee Bucks,Central,East,2017-01-25,Philadelphia 76ers,0.0,21.0
+1357,Milwaukee Bucks,Central,East,2017-01-27,Toronto Raptors,0.0,21.0
+1358,Milwaukee Bucks,Central,East,2017-01-28,Boston Celtics,0.0,21.0
+1359,Milwaukee Bucks,Central,East,2017-02-01,Utah Jazz,0.0,21.0
+1360,Milwaukee Bucks,Central,East,2017-02-03,Denver Nuggets,0.0,21.0
+1361,Milwaukee Bucks,Central,East,2017-02-04,Phoenix Suns,1.0,22.0
+1362,Milwaukee Bucks,Central,East,2017-02-08,Miami Heat,0.0,22.0
+1363,Milwaukee Bucks,Central,East,2017-02-10,Los Angeles Lakers,0.0,22.0
+1364,Milwaukee Bucks,Central,East,2017-02-11,Indiana Pacers,1.0,23.0
+1365,Milwaukee Bucks,Central,East,2017-02-13,Detroit Pistons,1.0,24.0
+1366,Milwaukee Bucks,Central,East,2017-02-15,Brooklyn Nets,1.0,25.0
+1367,Milwaukee Bucks,Central,East,2017-02-24,Utah Jazz,0.0,25.0
+1368,Milwaukee Bucks,Central,East,2017-02-26,Phoenix Suns,1.0,26.0
+1369,Milwaukee Bucks,Central,East,2017-02-27,Cleveland Cavaliers,0.0,26.0
+1370,Milwaukee Bucks,Central,East,2017-03-01,Denver Nuggets,0.0,26.0
+1371,Milwaukee Bucks,Central,East,2017-03-03,LA Clippers,1.0,27.0
+1372,Milwaukee Bucks,Central,East,2017-03-04,Toronto Raptors,1.0,28.0
+1373,Milwaukee Bucks,Central,East,2017-03-06,Philadelphia 76ers,1.0,29.0
+1374,Milwaukee Bucks,Central,East,2017-03-08,New York Knicks,1.0,30.0
+1375,Milwaukee Bucks,Central,East,2017-03-10,Indiana Pacers,1.0,31.0
+1376,Milwaukee Bucks,Central,East,2017-03-11,Minnesota Timberwolves,1.0,32.0
+1377,Milwaukee Bucks,Central,East,2017-03-13,Memphis Grizzlies,0.0,32.0
+1378,Milwaukee Bucks,Central,East,2017-03-15,LA Clippers,1.0,33.0
+1379,Milwaukee Bucks,Central,East,2017-03-17,Los Angeles Lakers,1.0,34.0
+1380,Milwaukee Bucks,Central,East,2017-03-18,Golden State Warriors,0.0,34.0
+1381,Milwaukee Bucks,Central,East,2017-03-21,Portland Trail Blazers,1.0,35.0
+1382,Milwaukee Bucks,Central,East,2017-03-22,Sacramento Kings,1.0,36.0
+1383,Milwaukee Bucks,Central,East,2017-03-24,Atlanta Hawks,1.0,37.0
+1384,Milwaukee Bucks,Central,East,2017-03-26,Chicago Bulls,0.0,37.0
+1385,Milwaukee Bucks,Central,East,2017-03-28,Charlotte Hornets,1.0,38.0
+1386,Milwaukee Bucks,Central,East,2017-03-29,Boston Celtics,1.0,39.0
+1387,Milwaukee Bucks,Central,East,2017-03-31,Detroit Pistons,1.0,40.0
+1388,Milwaukee Bucks,Central,East,2017-04-02,Dallas Mavericks,0.0,40.0
+1389,Milwaukee Bucks,Central,East,2017-04-04,Oklahoma City Thunder,0.0,40.0
+1390,Milwaukee Bucks,Central,East,2017-04-06,Indiana Pacers,0.0,40.0
+1391,Milwaukee Bucks,Central,East,2017-04-08,Philadelphia 76ers,1.0,41.0
+1392,Milwaukee Bucks,Central,East,2017-04-10,Charlotte Hornets,1.0,42.0
+1393,Milwaukee Bucks,Central,East,2017-04-12,Boston Celtics,0.0,42.0
+1394,Minnesota Timberwolves,Northwest,West,2016-10-26,Memphis Grizzlies,0.0,0.0
+1395,Minnesota Timberwolves,Northwest,West,2016-10-29,Sacramento Kings,0.0,0.0
+1396,Minnesota Timberwolves,Northwest,West,2016-11-01,Memphis Grizzlies,1.0,1.0
+1397,Minnesota Timberwolves,Northwest,West,2016-11-03,Denver Nuggets,0.0,1.0
+1398,Minnesota Timberwolves,Northwest,West,2016-11-05,Oklahoma City Thunder,0.0,1.0
+1399,Minnesota Timberwolves,Northwest,West,2016-11-08,Brooklyn Nets,0.0,1.0
+1400,Minnesota Timberwolves,Northwest,West,2016-11-09,Orlando Magic,1.0,2.0
+1401,Minnesota Timberwolves,Northwest,West,2016-11-12,LA Clippers,0.0,2.0
+1402,Minnesota Timberwolves,Northwest,West,2016-11-13,Los Angeles Lakers,1.0,3.0
+1403,Minnesota Timberwolves,Northwest,West,2016-11-15,Charlotte Hornets,0.0,3.0
+1404,Minnesota Timberwolves,Northwest,West,2016-11-17,Philadelphia 76ers,1.0,4.0
+1405,Minnesota Timberwolves,Northwest,West,2016-11-19,Memphis Grizzlies,0.0,4.0
+1406,Minnesota Timberwolves,Northwest,West,2016-11-21,Boston Celtics,0.0,4.0
+1407,Minnesota Timberwolves,Northwest,West,2016-11-23,New Orleans Pelicans,0.0,4.0
+1408,Minnesota Timberwolves,Northwest,West,2016-11-25,Phoenix Suns,1.0,5.0
+1409,Minnesota Timberwolves,Northwest,West,2016-11-26,Golden State Warriors,0.0,5.0
+1410,Minnesota Timberwolves,Northwest,West,2016-11-28,Utah Jazz,0.0,5.0
+1411,Minnesota Timberwolves,Northwest,West,2016-11-30,New York Knicks,0.0,5.0
+1412,Minnesota Timberwolves,Northwest,West,2016-12-02,New York Knicks,0.0,5.0
+1413,Minnesota Timberwolves,Northwest,West,2016-12-03,Charlotte Hornets,1.0,6.0
+1414,Minnesota Timberwolves,Northwest,West,2016-12-06,San Antonio Spurs,0.0,6.0
+1415,Minnesota Timberwolves,Northwest,West,2016-12-08,Toronto Raptors,0.0,6.0
+1416,Minnesota Timberwolves,Northwest,West,2016-12-09,Detroit Pistons,0.0,6.0
+1417,Minnesota Timberwolves,Northwest,West,2016-12-11,Golden State Warriors,0.0,6.0
+1418,Minnesota Timberwolves,Northwest,West,2016-12-13,Chicago Bulls,1.0,7.0
+1419,Minnesota Timberwolves,Northwest,West,2016-12-17,Houston Rockets,0.0,7.0
+1420,Minnesota Timberwolves,Northwest,West,2016-12-19,Phoenix Suns,1.0,8.0
+1421,Minnesota Timberwolves,Northwest,West,2016-12-21,Atlanta Hawks,1.0,9.0
+1422,Minnesota Timberwolves,Northwest,West,2016-12-23,Sacramento Kings,0.0,9.0
+1423,Minnesota Timberwolves,Northwest,West,2016-12-25,Oklahoma City Thunder,0.0,9.0
+1424,Minnesota Timberwolves,Northwest,West,2016-12-26,Atlanta Hawks,1.0,10.0
+1425,Minnesota Timberwolves,Northwest,West,2016-12-28,Denver Nuggets,0.0,10.0
+1426,Minnesota Timberwolves,Northwest,West,2016-12-30,Milwaukee Bucks,1.0,11.0
+1427,Minnesota Timberwolves,Northwest,West,2017-01-01,Portland Trail Blazers,0.0,11.0
+1428,Minnesota Timberwolves,Northwest,West,2017-01-03,Philadelphia 76ers,0.0,11.0
+1429,Minnesota Timberwolves,Northwest,West,2017-01-06,Washington Wizards,0.0,11.0
+1430,Minnesota Timberwolves,Northwest,West,2017-01-07,Utah Jazz,0.0,11.0
+1431,Minnesota Timberwolves,Northwest,West,2017-01-09,Dallas Mavericks,1.0,12.0
+1432,Minnesota Timberwolves,Northwest,West,2017-01-11,Houston Rockets,1.0,13.0
+1433,Minnesota Timberwolves,Northwest,West,2017-01-13,Oklahoma City Thunder,1.0,14.0
+1434,Minnesota Timberwolves,Northwest,West,2017-01-15,Dallas Mavericks,0.0,14.0
+1435,Minnesota Timberwolves,Northwest,West,2017-01-17,San Antonio Spurs,0.0,14.0
+1436,Minnesota Timberwolves,Northwest,West,2017-01-19,LA Clippers,1.0,15.0
+1437,Minnesota Timberwolves,Northwest,West,2017-01-22,Denver Nuggets,1.0,16.0
+1438,Minnesota Timberwolves,Northwest,West,2017-01-24,Phoenix Suns,1.0,17.0
+1439,Minnesota Timberwolves,Northwest,West,2017-01-26,Indiana Pacers,0.0,17.0
+1440,Minnesota Timberwolves,Northwest,West,2017-01-28,Brooklyn Nets,1.0,18.0
+1441,Minnesota Timberwolves,Northwest,West,2017-01-30,Orlando Magic,1.0,19.0
+1442,Minnesota Timberwolves,Northwest,West,2017-02-01,Cleveland Cavaliers,0.0,19.0
+1443,Minnesota Timberwolves,Northwest,West,2017-02-03,Detroit Pistons,0.0,19.0
+1444,Minnesota Timberwolves,Northwest,West,2017-02-04,Memphis Grizzlies,0.0,19.0
+1445,Minnesota Timberwolves,Northwest,West,2017-02-06,Miami Heat,0.0,19.0
+1446,Minnesota Timberwolves,Northwest,West,2017-02-08,Toronto Raptors,1.0,20.0
+1447,Minnesota Timberwolves,Northwest,West,2017-02-10,New Orleans Pelicans,0.0,20.0
+1448,Minnesota Timberwolves,Northwest,West,2017-02-12,Chicago Bulls,1.0,21.0
+1449,Minnesota Timberwolves,Northwest,West,2017-02-14,Cleveland Cavaliers,0.0,21.0
+1450,Minnesota Timberwolves,Northwest,West,2017-02-15,Denver Nuggets,1.0,22.0
+1451,Minnesota Timberwolves,Northwest,West,2017-02-24,Dallas Mavericks,1.0,23.0
+1452,Minnesota Timberwolves,Northwest,West,2017-02-25,Houston Rockets,0.0,23.0
+1453,Minnesota Timberwolves,Northwest,West,2017-02-27,Sacramento Kings,1.0,24.0
+1454,Minnesota Timberwolves,Northwest,West,2017-03-01,Utah Jazz,1.0,25.0
+1455,Minnesota Timberwolves,Northwest,West,2017-03-04,San Antonio Spurs,0.0,25.0
+1456,Minnesota Timberwolves,Northwest,West,2017-03-08,LA Clippers,1.0,26.0
+1457,Minnesota Timberwolves,Northwest,West,2017-03-10,Golden State Warriors,1.0,27.0
+1458,Minnesota Timberwolves,Northwest,West,2017-03-11,Milwaukee Bucks,0.0,27.0
+1459,Minnesota Timberwolves,Northwest,West,2017-03-13,Washington Wizards,1.0,28.0
+1460,Minnesota Timberwolves,Northwest,West,2017-03-15,Boston Celtics,0.0,28.0
+1461,Minnesota Timberwolves,Northwest,West,2017-03-17,Miami Heat,0.0,28.0
+1462,Minnesota Timberwolves,Northwest,West,2017-03-19,New Orleans Pelicans,0.0,28.0
+1463,Minnesota Timberwolves,Northwest,West,2017-03-21,San Antonio Spurs,0.0,28.0
+1464,Minnesota Timberwolves,Northwest,West,2017-03-24,Los Angeles Lakers,0.0,28.0
+1465,Minnesota Timberwolves,Northwest,West,2017-03-25,Portland Trail Blazers,0.0,28.0
+1466,Minnesota Timberwolves,Northwest,West,2017-03-28,Indiana Pacers,1.0,29.0
+1467,Minnesota Timberwolves,Northwest,West,2017-03-30,Los Angeles Lakers,1.0,30.0
+1468,Minnesota Timberwolves,Northwest,West,2017-04-01,Sacramento Kings,0.0,30.0
+1469,Minnesota Timberwolves,Northwest,West,2017-04-03,Portland Trail Blazers,1.0,31.0
+1470,Minnesota Timberwolves,Northwest,West,2017-04-04,Golden State Warriors,0.0,31.0
+1471,Minnesota Timberwolves,Northwest,West,2017-04-06,Portland Trail Blazers,0.0,31.0
+1472,Minnesota Timberwolves,Northwest,West,2017-04-07,Utah Jazz,0.0,31.0
+1473,Minnesota Timberwolves,Northwest,West,2017-04-09,Los Angeles Lakers,0.0,31.0
+1474,Minnesota Timberwolves,Northwest,West,2017-04-11,Oklahoma City Thunder,0.0,31.0
+1475,Minnesota Timberwolves,Northwest,West,2017-04-12,Houston Rockets,0.0,31.0
+1476,New Orleans Pelicans,Southwest,West,2016-10-26,Denver Nuggets,0.0,0.0
+1477,New Orleans Pelicans,Southwest,West,2016-10-28,Golden State Warriors,0.0,0.0
+1478,New Orleans Pelicans,Southwest,West,2016-10-29,San Antonio Spurs,0.0,0.0
+1479,New Orleans Pelicans,Southwest,West,2016-11-01,Milwaukee Bucks,0.0,0.0
+1480,New Orleans Pelicans,Southwest,West,2016-11-02,Memphis Grizzlies,0.0,0.0
+1481,New Orleans Pelicans,Southwest,West,2016-11-04,Phoenix Suns,0.0,0.0
+1482,New Orleans Pelicans,Southwest,West,2016-11-07,Golden State Warriors,0.0,0.0
+1483,New Orleans Pelicans,Southwest,West,2016-11-08,Sacramento Kings,0.0,0.0
+1484,New Orleans Pelicans,Southwest,West,2016-11-10,Milwaukee Bucks,1.0,1.0
+1485,New Orleans Pelicans,Southwest,West,2016-11-12,Los Angeles Lakers,0.0,1.0
+1486,New Orleans Pelicans,Southwest,West,2016-11-14,Boston Celtics,1.0,2.0
+1487,New Orleans Pelicans,Southwest,West,2016-11-16,Orlando Magic,0.0,2.0
+1488,New Orleans Pelicans,Southwest,West,2016-11-18,Portland Trail Blazers,1.0,3.0
+1489,New Orleans Pelicans,Southwest,West,2016-11-19,Charlotte Hornets,1.0,4.0
+1490,New Orleans Pelicans,Southwest,West,2016-11-22,Atlanta Hawks,1.0,5.0
+1491,New Orleans Pelicans,Southwest,West,2016-11-23,Minnesota Timberwolves,1.0,6.0
+1492,New Orleans Pelicans,Southwest,West,2016-11-25,Portland Trail Blazers,0.0,6.0
+1493,New Orleans Pelicans,Southwest,West,2016-11-27,Dallas Mavericks,0.0,6.0
+1494,New Orleans Pelicans,Southwest,West,2016-11-29,Los Angeles Lakers,1.0,7.0
+1495,New Orleans Pelicans,Southwest,West,2016-12-02,LA Clippers,0.0,7.0
+1496,New Orleans Pelicans,Southwest,West,2016-12-04,Oklahoma City Thunder,0.0,7.0
+1497,New Orleans Pelicans,Southwest,West,2016-12-05,Memphis Grizzlies,0.0,7.0
+1498,New Orleans Pelicans,Southwest,West,2016-12-08,Philadelphia 76ers,0.0,7.0
+1499,New Orleans Pelicans,Southwest,West,2016-12-10,LA Clippers,0.0,7.0
+1500,New Orleans Pelicans,Southwest,West,2016-12-11,Phoenix Suns,1.0,8.0
+1501,New Orleans Pelicans,Southwest,West,2016-12-13,Golden State Warriors,0.0,8.0
+1502,New Orleans Pelicans,Southwest,West,2016-12-15,Indiana Pacers,1.0,9.0
+1503,New Orleans Pelicans,Southwest,West,2016-12-16,Houston Rockets,0.0,9.0
+1504,New Orleans Pelicans,Southwest,West,2016-12-18,San Antonio Spurs,0.0,9.0
+1505,New Orleans Pelicans,Southwest,West,2016-12-20,Philadelphia 76ers,1.0,10.0
+1506,New Orleans Pelicans,Southwest,West,2016-12-21,Oklahoma City Thunder,0.0,10.0
+1507,New Orleans Pelicans,Southwest,West,2016-12-23,Miami Heat,1.0,11.0
+1508,New Orleans Pelicans,Southwest,West,2016-12-26,Dallas Mavericks,1.0,12.0
+1509,New Orleans Pelicans,Southwest,West,2016-12-28,LA Clippers,1.0,13.0
+1510,New Orleans Pelicans,Southwest,West,2016-12-30,New York Knicks,1.0,14.0
+1511,New Orleans Pelicans,Southwest,West,2017-01-02,Cleveland Cavaliers,0.0,14.0
+1512,New Orleans Pelicans,Southwest,West,2017-01-05,Atlanta Hawks,0.0,14.0
+1513,New Orleans Pelicans,Southwest,West,2017-01-07,Boston Celtics,0.0,14.0
+1514,New Orleans Pelicans,Southwest,West,2017-01-09,New York Knicks,1.0,15.0
+1515,New Orleans Pelicans,Southwest,West,2017-01-12,Brooklyn Nets,1.0,16.0
+1516,New Orleans Pelicans,Southwest,West,2017-01-14,Chicago Bulls,0.0,16.0
+1517,New Orleans Pelicans,Southwest,West,2017-01-16,Indiana Pacers,0.0,16.0
+1518,New Orleans Pelicans,Southwest,West,2017-01-18,Orlando Magic,1.0,17.0
+1519,New Orleans Pelicans,Southwest,West,2017-01-20,Brooklyn Nets,0.0,17.0
+1520,New Orleans Pelicans,Southwest,West,2017-01-23,Cleveland Cavaliers,1.0,18.0
+1521,New Orleans Pelicans,Southwest,West,2017-01-25,Oklahoma City Thunder,0.0,18.0
+1522,New Orleans Pelicans,Southwest,West,2017-01-27,San Antonio Spurs,1.0,19.0
+1523,New Orleans Pelicans,Southwest,West,2017-01-29,Washington Wizards,0.0,19.0
+1524,New Orleans Pelicans,Southwest,West,2017-01-31,Toronto Raptors,0.0,19.0
+1525,New Orleans Pelicans,Southwest,West,2017-02-01,Detroit Pistons,0.0,19.0
+1526,New Orleans Pelicans,Southwest,West,2017-02-04,Washington Wizards,0.0,19.0
+1527,New Orleans Pelicans,Southwest,West,2017-02-06,Phoenix Suns,1.0,20.0
+1528,New Orleans Pelicans,Southwest,West,2017-02-08,Utah Jazz,0.0,20.0
+1529,New Orleans Pelicans,Southwest,West,2017-02-10,Minnesota Timberwolves,1.0,21.0
+1530,New Orleans Pelicans,Southwest,West,2017-02-12,Sacramento Kings,0.0,21.0
+1531,New Orleans Pelicans,Southwest,West,2017-02-13,Phoenix Suns,1.0,22.0
+1532,New Orleans Pelicans,Southwest,West,2017-02-15,Memphis Grizzlies,1.0,23.0
+1533,New Orleans Pelicans,Southwest,West,2017-02-23,Houston Rockets,0.0,23.0
+1534,New Orleans Pelicans,Southwest,West,2017-02-25,Dallas Mavericks,0.0,23.0
+1535,New Orleans Pelicans,Southwest,West,2017-02-26,Oklahoma City Thunder,0.0,23.0
+1536,New Orleans Pelicans,Southwest,West,2017-03-01,Detroit Pistons,1.0,24.0
+1537,New Orleans Pelicans,Southwest,West,2017-03-03,San Antonio Spurs,0.0,24.0
+1538,New Orleans Pelicans,Southwest,West,2017-03-05,Los Angeles Lakers,1.0,25.0
+1539,New Orleans Pelicans,Southwest,West,2017-03-06,Utah Jazz,0.0,25.0
+1540,New Orleans Pelicans,Southwest,West,2017-03-08,Toronto Raptors,0.0,25.0
+1541,New Orleans Pelicans,Southwest,West,2017-03-11,Charlotte Hornets,1.0,26.0
+1542,New Orleans Pelicans,Southwest,West,2017-03-14,Portland Trail Blazers,1.0,27.0
+1543,New Orleans Pelicans,Southwest,West,2017-03-15,Miami Heat,0.0,27.0
+1544,New Orleans Pelicans,Southwest,West,2017-03-17,Houston Rockets,1.0,28.0
+1545,New Orleans Pelicans,Southwest,West,2017-03-19,Minnesota Timberwolves,1.0,29.0
+1546,New Orleans Pelicans,Southwest,West,2017-03-21,Memphis Grizzlies,1.0,30.0
+1547,New Orleans Pelicans,Southwest,West,2017-03-24,Houston Rockets,0.0,30.0
+1548,New Orleans Pelicans,Southwest,West,2017-03-26,Denver Nuggets,1.0,31.0
+1549,New Orleans Pelicans,Southwest,West,2017-03-27,Utah Jazz,0.0,31.0
+1550,New Orleans Pelicans,Southwest,West,2017-03-29,Dallas Mavericks,1.0,32.0
+1551,New Orleans Pelicans,Southwest,West,2017-03-31,Sacramento Kings,1.0,33.0
+1552,New Orleans Pelicans,Southwest,West,2017-04-02,Chicago Bulls,0.0,33.0
+1553,New Orleans Pelicans,Southwest,West,2017-04-04,Denver Nuggets,0.0,33.0
+1554,New Orleans Pelicans,Southwest,West,2017-04-07,Denver Nuggets,0.0,33.0
+1555,New Orleans Pelicans,Southwest,West,2017-04-08,Golden State Warriors,0.0,33.0
+1556,New Orleans Pelicans,Southwest,West,2017-04-11,Los Angeles Lakers,0.0,33.0
+1557,New Orleans Pelicans,Southwest,West,2017-04-12,Portland Trail Blazers,1.0,34.0
+1558,New York Knicks,Atlantic,East,2016-10-25,Cleveland Cavaliers,0.0,0.0
+1559,New York Knicks,Atlantic,East,2016-10-29,Memphis Grizzlies,1.0,1.0
+1560,New York Knicks,Atlantic,East,2016-11-01,Detroit Pistons,0.0,1.0
+1561,New York Knicks,Atlantic,East,2016-11-02,Houston Rockets,0.0,1.0
+1562,New York Knicks,Atlantic,East,2016-11-04,Chicago Bulls,1.0,2.0
+1563,New York Knicks,Atlantic,East,2016-11-06,Utah Jazz,0.0,2.0
+1564,New York Knicks,Atlantic,East,2016-11-09,Brooklyn Nets,1.0,3.0
+1565,New York Knicks,Atlantic,East,2016-11-11,Boston Celtics,0.0,3.0
+1566,New York Knicks,Atlantic,East,2016-11-12,Toronto Raptors,0.0,3.0
+1567,New York Knicks,Atlantic,East,2016-11-14,Dallas Mavericks,1.0,4.0
+1568,New York Knicks,Atlantic,East,2016-11-16,Detroit Pistons,1.0,5.0
+1569,New York Knicks,Atlantic,East,2016-11-17,Washington Wizards,0.0,5.0
+1570,New York Knicks,Atlantic,East,2016-11-20,Atlanta Hawks,1.0,6.0
+1571,New York Knicks,Atlantic,East,2016-11-22,Portland Trail Blazers,1.0,7.0
+1572,New York Knicks,Atlantic,East,2016-11-25,Charlotte Hornets,1.0,8.0
+1573,New York Knicks,Atlantic,East,2016-11-26,Charlotte Hornets,0.0,8.0
+1574,New York Knicks,Atlantic,East,2016-11-28,Oklahoma City Thunder,0.0,8.0
+1575,New York Knicks,Atlantic,East,2016-11-30,Minnesota Timberwolves,1.0,9.0
+1576,New York Knicks,Atlantic,East,2016-12-02,Minnesota Timberwolves,1.0,10.0
+1577,New York Knicks,Atlantic,East,2016-12-04,Sacramento Kings,1.0,11.0
+1578,New York Knicks,Atlantic,East,2016-12-06,Miami Heat,1.0,12.0
+1579,New York Knicks,Atlantic,East,2016-12-07,Cleveland Cavaliers,0.0,12.0
+1580,New York Knicks,Atlantic,East,2016-12-09,Sacramento Kings,1.0,13.0
+1581,New York Knicks,Atlantic,East,2016-12-11,Los Angeles Lakers,1.0,14.0
+1582,New York Knicks,Atlantic,East,2016-12-13,Phoenix Suns,0.0,14.0
+1583,New York Knicks,Atlantic,East,2016-12-15,Golden State Warriors,0.0,14.0
+1584,New York Knicks,Atlantic,East,2016-12-17,Denver Nuggets,0.0,14.0
+1585,New York Knicks,Atlantic,East,2016-12-20,Indiana Pacers,1.0,15.0
+1586,New York Knicks,Atlantic,East,2016-12-22,Orlando Magic,1.0,16.0
+1587,New York Knicks,Atlantic,East,2016-12-25,Boston Celtics,0.0,16.0
+1588,New York Knicks,Atlantic,East,2016-12-28,Atlanta Hawks,0.0,16.0
+1589,New York Knicks,Atlantic,East,2016-12-30,New Orleans Pelicans,0.0,16.0
+1590,New York Knicks,Atlantic,East,2016-12-31,Houston Rockets,0.0,16.0
+1591,New York Knicks,Atlantic,East,2017-01-02,Orlando Magic,0.0,16.0
+1592,New York Knicks,Atlantic,East,2017-01-04,Milwaukee Bucks,0.0,16.0
+1593,New York Knicks,Atlantic,East,2017-01-06,Milwaukee Bucks,1.0,17.0
+1594,New York Knicks,Atlantic,East,2017-01-07,Indiana Pacers,0.0,17.0
+1595,New York Knicks,Atlantic,East,2017-01-09,New Orleans Pelicans,0.0,17.0
+1596,New York Knicks,Atlantic,East,2017-01-11,Philadelphia 76ers,0.0,17.0
+1597,New York Knicks,Atlantic,East,2017-01-12,Chicago Bulls,1.0,18.0
+1598,New York Knicks,Atlantic,East,2017-01-15,Toronto Raptors,0.0,18.0
+1599,New York Knicks,Atlantic,East,2017-01-16,Atlanta Hawks,0.0,18.0
+1600,New York Knicks,Atlantic,East,2017-01-18,Boston Celtics,1.0,19.0
+1601,New York Knicks,Atlantic,East,2017-01-19,Washington Wizards,0.0,19.0
+1602,New York Knicks,Atlantic,East,2017-01-21,Phoenix Suns,0.0,19.0
+1603,New York Knicks,Atlantic,East,2017-01-23,Indiana Pacers,1.0,20.0
+1604,New York Knicks,Atlantic,East,2017-01-25,Dallas Mavericks,0.0,20.0
+1605,New York Knicks,Atlantic,East,2017-01-27,Charlotte Hornets,1.0,21.0
+1606,New York Knicks,Atlantic,East,2017-01-29,Atlanta Hawks,0.0,21.0
+1607,New York Knicks,Atlantic,East,2017-01-31,Washington Wizards,0.0,21.0
+1608,New York Knicks,Atlantic,East,2017-02-01,Brooklyn Nets,1.0,22.0
+1609,New York Knicks,Atlantic,East,2017-02-04,Cleveland Cavaliers,0.0,22.0
+1610,New York Knicks,Atlantic,East,2017-02-06,Los Angeles Lakers,0.0,22.0
+1611,New York Knicks,Atlantic,East,2017-02-08,LA Clippers,0.0,22.0
+1612,New York Knicks,Atlantic,East,2017-02-10,Denver Nuggets,0.0,22.0
+1613,New York Knicks,Atlantic,East,2017-02-12,San Antonio Spurs,1.0,23.0
+1614,New York Knicks,Atlantic,East,2017-02-15,Oklahoma City Thunder,0.0,23.0
+1615,New York Knicks,Atlantic,East,2017-02-23,Cleveland Cavaliers,0.0,23.0
+1616,New York Knicks,Atlantic,East,2017-02-25,Philadelphia 76ers,1.0,24.0
+1617,New York Knicks,Atlantic,East,2017-02-27,Toronto Raptors,0.0,24.0
+1618,New York Knicks,Atlantic,East,2017-03-01,Orlando Magic,1.0,25.0
+1619,New York Knicks,Atlantic,East,2017-03-03,Philadelphia 76ers,0.0,25.0
+1620,New York Knicks,Atlantic,East,2017-03-05,Golden State Warriors,0.0,25.0
+1621,New York Knicks,Atlantic,East,2017-03-06,Orlando Magic,1.0,26.0
+1622,New York Knicks,Atlantic,East,2017-03-08,Milwaukee Bucks,0.0,26.0
+1623,New York Knicks,Atlantic,East,2017-03-11,Detroit Pistons,0.0,26.0
+1624,New York Knicks,Atlantic,East,2017-03-12,Brooklyn Nets,0.0,26.0
+1625,New York Knicks,Atlantic,East,2017-03-14,Indiana Pacers,1.0,27.0
+1626,New York Knicks,Atlantic,East,2017-03-16,Brooklyn Nets,0.0,27.0
+1627,New York Knicks,Atlantic,East,2017-03-20,LA Clippers,0.0,27.0
+1628,New York Knicks,Atlantic,East,2017-03-22,Utah Jazz,0.0,27.0
+1629,New York Knicks,Atlantic,East,2017-03-23,Portland Trail Blazers,0.0,27.0
+1630,New York Knicks,Atlantic,East,2017-03-25,San Antonio Spurs,0.0,27.0
+1631,New York Knicks,Atlantic,East,2017-03-27,Detroit Pistons,1.0,28.0
+1632,New York Knicks,Atlantic,East,2017-03-29,Miami Heat,0.0,28.0
+1633,New York Knicks,Atlantic,East,2017-03-31,Miami Heat,1.0,29.0
+1634,New York Knicks,Atlantic,East,2017-04-02,Boston Celtics,0.0,29.0
+1635,New York Knicks,Atlantic,East,2017-04-04,Chicago Bulls,1.0,30.0
+1636,New York Knicks,Atlantic,East,2017-04-06,Washington Wizards,0.0,30.0
+1637,New York Knicks,Atlantic,East,2017-04-07,Memphis Grizzlies,0.0,30.0
+1638,New York Knicks,Atlantic,East,2017-04-09,Toronto Raptors,0.0,30.0
+1639,New York Knicks,Atlantic,East,2017-04-12,Philadelphia 76ers,1.0,31.0
+1640,Oklahoma City Thunder,Northwest,West,2016-10-26,Philadelphia 76ers,1.0,1.0
+1641,Oklahoma City Thunder,Northwest,West,2016-10-28,Phoenix Suns,1.0,2.0
+1642,Oklahoma City Thunder,Northwest,West,2016-10-30,Los Angeles Lakers,1.0,3.0
+1643,Oklahoma City Thunder,Northwest,West,2016-11-02,LA Clippers,1.0,4.0
+1644,Oklahoma City Thunder,Northwest,West,2016-11-03,Golden State Warriors,0.0,4.0
+1645,Oklahoma City Thunder,Northwest,West,2016-11-05,Minnesota Timberwolves,1.0,5.0
+1646,Oklahoma City Thunder,Northwest,West,2016-11-07,Miami Heat,1.0,6.0
+1647,Oklahoma City Thunder,Northwest,West,2016-11-09,Toronto Raptors,0.0,6.0
+1648,Oklahoma City Thunder,Northwest,West,2016-11-11,LA Clippers,0.0,6.0
+1649,Oklahoma City Thunder,Northwest,West,2016-11-13,Orlando Magic,0.0,6.0
+1650,Oklahoma City Thunder,Northwest,West,2016-11-14,Detroit Pistons,0.0,6.0
+1651,Oklahoma City Thunder,Northwest,West,2016-11-16,Houston Rockets,1.0,7.0
+1652,Oklahoma City Thunder,Northwest,West,2016-11-18,Brooklyn Nets,1.0,8.0
+1653,Oklahoma City Thunder,Northwest,West,2016-11-20,Indiana Pacers,0.0,8.0
+1654,Oklahoma City Thunder,Northwest,West,2016-11-22,Los Angeles Lakers,0.0,8.0
+1655,Oklahoma City Thunder,Northwest,West,2016-11-23,Sacramento Kings,0.0,8.0
+1656,Oklahoma City Thunder,Northwest,West,2016-11-25,Denver Nuggets,1.0,9.0
+1657,Oklahoma City Thunder,Northwest,West,2016-11-26,Detroit Pistons,1.0,10.0
+1658,Oklahoma City Thunder,Northwest,West,2016-11-28,New York Knicks,1.0,11.0
+1659,Oklahoma City Thunder,Northwest,West,2016-11-30,Washington Wizards,1.0,12.0
+1660,Oklahoma City Thunder,Northwest,West,2016-12-04,New Orleans Pelicans,1.0,13.0
+1661,Oklahoma City Thunder,Northwest,West,2016-12-05,Atlanta Hawks,1.0,14.0
+1662,Oklahoma City Thunder,Northwest,West,2016-12-09,Houston Rockets,0.0,14.0
+1663,Oklahoma City Thunder,Northwest,West,2016-12-11,Boston Celtics,1.0,15.0
+1664,Oklahoma City Thunder,Northwest,West,2016-12-13,Portland Trail Blazers,0.0,15.0
+1665,Oklahoma City Thunder,Northwest,West,2016-12-14,Utah Jazz,0.0,15.0
+1666,Oklahoma City Thunder,Northwest,West,2016-12-17,Phoenix Suns,1.0,16.0
+1667,Oklahoma City Thunder,Northwest,West,2016-12-19,Atlanta Hawks,0.0,16.0
+1668,Oklahoma City Thunder,Northwest,West,2016-12-21,New Orleans Pelicans,1.0,17.0
+1669,Oklahoma City Thunder,Northwest,West,2016-12-23,Boston Celtics,1.0,18.0
+1670,Oklahoma City Thunder,Northwest,West,2016-12-25,Minnesota Timberwolves,1.0,19.0
+1671,Oklahoma City Thunder,Northwest,West,2016-12-27,Miami Heat,1.0,20.0
+1672,Oklahoma City Thunder,Northwest,West,2016-12-29,Memphis Grizzlies,0.0,20.0
+1673,Oklahoma City Thunder,Northwest,West,2016-12-31,LA Clippers,1.0,21.0
+1674,Oklahoma City Thunder,Northwest,West,2017-01-02,Milwaukee Bucks,0.0,21.0
+1675,Oklahoma City Thunder,Northwest,West,2017-01-04,Charlotte Hornets,0.0,21.0
+1676,Oklahoma City Thunder,Northwest,West,2017-01-05,Houston Rockets,0.0,21.0
+1677,Oklahoma City Thunder,Northwest,West,2017-01-07,Denver Nuggets,1.0,22.0
+1678,Oklahoma City Thunder,Northwest,West,2017-01-09,Chicago Bulls,1.0,23.0
+1679,Oklahoma City Thunder,Northwest,West,2017-01-11,Memphis Grizzlies,1.0,24.0
+1680,Oklahoma City Thunder,Northwest,West,2017-01-13,Minnesota Timberwolves,0.0,24.0
+1681,Oklahoma City Thunder,Northwest,West,2017-01-15,Sacramento Kings,1.0,25.0
+1682,Oklahoma City Thunder,Northwest,West,2017-01-16,LA Clippers,0.0,25.0
+1683,Oklahoma City Thunder,Northwest,West,2017-01-18,Golden State Warriors,0.0,25.0
+1684,Oklahoma City Thunder,Northwest,West,2017-01-23,Utah Jazz,1.0,26.0
+1685,Oklahoma City Thunder,Northwest,West,2017-01-25,New Orleans Pelicans,1.0,27.0
+1686,Oklahoma City Thunder,Northwest,West,2017-01-26,Dallas Mavericks,1.0,28.0
+1687,Oklahoma City Thunder,Northwest,West,2017-01-29,Cleveland Cavaliers,0.0,28.0
+1688,Oklahoma City Thunder,Northwest,West,2017-01-31,San Antonio Spurs,0.0,28.0
+1689,Oklahoma City Thunder,Northwest,West,2017-02-01,Chicago Bulls,0.0,28.0
+1690,Oklahoma City Thunder,Northwest,West,2017-02-03,Memphis Grizzlies,1.0,29.0
+1691,Oklahoma City Thunder,Northwest,West,2017-02-05,Portland Trail Blazers,1.0,30.0
+1692,Oklahoma City Thunder,Northwest,West,2017-02-06,Indiana Pacers,0.0,30.0
+1693,Oklahoma City Thunder,Northwest,West,2017-02-09,Cleveland Cavaliers,1.0,31.0
+1694,Oklahoma City Thunder,Northwest,West,2017-02-11,Golden State Warriors,0.0,31.0
+1695,Oklahoma City Thunder,Northwest,West,2017-02-13,Washington Wizards,0.0,31.0
+1696,Oklahoma City Thunder,Northwest,West,2017-02-15,New York Knicks,1.0,32.0
+1697,Oklahoma City Thunder,Northwest,West,2017-02-24,Los Angeles Lakers,1.0,33.0
+1698,Oklahoma City Thunder,Northwest,West,2017-02-26,New Orleans Pelicans,1.0,34.0
+1699,Oklahoma City Thunder,Northwest,West,2017-02-28,Utah Jazz,1.0,35.0
+1700,Oklahoma City Thunder,Northwest,West,2017-03-02,Portland Trail Blazers,0.0,35.0
+1701,Oklahoma City Thunder,Northwest,West,2017-03-03,Phoenix Suns,0.0,35.0
+1702,Oklahoma City Thunder,Northwest,West,2017-03-05,Dallas Mavericks,0.0,35.0
+1703,Oklahoma City Thunder,Northwest,West,2017-03-07,Portland Trail Blazers,0.0,35.0
+1704,Oklahoma City Thunder,Northwest,West,2017-03-09,San Antonio Spurs,1.0,36.0
+1705,Oklahoma City Thunder,Northwest,West,2017-03-11,Utah Jazz,1.0,37.0
+1706,Oklahoma City Thunder,Northwest,West,2017-03-14,Brooklyn Nets,1.0,38.0
+1707,Oklahoma City Thunder,Northwest,West,2017-03-16,Toronto Raptors,1.0,39.0
+1708,Oklahoma City Thunder,Northwest,West,2017-03-18,Sacramento Kings,1.0,40.0
+1709,Oklahoma City Thunder,Northwest,West,2017-03-20,Golden State Warriors,0.0,40.0
+1710,Oklahoma City Thunder,Northwest,West,2017-03-22,Philadelphia 76ers,1.0,41.0
+1711,Oklahoma City Thunder,Northwest,West,2017-03-26,Houston Rockets,0.0,41.0
+1712,Oklahoma City Thunder,Northwest,West,2017-03-27,Dallas Mavericks,1.0,42.0
+1713,Oklahoma City Thunder,Northwest,West,2017-03-29,Orlando Magic,1.0,43.0
+1714,Oklahoma City Thunder,Northwest,West,2017-03-31,San Antonio Spurs,0.0,43.0
+1715,Oklahoma City Thunder,Northwest,West,2017-04-02,Charlotte Hornets,0.0,43.0
+1716,Oklahoma City Thunder,Northwest,West,2017-04-04,Milwaukee Bucks,1.0,44.0
+1717,Oklahoma City Thunder,Northwest,West,2017-04-05,Memphis Grizzlies,1.0,45.0
+1718,Oklahoma City Thunder,Northwest,West,2017-04-07,Phoenix Suns,0.0,45.0
+1719,Oklahoma City Thunder,Northwest,West,2017-04-09,Denver Nuggets,1.0,46.0
+1720,Oklahoma City Thunder,Northwest,West,2017-04-11,Minnesota Timberwolves,1.0,47.0
+1721,Oklahoma City Thunder,Northwest,West,2017-04-12,Denver Nuggets,0.0,47.0
+1722,Orlando Magic,Southeast,East,2016-10-26,Miami Heat,0.0,0.0
+1723,Orlando Magic,Southeast,East,2016-10-28,Detroit Pistons,0.0,0.0
+1724,Orlando Magic,Southeast,East,2016-10-29,Cleveland Cavaliers,0.0,0.0
+1725,Orlando Magic,Southeast,East,2016-11-01,Philadelphia 76ers,1.0,1.0
+1726,Orlando Magic,Southeast,East,2016-11-03,Sacramento Kings,1.0,2.0
+1727,Orlando Magic,Southeast,East,2016-11-05,Washington Wizards,1.0,3.0
+1728,Orlando Magic,Southeast,East,2016-11-07,Chicago Bulls,0.0,3.0
+1729,Orlando Magic,Southeast,East,2016-11-09,Minnesota Timberwolves,0.0,3.0
+1730,Orlando Magic,Southeast,East,2016-11-11,Utah Jazz,0.0,3.0
+1731,Orlando Magic,Southeast,East,2016-11-13,Oklahoma City Thunder,1.0,4.0
+1732,Orlando Magic,Southeast,East,2016-11-14,Indiana Pacers,0.0,4.0
+1733,Orlando Magic,Southeast,East,2016-11-16,New Orleans Pelicans,1.0,5.0
+1734,Orlando Magic,Southeast,East,2016-11-19,Dallas Mavericks,1.0,6.0
+1735,Orlando Magic,Southeast,East,2016-11-21,Milwaukee Bucks,0.0,6.0
+1736,Orlando Magic,Southeast,East,2016-11-23,Phoenix Suns,0.0,6.0
+1737,Orlando Magic,Southeast,East,2016-11-25,Washington Wizards,0.0,6.0
+1738,Orlando Magic,Southeast,East,2016-11-27,Milwaukee Bucks,0.0,6.0
+1739,Orlando Magic,Southeast,East,2016-11-29,San Antonio Spurs,1.0,7.0
+1740,Orlando Magic,Southeast,East,2016-12-01,Memphis Grizzlies,0.0,7.0
+1741,Orlando Magic,Southeast,East,2016-12-02,Philadelphia 76ers,1.0,8.0
+1742,Orlando Magic,Southeast,East,2016-12-04,Detroit Pistons,1.0,9.0
+1743,Orlando Magic,Southeast,East,2016-12-06,Washington Wizards,1.0,10.0
+1744,Orlando Magic,Southeast,East,2016-12-07,Boston Celtics,0.0,10.0
+1745,Orlando Magic,Southeast,East,2016-12-09,Charlotte Hornets,0.0,10.0
+1746,Orlando Magic,Southeast,East,2016-12-10,Denver Nuggets,0.0,10.0
+1747,Orlando Magic,Southeast,East,2016-12-13,Atlanta Hawks,1.0,11.0
+1748,Orlando Magic,Southeast,East,2016-12-14,LA Clippers,0.0,11.0
+1749,Orlando Magic,Southeast,East,2016-12-16,Brooklyn Nets,1.0,12.0
+1750,Orlando Magic,Southeast,East,2016-12-18,Toronto Raptors,0.0,12.0
+1751,Orlando Magic,Southeast,East,2016-12-20,Miami Heat,1.0,13.0
+1752,Orlando Magic,Southeast,East,2016-12-22,New York Knicks,0.0,13.0
+1753,Orlando Magic,Southeast,East,2016-12-23,Los Angeles Lakers,1.0,14.0
+1754,Orlando Magic,Southeast,East,2016-12-26,Memphis Grizzlies,1.0,15.0
+1755,Orlando Magic,Southeast,East,2016-12-28,Charlotte Hornets,0.0,15.0
+1756,Orlando Magic,Southeast,East,2017-01-01,Indiana Pacers,0.0,15.0
+1757,Orlando Magic,Southeast,East,2017-01-02,New York Knicks,1.0,16.0
+1758,Orlando Magic,Southeast,East,2017-01-04,Atlanta Hawks,0.0,16.0
+1759,Orlando Magic,Southeast,East,2017-01-06,Houston Rockets,0.0,16.0
+1760,Orlando Magic,Southeast,East,2017-01-08,Los Angeles Lakers,0.0,16.0
+1761,Orlando Magic,Southeast,East,2017-01-11,LA Clippers,0.0,16.0
+1762,Orlando Magic,Southeast,East,2017-01-13,Portland Trail Blazers,1.0,17.0
+1763,Orlando Magic,Southeast,East,2017-01-14,Utah Jazz,0.0,17.0
+1764,Orlando Magic,Southeast,East,2017-01-16,Denver Nuggets,0.0,17.0
+1765,Orlando Magic,Southeast,East,2017-01-18,New Orleans Pelicans,0.0,17.0
+1766,Orlando Magic,Southeast,East,2017-01-20,Milwaukee Bucks,1.0,18.0
+1767,Orlando Magic,Southeast,East,2017-01-22,Golden State Warriors,0.0,18.0
+1768,Orlando Magic,Southeast,East,2017-01-24,Chicago Bulls,0.0,18.0
+1769,Orlando Magic,Southeast,East,2017-01-27,Boston Celtics,0.0,18.0
+1770,Orlando Magic,Southeast,East,2017-01-29,Toronto Raptors,1.0,19.0
+1771,Orlando Magic,Southeast,East,2017-01-30,Minnesota Timberwolves,0.0,19.0
+1772,Orlando Magic,Southeast,East,2017-02-01,Indiana Pacers,0.0,19.0
+1773,Orlando Magic,Southeast,East,2017-02-03,Toronto Raptors,1.0,20.0
+1774,Orlando Magic,Southeast,East,2017-02-04,Atlanta Hawks,0.0,20.0
+1775,Orlando Magic,Southeast,East,2017-02-07,Houston Rockets,0.0,20.0
+1776,Orlando Magic,Southeast,East,2017-02-09,Philadelphia 76ers,0.0,20.0
+1777,Orlando Magic,Southeast,East,2017-02-11,Dallas Mavericks,0.0,20.0
+1778,Orlando Magic,Southeast,East,2017-02-13,Miami Heat,1.0,21.0
+1779,Orlando Magic,Southeast,East,2017-02-15,San Antonio Spurs,0.0,21.0
+1780,Orlando Magic,Southeast,East,2017-02-23,Portland Trail Blazers,0.0,21.0
+1781,Orlando Magic,Southeast,East,2017-02-25,Atlanta Hawks,1.0,22.0
+1782,Orlando Magic,Southeast,East,2017-03-01,New York Knicks,0.0,22.0
+1783,Orlando Magic,Southeast,East,2017-03-03,Miami Heat,1.0,23.0
+1784,Orlando Magic,Southeast,East,2017-03-05,Washington Wizards,0.0,23.0
+1785,Orlando Magic,Southeast,East,2017-03-06,New York Knicks,0.0,23.0
+1786,Orlando Magic,Southeast,East,2017-03-08,Chicago Bulls,1.0,24.0
+1787,Orlando Magic,Southeast,East,2017-03-10,Charlotte Hornets,0.0,24.0
+1788,Orlando Magic,Southeast,East,2017-03-11,Cleveland Cavaliers,0.0,24.0
+1789,Orlando Magic,Southeast,East,2017-03-13,Sacramento Kings,0.0,24.0
+1790,Orlando Magic,Southeast,East,2017-03-16,Golden State Warriors,0.0,24.0
+1791,Orlando Magic,Southeast,East,2017-03-17,Phoenix Suns,1.0,25.0
+1792,Orlando Magic,Southeast,East,2017-03-20,Philadelphia 76ers,1.0,26.0
+1793,Orlando Magic,Southeast,East,2017-03-22,Charlotte Hornets,0.0,26.0
+1794,Orlando Magic,Southeast,East,2017-03-24,Detroit Pistons,1.0,27.0
+1795,Orlando Magic,Southeast,East,2017-03-27,Toronto Raptors,0.0,27.0
+1796,Orlando Magic,Southeast,East,2017-03-29,Oklahoma City Thunder,0.0,27.0
+1797,Orlando Magic,Southeast,East,2017-03-31,Boston Celtics,0.0,27.0
+1798,Orlando Magic,Southeast,East,2017-04-01,Brooklyn Nets,0.0,27.0
+1799,Orlando Magic,Southeast,East,2017-04-04,Cleveland Cavaliers,0.0,27.0
+1800,Orlando Magic,Southeast,East,2017-04-06,Brooklyn Nets,1.0,28.0
+1801,Orlando Magic,Southeast,East,2017-04-08,Indiana Pacers,0.0,28.0
+1802,Orlando Magic,Southeast,East,2017-04-10,Chicago Bulls,0.0,28.0
+1803,Orlando Magic,Southeast,East,2017-04-12,Detroit Pistons,1.0,29.0
+1804,Philadelphia 76ers,Atlantic,East,2016-10-26,Oklahoma City Thunder,0.0,0.0
+1805,Philadelphia 76ers,Atlantic,East,2016-10-29,Atlanta Hawks,0.0,0.0
+1806,Philadelphia 76ers,Atlantic,East,2016-11-01,Orlando Magic,0.0,0.0
+1807,Philadelphia 76ers,Atlantic,East,2016-11-02,Charlotte Hornets,0.0,0.0
+1808,Philadelphia 76ers,Atlantic,East,2016-11-05,Cleveland Cavaliers,0.0,0.0
+1809,Philadelphia 76ers,Atlantic,East,2016-11-07,Utah Jazz,0.0,0.0
+1810,Philadelphia 76ers,Atlantic,East,2016-11-09,Indiana Pacers,0.0,0.0
+1811,Philadelphia 76ers,Atlantic,East,2016-11-11,Indiana Pacers,1.0,1.0
+1812,Philadelphia 76ers,Atlantic,East,2016-11-12,Atlanta Hawks,0.0,1.0
+1813,Philadelphia 76ers,Atlantic,East,2016-11-14,Houston Rockets,0.0,1.0
+1814,Philadelphia 76ers,Atlantic,East,2016-11-16,Washington Wizards,1.0,2.0
+1815,Philadelphia 76ers,Atlantic,East,2016-11-17,Minnesota Timberwolves,0.0,2.0
+1816,Philadelphia 76ers,Atlantic,East,2016-11-19,Phoenix Suns,1.0,3.0
+1817,Philadelphia 76ers,Atlantic,East,2016-11-21,Miami Heat,1.0,4.0
+1818,Philadelphia 76ers,Atlantic,East,2016-11-23,Memphis Grizzlies,0.0,4.0
+1819,Philadelphia 76ers,Atlantic,East,2016-11-25,Chicago Bulls,0.0,4.0
+1820,Philadelphia 76ers,Atlantic,East,2016-11-27,Cleveland Cavaliers,0.0,4.0
+1821,Philadelphia 76ers,Atlantic,East,2016-11-28,Toronto Raptors,0.0,4.0
+1822,Philadelphia 76ers,Atlantic,East,2016-12-02,Orlando Magic,0.0,4.0
+1823,Philadelphia 76ers,Atlantic,East,2016-12-03,Boston Celtics,0.0,4.0
+1824,Philadelphia 76ers,Atlantic,East,2016-12-05,Denver Nuggets,0.0,4.0
+1825,Philadelphia 76ers,Atlantic,East,2016-12-06,Memphis Grizzlies,0.0,4.0
+1826,Philadelphia 76ers,Atlantic,East,2016-12-08,New Orleans Pelicans,1.0,5.0
+1827,Philadelphia 76ers,Atlantic,East,2016-12-11,Detroit Pistons,1.0,6.0
+1828,Philadelphia 76ers,Atlantic,East,2016-12-14,Toronto Raptors,0.0,6.0
+1829,Philadelphia 76ers,Atlantic,East,2016-12-16,Los Angeles Lakers,0.0,6.0
+1830,Philadelphia 76ers,Atlantic,East,2016-12-18,Brooklyn Nets,1.0,7.0
+1831,Philadelphia 76ers,Atlantic,East,2016-12-20,New Orleans Pelicans,0.0,7.0
+1832,Philadelphia 76ers,Atlantic,East,2016-12-23,Phoenix Suns,0.0,7.0
+1833,Philadelphia 76ers,Atlantic,East,2016-12-26,Sacramento Kings,0.0,7.0
+1834,Philadelphia 76ers,Atlantic,East,2016-12-29,Utah Jazz,0.0,7.0
+1835,Philadelphia 76ers,Atlantic,East,2016-12-30,Denver Nuggets,1.0,8.0
+1836,Philadelphia 76ers,Atlantic,East,2017-01-03,Minnesota Timberwolves,1.0,9.0
+1837,Philadelphia 76ers,Atlantic,East,2017-01-06,Boston Celtics,0.0,9.0
+1838,Philadelphia 76ers,Atlantic,East,2017-01-08,Brooklyn Nets,1.0,10.0
+1839,Philadelphia 76ers,Atlantic,East,2017-01-11,New York Knicks,1.0,11.0
+1840,Philadelphia 76ers,Atlantic,East,2017-01-13,Charlotte Hornets,1.0,12.0
+1841,Philadelphia 76ers,Atlantic,East,2017-01-14,Washington Wizards,0.0,12.0
+1842,Philadelphia 76ers,Atlantic,East,2017-01-16,Milwaukee Bucks,1.0,13.0
+1843,Philadelphia 76ers,Atlantic,East,2017-01-18,Toronto Raptors,1.0,14.0
+1844,Philadelphia 76ers,Atlantic,East,2017-01-20,Portland Trail Blazers,1.0,15.0
+1845,Philadelphia 76ers,Atlantic,East,2017-01-21,Atlanta Hawks,0.0,15.0
+1846,Philadelphia 76ers,Atlantic,East,2017-01-24,LA Clippers,1.0,16.0
+1847,Philadelphia 76ers,Atlantic,East,2017-01-25,Milwaukee Bucks,1.0,17.0
+1848,Philadelphia 76ers,Atlantic,East,2017-01-27,Houston Rockets,0.0,17.0
+1849,Philadelphia 76ers,Atlantic,East,2017-01-29,Chicago Bulls,0.0,17.0
+1850,Philadelphia 76ers,Atlantic,East,2017-01-30,Sacramento Kings,1.0,18.0
+1851,Philadelphia 76ers,Atlantic,East,2017-02-01,Dallas Mavericks,0.0,18.0
+1852,Philadelphia 76ers,Atlantic,East,2017-02-02,San Antonio Spurs,0.0,18.0
+1853,Philadelphia 76ers,Atlantic,East,2017-02-04,Miami Heat,0.0,18.0
+1854,Philadelphia 76ers,Atlantic,East,2017-02-06,Detroit Pistons,0.0,18.0
+1855,Philadelphia 76ers,Atlantic,East,2017-02-08,San Antonio Spurs,0.0,18.0
+1856,Philadelphia 76ers,Atlantic,East,2017-02-09,Orlando Magic,1.0,19.0
+1857,Philadelphia 76ers,Atlantic,East,2017-02-11,Miami Heat,1.0,20.0
+1858,Philadelphia 76ers,Atlantic,East,2017-02-13,Charlotte Hornets,1.0,21.0
+1859,Philadelphia 76ers,Atlantic,East,2017-02-15,Boston Celtics,0.0,21.0
+1860,Philadelphia 76ers,Atlantic,East,2017-02-24,Washington Wizards,1.0,22.0
+1861,Philadelphia 76ers,Atlantic,East,2017-02-25,New York Knicks,0.0,22.0
+1862,Philadelphia 76ers,Atlantic,East,2017-02-27,Golden State Warriors,0.0,22.0
+1863,Philadelphia 76ers,Atlantic,East,2017-03-01,Miami Heat,0.0,22.0
+1864,Philadelphia 76ers,Atlantic,East,2017-03-03,New York Knicks,1.0,23.0
+1865,Philadelphia 76ers,Atlantic,East,2017-03-04,Detroit Pistons,0.0,23.0
+1866,Philadelphia 76ers,Atlantic,East,2017-03-06,Milwaukee Bucks,0.0,23.0
+1867,Philadelphia 76ers,Atlantic,East,2017-03-09,Portland Trail Blazers,0.0,23.0
+1868,Philadelphia 76ers,Atlantic,East,2017-03-11,LA Clippers,0.0,23.0
+1869,Philadelphia 76ers,Atlantic,East,2017-03-12,Los Angeles Lakers,1.0,24.0
+1870,Philadelphia 76ers,Atlantic,East,2017-03-14,Golden State Warriors,0.0,24.0
+1871,Philadelphia 76ers,Atlantic,East,2017-03-17,Dallas Mavericks,1.0,25.0
+1872,Philadelphia 76ers,Atlantic,East,2017-03-19,Boston Celtics,1.0,26.0
+1873,Philadelphia 76ers,Atlantic,East,2017-03-20,Orlando Magic,0.0,26.0
+1874,Philadelphia 76ers,Atlantic,East,2017-03-22,Oklahoma City Thunder,0.0,26.0
+1875,Philadelphia 76ers,Atlantic,East,2017-03-24,Chicago Bulls,1.0,27.0
+1876,Philadelphia 76ers,Atlantic,East,2017-03-26,Indiana Pacers,0.0,27.0
+1877,Philadelphia 76ers,Atlantic,East,2017-03-28,Brooklyn Nets,1.0,28.0
+1878,Philadelphia 76ers,Atlantic,East,2017-03-29,Atlanta Hawks,0.0,28.0
+1879,Philadelphia 76ers,Atlantic,East,2017-03-31,Cleveland Cavaliers,0.0,28.0
+1880,Philadelphia 76ers,Atlantic,East,2017-04-02,Toronto Raptors,0.0,28.0
+1881,Philadelphia 76ers,Atlantic,East,2017-04-04,Brooklyn Nets,0.0,28.0
+1882,Philadelphia 76ers,Atlantic,East,2017-04-06,Chicago Bulls,0.0,28.0
+1883,Philadelphia 76ers,Atlantic,East,2017-04-08,Milwaukee Bucks,0.0,28.0
+1884,Philadelphia 76ers,Atlantic,East,2017-04-10,Indiana Pacers,0.0,28.0
+1885,Philadelphia 76ers,Atlantic,East,2017-04-12,New York Knicks,0.0,28.0
+1886,Phoenix Suns,Pacific,West,2016-10-26,Sacramento Kings,0.0,0.0
+1887,Phoenix Suns,Pacific,West,2016-10-28,Oklahoma City Thunder,0.0,0.0
+1888,Phoenix Suns,Pacific,West,2016-10-30,Golden State Warriors,0.0,0.0
+1889,Phoenix Suns,Pacific,West,2016-10-31,LA Clippers,0.0,0.0
+1890,Phoenix Suns,Pacific,West,2016-11-02,Portland Trail Blazers,1.0,1.0
+1891,Phoenix Suns,Pacific,West,2016-11-04,New Orleans Pelicans,1.0,2.0
+1892,Phoenix Suns,Pacific,West,2016-11-06,Los Angeles Lakers,0.0,2.0
+1893,Phoenix Suns,Pacific,West,2016-11-08,Portland Trail Blazers,0.0,2.0
+1894,Phoenix Suns,Pacific,West,2016-11-09,Detroit Pistons,1.0,3.0
+1895,Phoenix Suns,Pacific,West,2016-11-12,Brooklyn Nets,0.0,3.0
+1896,Phoenix Suns,Pacific,West,2016-11-13,Golden State Warriors,0.0,3.0
+1897,Phoenix Suns,Pacific,West,2016-11-16,Denver Nuggets,0.0,3.0
+1898,Phoenix Suns,Pacific,West,2016-11-18,Indiana Pacers,1.0,4.0
+1899,Phoenix Suns,Pacific,West,2016-11-19,Philadelphia 76ers,0.0,4.0
+1900,Phoenix Suns,Pacific,West,2016-11-21,Washington Wizards,0.0,4.0
+1901,Phoenix Suns,Pacific,West,2016-11-23,Orlando Magic,1.0,5.0
+1902,Phoenix Suns,Pacific,West,2016-11-25,Minnesota Timberwolves,0.0,5.0
+1903,Phoenix Suns,Pacific,West,2016-11-27,Denver Nuggets,0.0,5.0
+1904,Phoenix Suns,Pacific,West,2016-11-30,Atlanta Hawks,1.0,6.0
+1905,Phoenix Suns,Pacific,West,2016-12-03,Golden State Warriors,0.0,6.0
+1906,Phoenix Suns,Pacific,West,2016-12-06,Utah Jazz,0.0,6.0
+1907,Phoenix Suns,Pacific,West,2016-12-07,Indiana Pacers,0.0,6.0
+1908,Phoenix Suns,Pacific,West,2016-12-09,Los Angeles Lakers,1.0,7.0
+1909,Phoenix Suns,Pacific,West,2016-12-11,New Orleans Pelicans,0.0,7.0
+1910,Phoenix Suns,Pacific,West,2016-12-13,New York Knicks,1.0,8.0
+1911,Phoenix Suns,Pacific,West,2016-12-15,San Antonio Spurs,0.0,8.0
+1912,Phoenix Suns,Pacific,West,2016-12-17,Oklahoma City Thunder,0.0,8.0
+1913,Phoenix Suns,Pacific,West,2016-12-19,Minnesota Timberwolves,0.0,8.0
+1914,Phoenix Suns,Pacific,West,2016-12-21,Houston Rockets,0.0,8.0
+1915,Phoenix Suns,Pacific,West,2016-12-23,Philadelphia 76ers,1.0,9.0
+1916,Phoenix Suns,Pacific,West,2016-12-26,Houston Rockets,0.0,9.0
+1917,Phoenix Suns,Pacific,West,2016-12-28,San Antonio Spurs,0.0,9.0
+1918,Phoenix Suns,Pacific,West,2016-12-29,Toronto Raptors,1.0,10.0
+1919,Phoenix Suns,Pacific,West,2016-12-31,Utah Jazz,0.0,10.0
+1920,Phoenix Suns,Pacific,West,2017-01-02,LA Clippers,0.0,10.0
+1921,Phoenix Suns,Pacific,West,2017-01-03,Miami Heat,1.0,11.0
+1922,Phoenix Suns,Pacific,West,2017-01-05,Dallas Mavericks,1.0,12.0
+1923,Phoenix Suns,Pacific,West,2017-01-08,Cleveland Cavaliers,0.0,12.0
+1924,Phoenix Suns,Pacific,West,2017-01-12,Dallas Mavericks,0.0,12.0
+1925,Phoenix Suns,Pacific,West,2017-01-14,San Antonio Spurs,1.0,13.0
+1926,Phoenix Suns,Pacific,West,2017-01-16,Utah Jazz,0.0,13.0
+1927,Phoenix Suns,Pacific,West,2017-01-19,Cleveland Cavaliers,0.0,13.0
+1928,Phoenix Suns,Pacific,West,2017-01-21,New York Knicks,1.0,14.0
+1929,Phoenix Suns,Pacific,West,2017-01-22,Toronto Raptors,1.0,15.0
+1930,Phoenix Suns,Pacific,West,2017-01-24,Minnesota Timberwolves,0.0,15.0
+1931,Phoenix Suns,Pacific,West,2017-01-26,Denver Nuggets,0.0,15.0
+1932,Phoenix Suns,Pacific,West,2017-01-28,Denver Nuggets,0.0,15.0
+1933,Phoenix Suns,Pacific,West,2017-01-30,Memphis Grizzlies,0.0,15.0
+1934,Phoenix Suns,Pacific,West,2017-02-01,LA Clippers,0.0,15.0
+1935,Phoenix Suns,Pacific,West,2017-02-03,Sacramento Kings,1.0,16.0
+1936,Phoenix Suns,Pacific,West,2017-02-04,Milwaukee Bucks,0.0,16.0
+1937,Phoenix Suns,Pacific,West,2017-02-06,New Orleans Pelicans,0.0,16.0
+1938,Phoenix Suns,Pacific,West,2017-02-08,Memphis Grizzlies,0.0,16.0
+1939,Phoenix Suns,Pacific,West,2017-02-10,Chicago Bulls,1.0,17.0
+1940,Phoenix Suns,Pacific,West,2017-02-11,Houston Rockets,0.0,17.0
+1941,Phoenix Suns,Pacific,West,2017-02-13,New Orleans Pelicans,0.0,17.0
+1942,Phoenix Suns,Pacific,West,2017-02-15,Los Angeles Lakers,1.0,18.0
+1943,Phoenix Suns,Pacific,West,2017-02-24,Chicago Bulls,0.0,18.0
+1944,Phoenix Suns,Pacific,West,2017-02-26,Milwaukee Bucks,0.0,18.0
+1945,Phoenix Suns,Pacific,West,2017-02-28,Memphis Grizzlies,0.0,18.0
+1946,Phoenix Suns,Pacific,West,2017-03-02,Charlotte Hornets,1.0,19.0
+1947,Phoenix Suns,Pacific,West,2017-03-03,Oklahoma City Thunder,1.0,20.0
+1948,Phoenix Suns,Pacific,West,2017-03-05,Boston Celtics,1.0,21.0
+1949,Phoenix Suns,Pacific,West,2017-03-07,Washington Wizards,0.0,21.0
+1950,Phoenix Suns,Pacific,West,2017-03-09,Los Angeles Lakers,0.0,21.0
+1951,Phoenix Suns,Pacific,West,2017-03-11,Dallas Mavericks,1.0,22.0
+1952,Phoenix Suns,Pacific,West,2017-03-12,Portland Trail Blazers,0.0,22.0
+1953,Phoenix Suns,Pacific,West,2017-03-15,Sacramento Kings,0.0,22.0
+1954,Phoenix Suns,Pacific,West,2017-03-17,Orlando Magic,0.0,22.0
+1955,Phoenix Suns,Pacific,West,2017-03-19,Detroit Pistons,0.0,22.0
+1956,Phoenix Suns,Pacific,West,2017-03-21,Miami Heat,0.0,22.0
+1957,Phoenix Suns,Pacific,West,2017-03-23,Brooklyn Nets,0.0,22.0
+1958,Phoenix Suns,Pacific,West,2017-03-24,Boston Celtics,0.0,22.0
+1959,Phoenix Suns,Pacific,West,2017-03-26,Charlotte Hornets,0.0,22.0
+1960,Phoenix Suns,Pacific,West,2017-03-28,Atlanta Hawks,0.0,22.0
+1961,Phoenix Suns,Pacific,West,2017-03-30,LA Clippers,0.0,22.0
+1962,Phoenix Suns,Pacific,West,2017-04-01,Portland Trail Blazers,0.0,22.0
+1963,Phoenix Suns,Pacific,West,2017-04-02,Houston Rockets,0.0,22.0
+1964,Phoenix Suns,Pacific,West,2017-04-05,Golden State Warriors,0.0,22.0
+1965,Phoenix Suns,Pacific,West,2017-04-07,Oklahoma City Thunder,1.0,23.0
+1966,Phoenix Suns,Pacific,West,2017-04-09,Dallas Mavericks,1.0,24.0
+1967,Phoenix Suns,Pacific,West,2017-04-11,Sacramento Kings,0.0,24.0
+1968,Portland Trail Blazers,Northwest,West,2016-10-25,Utah Jazz,1.0,1.0
+1969,Portland Trail Blazers,Northwest,West,2016-10-27,LA Clippers,0.0,1.0
+1970,Portland Trail Blazers,Northwest,West,2016-10-29,Denver Nuggets,1.0,2.0
+1971,Portland Trail Blazers,Northwest,West,2016-11-01,Golden State Warriors,0.0,2.0
+1972,Portland Trail Blazers,Northwest,West,2016-11-02,Phoenix Suns,0.0,2.0
+1973,Portland Trail Blazers,Northwest,West,2016-11-04,Dallas Mavericks,1.0,3.0
+1974,Portland Trail Blazers,Northwest,West,2016-11-06,Memphis Grizzlies,1.0,4.0
+1975,Portland Trail Blazers,Northwest,West,2016-11-08,Phoenix Suns,1.0,5.0
+1976,Portland Trail Blazers,Northwest,West,2016-11-09,LA Clippers,0.0,5.0
+1977,Portland Trail Blazers,Northwest,West,2016-11-11,Sacramento Kings,1.0,6.0
+1978,Portland Trail Blazers,Northwest,West,2016-11-13,Denver Nuggets,1.0,7.0
+1979,Portland Trail Blazers,Northwest,West,2016-11-15,Chicago Bulls,0.0,7.0
+1980,Portland Trail Blazers,Northwest,West,2016-11-17,Houston Rockets,0.0,7.0
+1981,Portland Trail Blazers,Northwest,West,2016-11-18,New Orleans Pelicans,0.0,7.0
+1982,Portland Trail Blazers,Northwest,West,2016-11-20,Brooklyn Nets,1.0,8.0
+1983,Portland Trail Blazers,Northwest,West,2016-11-22,New York Knicks,0.0,8.0
+1984,Portland Trail Blazers,Northwest,West,2016-11-23,Cleveland Cavaliers,0.0,8.0
+1985,Portland Trail Blazers,Northwest,West,2016-11-25,New Orleans Pelicans,1.0,9.0
+1986,Portland Trail Blazers,Northwest,West,2016-11-27,Houston Rockets,0.0,9.0
+1987,Portland Trail Blazers,Northwest,West,2016-11-30,Indiana Pacers,1.0,10.0
+1988,Portland Trail Blazers,Northwest,West,2016-12-03,Miami Heat,1.0,11.0
+1989,Portland Trail Blazers,Northwest,West,2016-12-05,Chicago Bulls,1.0,12.0
+1990,Portland Trail Blazers,Northwest,West,2016-12-07,Milwaukee Bucks,0.0,12.0
+1991,Portland Trail Blazers,Northwest,West,2016-12-08,Memphis Grizzlies,0.0,12.0
+1992,Portland Trail Blazers,Northwest,West,2016-12-10,Indiana Pacers,0.0,12.0
+1993,Portland Trail Blazers,Northwest,West,2016-12-12,LA Clippers,0.0,12.0
+1994,Portland Trail Blazers,Northwest,West,2016-12-13,Oklahoma City Thunder,1.0,13.0
+1995,Portland Trail Blazers,Northwest,West,2016-12-15,Denver Nuggets,0.0,13.0
+1996,Portland Trail Blazers,Northwest,West,2016-12-17,Golden State Warriors,0.0,13.0
+1997,Portland Trail Blazers,Northwest,West,2016-12-20,Sacramento Kings,0.0,13.0
+1998,Portland Trail Blazers,Northwest,West,2016-12-21,Dallas Mavericks,0.0,13.0
+1999,Portland Trail Blazers,Northwest,West,2016-12-23,San Antonio Spurs,0.0,13.0
+2000,Portland Trail Blazers,Northwest,West,2016-12-26,Toronto Raptors,0.0,13.0
+2001,Portland Trail Blazers,Northwest,West,2016-12-28,Sacramento Kings,1.0,14.0
+2002,Portland Trail Blazers,Northwest,West,2016-12-30,San Antonio Spurs,0.0,14.0
+2003,Portland Trail Blazers,Northwest,West,2017-01-01,Minnesota Timberwolves,1.0,15.0
+2004,Portland Trail Blazers,Northwest,West,2017-01-04,Golden State Warriors,0.0,15.0
+2005,Portland Trail Blazers,Northwest,West,2017-01-05,Los Angeles Lakers,1.0,16.0
+2006,Portland Trail Blazers,Northwest,West,2017-01-08,Detroit Pistons,0.0,16.0
+2007,Portland Trail Blazers,Northwest,West,2017-01-10,Los Angeles Lakers,1.0,17.0
+2008,Portland Trail Blazers,Northwest,West,2017-01-11,Cleveland Cavaliers,1.0,18.0
+2009,Portland Trail Blazers,Northwest,West,2017-01-13,Orlando Magic,0.0,18.0
+2010,Portland Trail Blazers,Northwest,West,2017-01-16,Washington Wizards,0.0,18.0
+2011,Portland Trail Blazers,Northwest,West,2017-01-18,Charlotte Hornets,0.0,18.0
+2012,Portland Trail Blazers,Northwest,West,2017-01-20,Philadelphia 76ers,0.0,18.0
+2013,Portland Trail Blazers,Northwest,West,2017-01-21,Boston Celtics,1.0,19.0
+2014,Portland Trail Blazers,Northwest,West,2017-01-25,Los Angeles Lakers,1.0,20.0
+2015,Portland Trail Blazers,Northwest,West,2017-01-27,Memphis Grizzlies,1.0,21.0
+2016,Portland Trail Blazers,Northwest,West,2017-01-29,Golden State Warriors,0.0,21.0
+2017,Portland Trail Blazers,Northwest,West,2017-01-31,Charlotte Hornets,1.0,22.0
+2018,Portland Trail Blazers,Northwest,West,2017-02-03,Dallas Mavericks,0.0,22.0
+2019,Portland Trail Blazers,Northwest,West,2017-02-05,Oklahoma City Thunder,0.0,22.0
+2020,Portland Trail Blazers,Northwest,West,2017-02-07,Dallas Mavericks,1.0,23.0
+2021,Portland Trail Blazers,Northwest,West,2017-02-09,Boston Celtics,0.0,23.0
+2022,Portland Trail Blazers,Northwest,West,2017-02-13,Atlanta Hawks,0.0,23.0
+2023,Portland Trail Blazers,Northwest,West,2017-02-15,Utah Jazz,0.0,23.0
+2024,Portland Trail Blazers,Northwest,West,2017-02-23,Orlando Magic,1.0,24.0
+2025,Portland Trail Blazers,Northwest,West,2017-02-26,Toronto Raptors,0.0,24.0
+2026,Portland Trail Blazers,Northwest,West,2017-02-28,Detroit Pistons,0.0,24.0
+2027,Portland Trail Blazers,Northwest,West,2017-03-02,Oklahoma City Thunder,1.0,25.0
+2028,Portland Trail Blazers,Northwest,West,2017-03-04,Brooklyn Nets,1.0,26.0
+2029,Portland Trail Blazers,Northwest,West,2017-03-07,Oklahoma City Thunder,1.0,27.0
+2030,Portland Trail Blazers,Northwest,West,2017-03-09,Philadelphia 76ers,1.0,28.0
+2031,Portland Trail Blazers,Northwest,West,2017-03-11,Washington Wizards,0.0,28.0
+2032,Portland Trail Blazers,Northwest,West,2017-03-12,Phoenix Suns,1.0,29.0
+2033,Portland Trail Blazers,Northwest,West,2017-03-14,New Orleans Pelicans,0.0,29.0
+2034,Portland Trail Blazers,Northwest,West,2017-03-15,San Antonio Spurs,1.0,30.0
+2035,Portland Trail Blazers,Northwest,West,2017-03-18,Atlanta Hawks,1.0,31.0
+2036,Portland Trail Blazers,Northwest,West,2017-03-19,Miami Heat,1.0,32.0
+2037,Portland Trail Blazers,Northwest,West,2017-03-21,Milwaukee Bucks,0.0,32.0
+2038,Portland Trail Blazers,Northwest,West,2017-03-23,New York Knicks,1.0,33.0
+2039,Portland Trail Blazers,Northwest,West,2017-03-25,Minnesota Timberwolves,1.0,34.0
+2040,Portland Trail Blazers,Northwest,West,2017-03-26,Los Angeles Lakers,1.0,35.0
+2041,Portland Trail Blazers,Northwest,West,2017-03-28,Denver Nuggets,1.0,36.0
+2042,Portland Trail Blazers,Northwest,West,2017-03-30,Houston Rockets,1.0,37.0
+2043,Portland Trail Blazers,Northwest,West,2017-04-01,Phoenix Suns,1.0,38.0
+2044,Portland Trail Blazers,Northwest,West,2017-04-03,Minnesota Timberwolves,0.0,38.0
+2045,Portland Trail Blazers,Northwest,West,2017-04-04,Utah Jazz,0.0,38.0
+2046,Portland Trail Blazers,Northwest,West,2017-04-06,Minnesota Timberwolves,1.0,39.0
+2047,Portland Trail Blazers,Northwest,West,2017-04-08,Utah Jazz,1.0,40.0
+2048,Portland Trail Blazers,Northwest,West,2017-04-10,San Antonio Spurs,1.0,41.0
+2049,Portland Trail Blazers,Northwest,West,2017-04-12,New Orleans Pelicans,0.0,41.0
+2050,Sacramento Kings,Pacific,West,2016-10-26,Phoenix Suns,1.0,1.0
+2051,Sacramento Kings,Pacific,West,2016-10-27,San Antonio Spurs,0.0,1.0
+2052,Sacramento Kings,Pacific,West,2016-10-29,Minnesota Timberwolves,1.0,2.0
+2053,Sacramento Kings,Pacific,West,2016-10-31,Atlanta Hawks,0.0,2.0
+2054,Sacramento Kings,Pacific,West,2016-11-01,Miami Heat,0.0,2.0
+2055,Sacramento Kings,Pacific,West,2016-11-03,Orlando Magic,0.0,2.0
+2056,Sacramento Kings,Pacific,West,2016-11-05,Milwaukee Bucks,0.0,2.0
+2057,Sacramento Kings,Pacific,West,2016-11-06,Toronto Raptors,1.0,3.0
+2058,Sacramento Kings,Pacific,West,2016-11-08,New Orleans Pelicans,1.0,4.0
+2059,Sacramento Kings,Pacific,West,2016-11-10,Los Angeles Lakers,0.0,4.0
+2060,Sacramento Kings,Pacific,West,2016-11-11,Portland Trail Blazers,0.0,4.0
+2061,Sacramento Kings,Pacific,West,2016-11-16,San Antonio Spurs,0.0,4.0
+2062,Sacramento Kings,Pacific,West,2016-11-18,LA Clippers,0.0,4.0
+2063,Sacramento Kings,Pacific,West,2016-11-20,Toronto Raptors,1.0,5.0
+2064,Sacramento Kings,Pacific,West,2016-11-23,Oklahoma City Thunder,1.0,6.0
+2065,Sacramento Kings,Pacific,West,2016-11-25,Houston Rockets,0.0,6.0
+2066,Sacramento Kings,Pacific,West,2016-11-27,Brooklyn Nets,1.0,7.0
+2067,Sacramento Kings,Pacific,West,2016-11-28,Washington Wizards,0.0,7.0
+2068,Sacramento Kings,Pacific,West,2016-12-02,Boston Celtics,0.0,7.0
+2069,Sacramento Kings,Pacific,West,2016-12-04,New York Knicks,0.0,7.0
+2070,Sacramento Kings,Pacific,West,2016-12-07,Dallas Mavericks,1.0,8.0
+2071,Sacramento Kings,Pacific,West,2016-12-09,New York Knicks,0.0,8.0
+2072,Sacramento Kings,Pacific,West,2016-12-10,Utah Jazz,0.0,8.0
+2073,Sacramento Kings,Pacific,West,2016-12-12,Los Angeles Lakers,1.0,9.0
+2074,Sacramento Kings,Pacific,West,2016-12-14,Houston Rockets,0.0,9.0
+2075,Sacramento Kings,Pacific,West,2016-12-16,Memphis Grizzlies,1.0,10.0
+2076,Sacramento Kings,Pacific,West,2016-12-18,Dallas Mavericks,0.0,10.0
+2077,Sacramento Kings,Pacific,West,2016-12-20,Portland Trail Blazers,1.0,11.0
+2078,Sacramento Kings,Pacific,West,2016-12-21,Utah Jazz,1.0,12.0
+2079,Sacramento Kings,Pacific,West,2016-12-23,Minnesota Timberwolves,1.0,13.0
+2080,Sacramento Kings,Pacific,West,2016-12-26,Philadelphia 76ers,1.0,14.0
+2081,Sacramento Kings,Pacific,West,2016-12-28,Portland Trail Blazers,0.0,14.0
+2082,Sacramento Kings,Pacific,West,2016-12-31,Memphis Grizzlies,0.0,14.0
+2083,Sacramento Kings,Pacific,West,2017-01-03,Denver Nuggets,1.0,15.0
+2084,Sacramento Kings,Pacific,West,2017-01-04,Miami Heat,0.0,15.0
+2085,Sacramento Kings,Pacific,West,2017-01-06,LA Clippers,0.0,15.0
+2086,Sacramento Kings,Pacific,West,2017-01-08,Golden State Warriors,0.0,15.0
+2087,Sacramento Kings,Pacific,West,2017-01-10,Detroit Pistons,1.0,16.0
+2088,Sacramento Kings,Pacific,West,2017-01-13,Cleveland Cavaliers,0.0,16.0
+2089,Sacramento Kings,Pacific,West,2017-01-15,Oklahoma City Thunder,0.0,16.0
+2090,Sacramento Kings,Pacific,West,2017-01-18,Indiana Pacers,0.0,16.0
+2091,Sacramento Kings,Pacific,West,2017-01-20,Memphis Grizzlies,0.0,16.0
+2092,Sacramento Kings,Pacific,West,2017-01-21,Chicago Bulls,0.0,16.0
+2093,Sacramento Kings,Pacific,West,2017-01-23,Detroit Pistons,1.0,17.0
+2094,Sacramento Kings,Pacific,West,2017-01-25,Cleveland Cavaliers,1.0,18.0
+2095,Sacramento Kings,Pacific,West,2017-01-27,Indiana Pacers,0.0,18.0
+2096,Sacramento Kings,Pacific,West,2017-01-28,Charlotte Hornets,1.0,19.0
+2097,Sacramento Kings,Pacific,West,2017-01-30,Philadelphia 76ers,0.0,19.0
+2098,Sacramento Kings,Pacific,West,2017-01-31,Houston Rockets,0.0,19.0
+2099,Sacramento Kings,Pacific,West,2017-02-03,Phoenix Suns,0.0,19.0
+2100,Sacramento Kings,Pacific,West,2017-02-04,Golden State Warriors,1.0,20.0
+2101,Sacramento Kings,Pacific,West,2017-02-06,Chicago Bulls,0.0,20.0
+2102,Sacramento Kings,Pacific,West,2017-02-08,Boston Celtics,1.0,21.0
+2103,Sacramento Kings,Pacific,West,2017-02-10,Atlanta Hawks,1.0,22.0
+2104,Sacramento Kings,Pacific,West,2017-02-12,New Orleans Pelicans,1.0,23.0
+2105,Sacramento Kings,Pacific,West,2017-02-14,Los Angeles Lakers,1.0,24.0
+2106,Sacramento Kings,Pacific,West,2017-02-15,Golden State Warriors,0.0,24.0
+2107,Sacramento Kings,Pacific,West,2017-02-23,Denver Nuggets,1.0,25.0
+2108,Sacramento Kings,Pacific,West,2017-02-25,Charlotte Hornets,0.0,25.0
+2109,Sacramento Kings,Pacific,West,2017-02-27,Minnesota Timberwolves,0.0,25.0
+2110,Sacramento Kings,Pacific,West,2017-03-01,Brooklyn Nets,0.0,25.0
+2111,Sacramento Kings,Pacific,West,2017-03-05,Utah Jazz,0.0,25.0
+2112,Sacramento Kings,Pacific,West,2017-03-06,Denver Nuggets,0.0,25.0
+2113,Sacramento Kings,Pacific,West,2017-03-08,San Antonio Spurs,0.0,25.0
+2114,Sacramento Kings,Pacific,West,2017-03-10,Washington Wizards,0.0,25.0
+2115,Sacramento Kings,Pacific,West,2017-03-11,Denver Nuggets,0.0,25.0
+2116,Sacramento Kings,Pacific,West,2017-03-13,Orlando Magic,1.0,26.0
+2117,Sacramento Kings,Pacific,West,2017-03-15,Phoenix Suns,1.0,27.0
+2118,Sacramento Kings,Pacific,West,2017-03-18,Oklahoma City Thunder,0.0,27.0
+2119,Sacramento Kings,Pacific,West,2017-03-19,San Antonio Spurs,0.0,27.0
+2120,Sacramento Kings,Pacific,West,2017-03-22,Milwaukee Bucks,0.0,27.0
+2121,Sacramento Kings,Pacific,West,2017-03-24,Golden State Warriors,0.0,27.0
+2122,Sacramento Kings,Pacific,West,2017-03-26,LA Clippers,1.0,28.0
+2123,Sacramento Kings,Pacific,West,2017-03-27,Memphis Grizzlies,1.0,29.0
+2124,Sacramento Kings,Pacific,West,2017-03-29,Utah Jazz,0.0,29.0
+2125,Sacramento Kings,Pacific,West,2017-03-31,New Orleans Pelicans,0.0,29.0
+2126,Sacramento Kings,Pacific,West,2017-04-01,Minnesota Timberwolves,1.0,30.0
+2127,Sacramento Kings,Pacific,West,2017-04-04,Dallas Mavericks,1.0,31.0
+2128,Sacramento Kings,Pacific,West,2017-04-07,Los Angeles Lakers,0.0,31.0
+2129,Sacramento Kings,Pacific,West,2017-04-09,Houston Rockets,0.0,31.0
+2130,Sacramento Kings,Pacific,West,2017-04-11,Phoenix Suns,1.0,32.0
+2131,Sacramento Kings,Pacific,West,2017-04-12,LA Clippers,0.0,32.0
+2132,San Antonio Spurs,Southwest,West,2016-10-25,Golden State Warriors,1.0,1.0
+2133,San Antonio Spurs,Southwest,West,2016-10-27,Sacramento Kings,1.0,2.0
+2134,San Antonio Spurs,Southwest,West,2016-10-29,New Orleans Pelicans,1.0,3.0
+2135,San Antonio Spurs,Southwest,West,2016-10-30,Miami Heat,1.0,4.0
+2136,San Antonio Spurs,Southwest,West,2016-11-01,Utah Jazz,0.0,4.0
+2137,San Antonio Spurs,Southwest,West,2016-11-04,Utah Jazz,1.0,5.0
+2138,San Antonio Spurs,Southwest,West,2016-11-05,LA Clippers,0.0,5.0
+2139,San Antonio Spurs,Southwest,West,2016-11-09,Houston Rockets,0.0,5.0
+2140,San Antonio Spurs,Southwest,West,2016-11-11,Detroit Pistons,1.0,6.0
+2141,San Antonio Spurs,Southwest,West,2016-11-12,Houston Rockets,1.0,7.0
+2142,San Antonio Spurs,Southwest,West,2016-11-14,Miami Heat,1.0,8.0
+2143,San Antonio Spurs,Southwest,West,2016-11-16,Sacramento Kings,1.0,9.0
+2144,San Antonio Spurs,Southwest,West,2016-11-18,Los Angeles Lakers,1.0,10.0
+2145,San Antonio Spurs,Southwest,West,2016-11-21,Dallas Mavericks,1.0,11.0
+2146,San Antonio Spurs,Southwest,West,2016-11-23,Charlotte Hornets,1.0,12.0
+2147,San Antonio Spurs,Southwest,West,2016-11-25,Boston Celtics,1.0,13.0
+2148,San Antonio Spurs,Southwest,West,2016-11-26,Washington Wizards,1.0,14.0
+2149,San Antonio Spurs,Southwest,West,2016-11-29,Orlando Magic,0.0,14.0
+2150,San Antonio Spurs,Southwest,West,2016-11-30,Dallas Mavericks,1.0,15.0
+2151,San Antonio Spurs,Southwest,West,2016-12-02,Washington Wizards,1.0,16.0
+2152,San Antonio Spurs,Southwest,West,2016-12-05,Milwaukee Bucks,1.0,17.0
+2153,San Antonio Spurs,Southwest,West,2016-12-06,Minnesota Timberwolves,1.0,18.0
+2154,San Antonio Spurs,Southwest,West,2016-12-08,Chicago Bulls,0.0,18.0
+2155,San Antonio Spurs,Southwest,West,2016-12-10,Brooklyn Nets,1.0,19.0
+2156,San Antonio Spurs,Southwest,West,2016-12-14,Boston Celtics,1.0,20.0
+2157,San Antonio Spurs,Southwest,West,2016-12-15,Phoenix Suns,1.0,21.0
+2158,San Antonio Spurs,Southwest,West,2016-12-18,New Orleans Pelicans,1.0,22.0
+2159,San Antonio Spurs,Southwest,West,2016-12-20,Houston Rockets,1.0,23.0
+2160,San Antonio Spurs,Southwest,West,2016-12-22,LA Clippers,0.0,23.0
+2161,San Antonio Spurs,Southwest,West,2016-12-23,Portland Trail Blazers,1.0,24.0
+2162,San Antonio Spurs,Southwest,West,2016-12-25,Chicago Bulls,1.0,25.0
+2163,San Antonio Spurs,Southwest,West,2016-12-28,Phoenix Suns,1.0,26.0
+2164,San Antonio Spurs,Southwest,West,2016-12-30,Portland Trail Blazers,1.0,27.0
+2165,San Antonio Spurs,Southwest,West,2017-01-01,Atlanta Hawks,0.0,27.0
+2166,San Antonio Spurs,Southwest,West,2017-01-03,Toronto Raptors,1.0,28.0
+2167,San Antonio Spurs,Southwest,West,2017-01-05,Denver Nuggets,1.0,29.0
+2168,San Antonio Spurs,Southwest,West,2017-01-07,Charlotte Hornets,1.0,30.0
+2169,San Antonio Spurs,Southwest,West,2017-01-10,Milwaukee Bucks,0.0,30.0
+2170,San Antonio Spurs,Southwest,West,2017-01-12,Los Angeles Lakers,1.0,31.0
+2171,San Antonio Spurs,Southwest,West,2017-01-14,Phoenix Suns,0.0,31.0
+2172,San Antonio Spurs,Southwest,West,2017-01-17,Minnesota Timberwolves,1.0,32.0
+2173,San Antonio Spurs,Southwest,West,2017-01-19,Denver Nuggets,1.0,33.0
+2174,San Antonio Spurs,Southwest,West,2017-01-21,Cleveland Cavaliers,1.0,34.0
+2175,San Antonio Spurs,Southwest,West,2017-01-23,Brooklyn Nets,1.0,35.0
+2176,San Antonio Spurs,Southwest,West,2017-01-24,Toronto Raptors,1.0,36.0
+2177,San Antonio Spurs,Southwest,West,2017-01-27,New Orleans Pelicans,0.0,36.0
+2178,San Antonio Spurs,Southwest,West,2017-01-29,Dallas Mavericks,0.0,36.0
+2179,San Antonio Spurs,Southwest,West,2017-01-31,Oklahoma City Thunder,1.0,37.0
+2180,San Antonio Spurs,Southwest,West,2017-02-02,Philadelphia 76ers,1.0,38.0
+2181,San Antonio Spurs,Southwest,West,2017-02-04,Denver Nuggets,1.0,39.0
+2182,San Antonio Spurs,Southwest,West,2017-02-06,Memphis Grizzlies,0.0,39.0
+2183,San Antonio Spurs,Southwest,West,2017-02-08,Philadelphia 76ers,1.0,40.0
+2184,San Antonio Spurs,Southwest,West,2017-02-10,Detroit Pistons,1.0,41.0
+2185,San Antonio Spurs,Southwest,West,2017-02-12,New York Knicks,0.0,41.0
+2186,San Antonio Spurs,Southwest,West,2017-02-13,Indiana Pacers,1.0,42.0
+2187,San Antonio Spurs,Southwest,West,2017-02-15,Orlando Magic,1.0,43.0
+2188,San Antonio Spurs,Southwest,West,2017-02-24,LA Clippers,1.0,44.0
+2189,San Antonio Spurs,Southwest,West,2017-02-26,Los Angeles Lakers,1.0,45.0
+2190,San Antonio Spurs,Southwest,West,2017-03-01,Indiana Pacers,1.0,46.0
+2191,San Antonio Spurs,Southwest,West,2017-03-03,New Orleans Pelicans,1.0,47.0
+2192,San Antonio Spurs,Southwest,West,2017-03-04,Minnesota Timberwolves,1.0,48.0
+2193,San Antonio Spurs,Southwest,West,2017-03-06,Houston Rockets,1.0,49.0
+2194,San Antonio Spurs,Southwest,West,2017-03-08,Sacramento Kings,1.0,50.0
+2195,San Antonio Spurs,Southwest,West,2017-03-09,Oklahoma City Thunder,0.0,50.0
+2196,San Antonio Spurs,Southwest,West,2017-03-11,Golden State Warriors,1.0,51.0
+2197,San Antonio Spurs,Southwest,West,2017-03-13,Atlanta Hawks,1.0,52.0
+2198,San Antonio Spurs,Southwest,West,2017-03-15,Portland Trail Blazers,0.0,52.0
+2199,San Antonio Spurs,Southwest,West,2017-03-18,Memphis Grizzlies,0.0,52.0
+2200,San Antonio Spurs,Southwest,West,2017-03-19,Sacramento Kings,1.0,53.0
+2201,San Antonio Spurs,Southwest,West,2017-03-21,Minnesota Timberwolves,1.0,54.0
+2202,San Antonio Spurs,Southwest,West,2017-03-23,Memphis Grizzlies,1.0,55.0
+2203,San Antonio Spurs,Southwest,West,2017-03-25,New York Knicks,1.0,56.0
+2204,San Antonio Spurs,Southwest,West,2017-03-27,Cleveland Cavaliers,1.0,57.0
+2205,San Antonio Spurs,Southwest,West,2017-03-29,Golden State Warriors,0.0,57.0
+2206,San Antonio Spurs,Southwest,West,2017-03-31,Oklahoma City Thunder,1.0,58.0
+2207,San Antonio Spurs,Southwest,West,2017-04-02,Utah Jazz,1.0,59.0
+2208,San Antonio Spurs,Southwest,West,2017-04-04,Memphis Grizzlies,1.0,60.0
+2209,San Antonio Spurs,Southwest,West,2017-04-05,Los Angeles Lakers,0.0,60.0
+2210,San Antonio Spurs,Southwest,West,2017-04-07,Dallas Mavericks,1.0,61.0
+2211,San Antonio Spurs,Southwest,West,2017-04-08,LA Clippers,0.0,61.0
+2212,San Antonio Spurs,Southwest,West,2017-04-10,Portland Trail Blazers,0.0,61.0
+2213,San Antonio Spurs,Southwest,West,2017-04-12,Utah Jazz,0.0,61.0
+2214,Toronto Raptors,Atlantic,East,2016-10-26,Detroit Pistons,1.0,1.0
+2215,Toronto Raptors,Atlantic,East,2016-10-28,Cleveland Cavaliers,0.0,1.0
+2216,Toronto Raptors,Atlantic,East,2016-10-31,Denver Nuggets,1.0,2.0
+2217,Toronto Raptors,Atlantic,East,2016-11-02,Washington Wizards,1.0,3.0
+2218,Toronto Raptors,Atlantic,East,2016-11-04,Miami Heat,1.0,4.0
+2219,Toronto Raptors,Atlantic,East,2016-11-06,Sacramento Kings,0.0,4.0
+2220,Toronto Raptors,Atlantic,East,2016-11-09,Oklahoma City Thunder,1.0,5.0
+2221,Toronto Raptors,Atlantic,East,2016-11-11,Charlotte Hornets,1.0,6.0
+2222,Toronto Raptors,Atlantic,East,2016-11-12,New York Knicks,1.0,7.0
+2223,Toronto Raptors,Atlantic,East,2016-11-15,Cleveland Cavaliers,0.0,7.0
+2224,Toronto Raptors,Atlantic,East,2016-11-16,Golden State Warriors,0.0,7.0
+2225,Toronto Raptors,Atlantic,East,2016-11-18,Denver Nuggets,1.0,8.0
+2226,Toronto Raptors,Atlantic,East,2016-11-20,Sacramento Kings,0.0,8.0
+2227,Toronto Raptors,Atlantic,East,2016-11-21,LA Clippers,0.0,8.0
+2228,Toronto Raptors,Atlantic,East,2016-11-23,Houston Rockets,1.0,9.0
+2229,Toronto Raptors,Atlantic,East,2016-11-25,Milwaukee Bucks,1.0,10.0
+2230,Toronto Raptors,Atlantic,East,2016-11-28,Philadelphia 76ers,1.0,11.0
+2231,Toronto Raptors,Atlantic,East,2016-11-30,Memphis Grizzlies,1.0,12.0
+2232,Toronto Raptors,Atlantic,East,2016-12-02,Los Angeles Lakers,1.0,13.0
+2233,Toronto Raptors,Atlantic,East,2016-12-03,Atlanta Hawks,1.0,14.0
+2234,Toronto Raptors,Atlantic,East,2016-12-05,Cleveland Cavaliers,0.0,14.0
+2235,Toronto Raptors,Atlantic,East,2016-12-08,Minnesota Timberwolves,1.0,15.0
+2236,Toronto Raptors,Atlantic,East,2016-12-09,Boston Celtics,1.0,16.0
+2237,Toronto Raptors,Atlantic,East,2016-12-12,Milwaukee Bucks,1.0,17.0
+2238,Toronto Raptors,Atlantic,East,2016-12-14,Philadelphia 76ers,1.0,18.0
+2239,Toronto Raptors,Atlantic,East,2016-12-16,Atlanta Hawks,0.0,18.0
+2240,Toronto Raptors,Atlantic,East,2016-12-18,Orlando Magic,1.0,19.0
+2241,Toronto Raptors,Atlantic,East,2016-12-20,Brooklyn Nets,1.0,20.0
+2242,Toronto Raptors,Atlantic,East,2016-12-23,Utah Jazz,1.0,21.0
+2243,Toronto Raptors,Atlantic,East,2016-12-26,Portland Trail Blazers,1.0,22.0
+2244,Toronto Raptors,Atlantic,East,2016-12-28,Golden State Warriors,0.0,22.0
+2245,Toronto Raptors,Atlantic,East,2016-12-29,Phoenix Suns,0.0,22.0
+2246,Toronto Raptors,Atlantic,East,2017-01-01,Los Angeles Lakers,1.0,23.0
+2247,Toronto Raptors,Atlantic,East,2017-01-03,San Antonio Spurs,0.0,23.0
+2248,Toronto Raptors,Atlantic,East,2017-01-05,Utah Jazz,1.0,24.0
+2249,Toronto Raptors,Atlantic,East,2017-01-07,Chicago Bulls,0.0,24.0
+2250,Toronto Raptors,Atlantic,East,2017-01-08,Houston Rockets,0.0,24.0
+2251,Toronto Raptors,Atlantic,East,2017-01-10,Boston Celtics,1.0,25.0
+2252,Toronto Raptors,Atlantic,East,2017-01-13,Brooklyn Nets,1.0,26.0
+2253,Toronto Raptors,Atlantic,East,2017-01-15,New York Knicks,1.0,27.0
+2254,Toronto Raptors,Atlantic,East,2017-01-17,Brooklyn Nets,1.0,28.0
+2255,Toronto Raptors,Atlantic,East,2017-01-18,Philadelphia 76ers,0.0,28.0
+2256,Toronto Raptors,Atlantic,East,2017-01-20,Charlotte Hornets,0.0,28.0
+2257,Toronto Raptors,Atlantic,East,2017-01-22,Phoenix Suns,0.0,28.0
+2258,Toronto Raptors,Atlantic,East,2017-01-24,San Antonio Spurs,0.0,28.0
+2259,Toronto Raptors,Atlantic,East,2017-01-25,Memphis Grizzlies,0.0,28.0
+2260,Toronto Raptors,Atlantic,East,2017-01-27,Milwaukee Bucks,1.0,29.0
+2261,Toronto Raptors,Atlantic,East,2017-01-29,Orlando Magic,0.0,29.0
+2262,Toronto Raptors,Atlantic,East,2017-01-31,New Orleans Pelicans,1.0,30.0
+2263,Toronto Raptors,Atlantic,East,2017-02-01,Boston Celtics,0.0,30.0
+2264,Toronto Raptors,Atlantic,East,2017-02-03,Orlando Magic,0.0,30.0
+2265,Toronto Raptors,Atlantic,East,2017-02-05,Brooklyn Nets,1.0,31.0
+2266,Toronto Raptors,Atlantic,East,2017-02-06,LA Clippers,1.0,32.0
+2267,Toronto Raptors,Atlantic,East,2017-02-08,Minnesota Timberwolves,0.0,32.0
+2268,Toronto Raptors,Atlantic,East,2017-02-12,Detroit Pistons,0.0,32.0
+2269,Toronto Raptors,Atlantic,East,2017-02-14,Chicago Bulls,0.0,32.0
+2270,Toronto Raptors,Atlantic,East,2017-02-15,Charlotte Hornets,1.0,33.0
+2271,Toronto Raptors,Atlantic,East,2017-02-24,Boston Celtics,1.0,34.0
+2272,Toronto Raptors,Atlantic,East,2017-02-26,Portland Trail Blazers,1.0,35.0
+2273,Toronto Raptors,Atlantic,East,2017-02-27,New York Knicks,1.0,36.0
+2274,Toronto Raptors,Atlantic,East,2017-03-01,Washington Wizards,0.0,36.0
+2275,Toronto Raptors,Atlantic,East,2017-03-03,Washington Wizards,1.0,37.0
+2276,Toronto Raptors,Atlantic,East,2017-03-04,Milwaukee Bucks,0.0,37.0
+2277,Toronto Raptors,Atlantic,East,2017-03-08,New Orleans Pelicans,1.0,38.0
+2278,Toronto Raptors,Atlantic,East,2017-03-10,Atlanta Hawks,0.0,38.0
+2279,Toronto Raptors,Atlantic,East,2017-03-11,Miami Heat,0.0,38.0
+2280,Toronto Raptors,Atlantic,East,2017-03-13,Dallas Mavericks,1.0,39.0
+2281,Toronto Raptors,Atlantic,East,2017-03-16,Oklahoma City Thunder,0.0,39.0
+2282,Toronto Raptors,Atlantic,East,2017-03-17,Detroit Pistons,1.0,40.0
+2283,Toronto Raptors,Atlantic,East,2017-03-19,Indiana Pacers,1.0,41.0
+2284,Toronto Raptors,Atlantic,East,2017-03-21,Chicago Bulls,1.0,42.0
+2285,Toronto Raptors,Atlantic,East,2017-03-23,Miami Heat,1.0,43.0
+2286,Toronto Raptors,Atlantic,East,2017-03-25,Dallas Mavericks,1.0,44.0
+2287,Toronto Raptors,Atlantic,East,2017-03-27,Orlando Magic,1.0,45.0
+2288,Toronto Raptors,Atlantic,East,2017-03-29,Charlotte Hornets,0.0,45.0
+2289,Toronto Raptors,Atlantic,East,2017-03-31,Indiana Pacers,1.0,46.0
+2290,Toronto Raptors,Atlantic,East,2017-04-02,Philadelphia 76ers,1.0,47.0
+2291,Toronto Raptors,Atlantic,East,2017-04-04,Indiana Pacers,0.0,47.0
+2292,Toronto Raptors,Atlantic,East,2017-04-05,Detroit Pistons,1.0,48.0
+2293,Toronto Raptors,Atlantic,East,2017-04-07,Miami Heat,1.0,49.0
+2294,Toronto Raptors,Atlantic,East,2017-04-09,New York Knicks,1.0,50.0
+2295,Toronto Raptors,Atlantic,East,2017-04-12,Cleveland Cavaliers,1.0,51.0
+2296,Utah Jazz,Northwest,West,2016-10-25,Portland Trail Blazers,0.0,0.0
+2297,Utah Jazz,Northwest,West,2016-10-28,Los Angeles Lakers,1.0,1.0
+2298,Utah Jazz,Northwest,West,2016-10-30,LA Clippers,0.0,1.0
+2299,Utah Jazz,Northwest,West,2016-11-01,San Antonio Spurs,1.0,2.0
+2300,Utah Jazz,Northwest,West,2016-11-02,Dallas Mavericks,1.0,3.0
+2301,Utah Jazz,Northwest,West,2016-11-04,San Antonio Spurs,0.0,3.0
+2302,Utah Jazz,Northwest,West,2016-11-06,New York Knicks,1.0,4.0
+2303,Utah Jazz,Northwest,West,2016-11-07,Philadelphia 76ers,1.0,5.0
+2304,Utah Jazz,Northwest,West,2016-11-09,Charlotte Hornets,0.0,5.0
+2305,Utah Jazz,Northwest,West,2016-11-11,Orlando Magic,1.0,6.0
+2306,Utah Jazz,Northwest,West,2016-11-12,Miami Heat,1.0,7.0
+2307,Utah Jazz,Northwest,West,2016-11-14,Memphis Grizzlies,0.0,7.0
+2308,Utah Jazz,Northwest,West,2016-11-17,Chicago Bulls,0.0,7.0
+2309,Utah Jazz,Northwest,West,2016-11-19,Houston Rockets,0.0,7.0
+2310,Utah Jazz,Northwest,West,2016-11-20,Denver Nuggets,0.0,7.0
+2311,Utah Jazz,Northwest,West,2016-11-23,Denver Nuggets,1.0,8.0
+2312,Utah Jazz,Northwest,West,2016-11-25,Atlanta Hawks,1.0,9.0
+2313,Utah Jazz,Northwest,West,2016-11-28,Minnesota Timberwolves,1.0,10.0
+2314,Utah Jazz,Northwest,West,2016-11-29,Houston Rockets,1.0,11.0
+2315,Utah Jazz,Northwest,West,2016-12-01,Miami Heat,0.0,11.0
+2316,Utah Jazz,Northwest,West,2016-12-03,Denver Nuggets,1.0,12.0
+2317,Utah Jazz,Northwest,West,2016-12-05,Los Angeles Lakers,1.0,13.0
+2318,Utah Jazz,Northwest,West,2016-12-06,Phoenix Suns,1.0,14.0
+2319,Utah Jazz,Northwest,West,2016-12-08,Golden State Warriors,0.0,14.0
+2320,Utah Jazz,Northwest,West,2016-12-10,Sacramento Kings,1.0,15.0
+2321,Utah Jazz,Northwest,West,2016-12-14,Oklahoma City Thunder,1.0,16.0
+2322,Utah Jazz,Northwest,West,2016-12-16,Dallas Mavericks,1.0,17.0
+2323,Utah Jazz,Northwest,West,2016-12-18,Memphis Grizzlies,1.0,18.0
+2324,Utah Jazz,Northwest,West,2016-12-20,Golden State Warriors,0.0,18.0
+2325,Utah Jazz,Northwest,West,2016-12-21,Sacramento Kings,0.0,18.0
+2326,Utah Jazz,Northwest,West,2016-12-23,Toronto Raptors,0.0,18.0
+2327,Utah Jazz,Northwest,West,2016-12-27,Los Angeles Lakers,1.0,19.0
+2328,Utah Jazz,Northwest,West,2016-12-29,Philadelphia 76ers,1.0,20.0
+2329,Utah Jazz,Northwest,West,2016-12-31,Phoenix Suns,1.0,21.0
+2330,Utah Jazz,Northwest,West,2017-01-02,Brooklyn Nets,1.0,22.0
+2331,Utah Jazz,Northwest,West,2017-01-03,Boston Celtics,0.0,22.0
+2332,Utah Jazz,Northwest,West,2017-01-05,Toronto Raptors,0.0,22.0
+2333,Utah Jazz,Northwest,West,2017-01-07,Minnesota Timberwolves,1.0,23.0
+2334,Utah Jazz,Northwest,West,2017-01-08,Memphis Grizzlies,0.0,23.0
+2335,Utah Jazz,Northwest,West,2017-01-10,Cleveland Cavaliers,1.0,24.0
+2336,Utah Jazz,Northwest,West,2017-01-13,Detroit Pistons,1.0,25.0
+2337,Utah Jazz,Northwest,West,2017-01-14,Orlando Magic,1.0,26.0
+2338,Utah Jazz,Northwest,West,2017-01-16,Phoenix Suns,1.0,27.0
+2339,Utah Jazz,Northwest,West,2017-01-20,Dallas Mavericks,1.0,28.0
+2340,Utah Jazz,Northwest,West,2017-01-21,Indiana Pacers,1.0,29.0
+2341,Utah Jazz,Northwest,West,2017-01-23,Oklahoma City Thunder,0.0,29.0
+2342,Utah Jazz,Northwest,West,2017-01-24,Denver Nuggets,0.0,29.0
+2343,Utah Jazz,Northwest,West,2017-01-26,Los Angeles Lakers,1.0,30.0
+2344,Utah Jazz,Northwest,West,2017-01-28,Memphis Grizzlies,0.0,30.0
+2345,Utah Jazz,Northwest,West,2017-02-01,Milwaukee Bucks,1.0,31.0
+2346,Utah Jazz,Northwest,West,2017-02-04,Charlotte Hornets,1.0,32.0
+2347,Utah Jazz,Northwest,West,2017-02-06,Atlanta Hawks,1.0,33.0
+2348,Utah Jazz,Northwest,West,2017-02-08,New Orleans Pelicans,1.0,34.0
+2349,Utah Jazz,Northwest,West,2017-02-09,Dallas Mavericks,0.0,34.0
+2350,Utah Jazz,Northwest,West,2017-02-11,Boston Celtics,0.0,34.0
+2351,Utah Jazz,Northwest,West,2017-02-13,LA Clippers,0.0,34.0
+2352,Utah Jazz,Northwest,West,2017-02-15,Portland Trail Blazers,1.0,35.0
+2353,Utah Jazz,Northwest,West,2017-02-24,Milwaukee Bucks,1.0,36.0
+2354,Utah Jazz,Northwest,West,2017-02-26,Washington Wizards,1.0,37.0
+2355,Utah Jazz,Northwest,West,2017-02-28,Oklahoma City Thunder,0.0,37.0
+2356,Utah Jazz,Northwest,West,2017-03-01,Minnesota Timberwolves,0.0,37.0
+2357,Utah Jazz,Northwest,West,2017-03-03,Brooklyn Nets,1.0,38.0
+2358,Utah Jazz,Northwest,West,2017-03-05,Sacramento Kings,1.0,39.0
+2359,Utah Jazz,Northwest,West,2017-03-06,New Orleans Pelicans,1.0,40.0
+2360,Utah Jazz,Northwest,West,2017-03-08,Houston Rockets,1.0,41.0
+2361,Utah Jazz,Northwest,West,2017-03-11,Oklahoma City Thunder,0.0,41.0
+2362,Utah Jazz,Northwest,West,2017-03-13,LA Clippers,1.0,42.0
+2363,Utah Jazz,Northwest,West,2017-03-15,Detroit Pistons,1.0,43.0
+2364,Utah Jazz,Northwest,West,2017-03-16,Cleveland Cavaliers,0.0,43.0
+2365,Utah Jazz,Northwest,West,2017-03-18,Chicago Bulls,0.0,43.0
+2366,Utah Jazz,Northwest,West,2017-03-20,Indiana Pacers,0.0,43.0
+2367,Utah Jazz,Northwest,West,2017-03-22,New York Knicks,1.0,44.0
+2368,Utah Jazz,Northwest,West,2017-03-25,LA Clippers,0.0,44.0
+2369,Utah Jazz,Northwest,West,2017-03-27,New Orleans Pelicans,1.0,45.0
+2370,Utah Jazz,Northwest,West,2017-03-29,Sacramento Kings,1.0,46.0
+2371,Utah Jazz,Northwest,West,2017-03-31,Washington Wizards,1.0,47.0
+2372,Utah Jazz,Northwest,West,2017-04-02,San Antonio Spurs,0.0,47.0
+2373,Utah Jazz,Northwest,West,2017-04-04,Portland Trail Blazers,1.0,48.0
+2374,Utah Jazz,Northwest,West,2017-04-07,Minnesota Timberwolves,1.0,49.0
+2375,Utah Jazz,Northwest,West,2017-04-08,Portland Trail Blazers,0.0,49.0
+2376,Utah Jazz,Northwest,West,2017-04-10,Golden State Warriors,1.0,50.0
+2377,Utah Jazz,Northwest,West,2017-04-12,San Antonio Spurs,1.0,51.0
+2378,Washington Wizards,Southeast,East,2016-10-27,Atlanta Hawks,0.0,0.0
+2379,Washington Wizards,Southeast,East,2016-10-30,Memphis Grizzlies,0.0,0.0
+2380,Washington Wizards,Southeast,East,2016-11-02,Toronto Raptors,0.0,0.0
+2381,Washington Wizards,Southeast,East,2016-11-04,Atlanta Hawks,1.0,1.0
+2382,Washington Wizards,Southeast,East,2016-11-05,Orlando Magic,0.0,1.0
+2383,Washington Wizards,Southeast,East,2016-11-07,Houston Rockets,0.0,1.0
+2384,Washington Wizards,Southeast,East,2016-11-09,Boston Celtics,1.0,2.0
+2385,Washington Wizards,Southeast,East,2016-11-11,Cleveland Cavaliers,0.0,2.0
+2386,Washington Wizards,Southeast,East,2016-11-12,Chicago Bulls,0.0,2.0
+2387,Washington Wizards,Southeast,East,2016-11-16,Philadelphia 76ers,0.0,2.0
+2388,Washington Wizards,Southeast,East,2016-11-17,New York Knicks,1.0,3.0
+2389,Washington Wizards,Southeast,East,2016-11-19,Miami Heat,0.0,3.0
+2390,Washington Wizards,Southeast,East,2016-11-21,Phoenix Suns,1.0,4.0
+2391,Washington Wizards,Southeast,East,2016-11-25,Orlando Magic,1.0,5.0
+2392,Washington Wizards,Southeast,East,2016-11-26,San Antonio Spurs,0.0,5.0
+2393,Washington Wizards,Southeast,East,2016-11-28,Sacramento Kings,1.0,6.0
+2394,Washington Wizards,Southeast,East,2016-11-30,Oklahoma City Thunder,0.0,6.0
+2395,Washington Wizards,Southeast,East,2016-12-02,San Antonio Spurs,0.0,6.0
+2396,Washington Wizards,Southeast,East,2016-12-05,Brooklyn Nets,1.0,7.0
+2397,Washington Wizards,Southeast,East,2016-12-06,Orlando Magic,0.0,7.0
+2398,Washington Wizards,Southeast,East,2016-12-08,Denver Nuggets,1.0,8.0
+2399,Washington Wizards,Southeast,East,2016-12-10,Milwaukee Bucks,1.0,9.0
+2400,Washington Wizards,Southeast,East,2016-12-12,Miami Heat,0.0,9.0
+2401,Washington Wizards,Southeast,East,2016-12-14,Charlotte Hornets,1.0,10.0
+2402,Washington Wizards,Southeast,East,2016-12-16,Detroit Pistons,1.0,11.0
+2403,Washington Wizards,Southeast,East,2016-12-18,LA Clippers,1.0,12.0
+2404,Washington Wizards,Southeast,East,2016-12-19,Indiana Pacers,0.0,12.0
+2405,Washington Wizards,Southeast,East,2016-12-21,Chicago Bulls,1.0,13.0
+2406,Washington Wizards,Southeast,East,2016-12-23,Milwaukee Bucks,0.0,13.0
+2407,Washington Wizards,Southeast,East,2016-12-26,Milwaukee Bucks,1.0,14.0
+2408,Washington Wizards,Southeast,East,2016-12-28,Indiana Pacers,1.0,15.0
+2409,Washington Wizards,Southeast,East,2016-12-30,Brooklyn Nets,1.0,16.0
+2410,Washington Wizards,Southeast,East,2017-01-02,Houston Rockets,0.0,16.0
+2411,Washington Wizards,Southeast,East,2017-01-03,Dallas Mavericks,0.0,16.0
+2412,Washington Wizards,Southeast,East,2017-01-06,Minnesota Timberwolves,1.0,17.0
+2413,Washington Wizards,Southeast,East,2017-01-08,Milwaukee Bucks,1.0,18.0
+2414,Washington Wizards,Southeast,East,2017-01-10,Chicago Bulls,1.0,19.0
+2415,Washington Wizards,Southeast,East,2017-01-11,Boston Celtics,0.0,19.0
+2416,Washington Wizards,Southeast,East,2017-01-14,Philadelphia 76ers,1.0,20.0
+2417,Washington Wizards,Southeast,East,2017-01-16,Portland Trail Blazers,1.0,21.0
+2418,Washington Wizards,Southeast,East,2017-01-18,Memphis Grizzlies,1.0,22.0
+2419,Washington Wizards,Southeast,East,2017-01-19,New York Knicks,1.0,23.0
+2420,Washington Wizards,Southeast,East,2017-01-21,Detroit Pistons,0.0,23.0
+2421,Washington Wizards,Southeast,East,2017-01-23,Charlotte Hornets,1.0,24.0
+2422,Washington Wizards,Southeast,East,2017-01-24,Boston Celtics,1.0,25.0
+2423,Washington Wizards,Southeast,East,2017-01-27,Atlanta Hawks,1.0,26.0
+2424,Washington Wizards,Southeast,East,2017-01-29,New Orleans Pelicans,1.0,27.0
+2425,Washington Wizards,Southeast,East,2017-01-31,New York Knicks,1.0,28.0
+2426,Washington Wizards,Southeast,East,2017-02-02,Los Angeles Lakers,1.0,29.0
+2427,Washington Wizards,Southeast,East,2017-02-04,New Orleans Pelicans,1.0,30.0
+2428,Washington Wizards,Southeast,East,2017-02-06,Cleveland Cavaliers,0.0,30.0
+2429,Washington Wizards,Southeast,East,2017-02-08,Brooklyn Nets,1.0,31.0
+2430,Washington Wizards,Southeast,East,2017-02-10,Indiana Pacers,1.0,32.0
+2431,Washington Wizards,Southeast,East,2017-02-13,Oklahoma City Thunder,1.0,33.0
+2432,Washington Wizards,Southeast,East,2017-02-16,Indiana Pacers,1.0,34.0
+2433,Washington Wizards,Southeast,East,2017-02-24,Philadelphia 76ers,0.0,34.0
+2434,Washington Wizards,Southeast,East,2017-02-26,Utah Jazz,0.0,34.0
+2435,Washington Wizards,Southeast,East,2017-02-28,Golden State Warriors,1.0,35.0
+2436,Washington Wizards,Southeast,East,2017-03-01,Toronto Raptors,1.0,36.0
+2437,Washington Wizards,Southeast,East,2017-03-03,Toronto Raptors,0.0,36.0
+2438,Washington Wizards,Southeast,East,2017-03-05,Orlando Magic,1.0,37.0
+2439,Washington Wizards,Southeast,East,2017-03-07,Phoenix Suns,1.0,38.0
+2440,Washington Wizards,Southeast,East,2017-03-08,Denver Nuggets,1.0,39.0
+2441,Washington Wizards,Southeast,East,2017-03-10,Sacramento Kings,1.0,40.0
+2442,Washington Wizards,Southeast,East,2017-03-11,Portland Trail Blazers,1.0,41.0
+2443,Washington Wizards,Southeast,East,2017-03-13,Minnesota Timberwolves,0.0,41.0
+2444,Washington Wizards,Southeast,East,2017-03-15,Dallas Mavericks,0.0,41.0
+2445,Washington Wizards,Southeast,East,2017-03-17,Chicago Bulls,1.0,42.0
+2446,Washington Wizards,Southeast,East,2017-03-18,Charlotte Hornets,0.0,42.0
+2447,Washington Wizards,Southeast,East,2017-03-20,Boston Celtics,0.0,42.0
+2448,Washington Wizards,Southeast,East,2017-03-22,Atlanta Hawks,1.0,43.0
+2449,Washington Wizards,Southeast,East,2017-03-24,Brooklyn Nets,1.0,44.0
+2450,Washington Wizards,Southeast,East,2017-03-25,Cleveland Cavaliers,1.0,45.0
+2451,Washington Wizards,Southeast,East,2017-03-28,Los Angeles Lakers,1.0,46.0
+2452,Washington Wizards,Southeast,East,2017-03-29,LA Clippers,0.0,46.0
+2453,Washington Wizards,Southeast,East,2017-03-31,Utah Jazz,0.0,46.0
+2454,Washington Wizards,Southeast,East,2017-04-02,Golden State Warriors,0.0,46.0
+2455,Washington Wizards,Southeast,East,2017-04-04,Charlotte Hornets,1.0,47.0
+2456,Washington Wizards,Southeast,East,2017-04-06,New York Knicks,1.0,48.0
+2457,Washington Wizards,Southeast,East,2017-04-08,Miami Heat,0.0,48.0
+2458,Washington Wizards,Southeast,East,2017-04-10,Detroit Pistons,1.0,49.0
+2459,Washington Wizards,Southeast,East,2017-04-12,Miami Heat,0.0,49.0
