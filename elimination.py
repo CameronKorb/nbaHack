@@ -100,6 +100,7 @@ def get_possible_wins_naive(data):
 
 def get_elimination_dates(teams, data):
     data = data.drop_duplicates(subset=['Team_Name', 'Eliminated'])
+    print (data)
     data = data.drop_duplicates(subset=['Team_Name'], keep='last')
     data.loc[data['Eliminated'], 'Elimination Date'] = data['Date']
     data['Elimination Date'] = data['Elimination Date'].fillna('Playoffs')
