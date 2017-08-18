@@ -1,6 +1,7 @@
 import pandas as pd
 from pprint import pprint as pprint
 
+#this is a test
 scores_data = pd.read_excel("Analytics_Attachment.xlsx", "2016_17_NBA_Scores")
 #print(data)
 
