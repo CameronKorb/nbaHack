@@ -79,11 +79,13 @@ def compute_games_left(data, scores, teams):
 
 
 def get_minimum_top_8_wins(data):
-    min_score = data.groupby('Date').apply(lambda group: group['Total Wins'].nlargest(8).min())
-    min_score_df = pd.DataFrame(data=min_score).reset_index()
-    min_score_df.columns = ['Date', 'Wins To Beat']
+    min_score = data.groupby(['Date', 'Conference_id'], as_index=False).\
+        apply(lambda group: group['Total Wins'].nlargest(8).min())
 
-    data = data.merge(min_score_df, on='Date')
+    min_score_df = pd.DataFrame(data=min_score).reset_index()
+    min_score_df.columns = ['Date', 'Conference_id', 'Wins To Beat']
+
+    data = data.merge(min_score_df, on=['Date', 'Conference_id'])
     data =  data.sort_values(by=['Team_Name', 'Date'], ascending=[1, 1]).reset_index().drop('index', axis=1)
 
     return data
@@ -116,7 +118,19 @@ def main():
     df = compute_games_left(df, scores_df, teams_df)
     df = get_minimum_top_8_wins(df)
     df = get_possible_wins_naive(df)
-    df = get_elimination_dates(teams_df, df)
+    get_elimination_dates(teams_df, df)
+    # east_teams = (teams_df[teams_df['Conference_id'] == 'East'], 'east')
+    # west_teams = (teams_df[teams_df['Conference_id'] == 'West'], 'west')
+    # for conference in [east_teams, west_teams]:
+    #     team_df = conference[0]
+    #     label = conference[1]
+    #     df = compute_wins(scores_df, team_df)
+    #     df = compute_games_left(df, scores_df, team_df)
+    #     df = get_minimum_top_8_wins(df)
+    #     df = get_possible_wins_naive(df)
+    #     df = get_elimination_dates(teams_df, df)
+    #
+    #     df.to_csv('output/elimination_dates_{}.csv'.format(label))
 
 
 if __name__ == '__main__':
