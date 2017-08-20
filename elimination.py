@@ -161,11 +161,8 @@ def get_elimination_dates(teams, data, results_teamwise):
     data = data.set_index('Team')
     pprint(data)
 
-    writer = pd.ExcelWriter('output/elimination_dates.xlsx',
-                        engine='xlsxwriter',
-                        datetime_format='mm/dd/yyyy',
-                        date_format='mmm/dd/yyyy')
-    data.to_excel(writer)
+
+    data.to_csv('output/elimination_dates.csv', date_format='%Y-%m-%d')
 
     return data
 
@@ -179,18 +176,7 @@ def main():
     df = get_minimum_top_8_wins(df)
     df = get_possible_wins(df)
     get_elimination_dates(teams_df, df, results_teamwise)
-    # east_teams = (teams_df[teams_df['Conference_id'] == 'East'], 'east')
-    # west_teams = (teams_df[teams_df['Conference_id'] == 'West'], 'west')
-    # for conference in [east_teams, west_teams]:
-    #     team_df = conference[0]
-    #     label = conference[1]
-    #     df = compute_wins(scores_df, team_df)
-    #     df = compute_games_left(df, scores_df, team_df)
-    #     df = get_minimum_top_8_wins(df)
-    #     df = get_possible_wins_naive(df)
-    #     df = get_elimination_dates(teams_df, df)
-    #
-    #     df.to_csv('output/elimination_dates_{}.csv'.format(label))
+
 
 
 if __name__ == '__main__':
