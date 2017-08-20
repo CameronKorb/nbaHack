@@ -2,7 +2,7 @@ import pandas as pd
 from pprint import pprint as pprint
 import config
 import numpy as np
-
+from datetime import date as date
 
 # TODO: change so instead of passing dfs, it's using pickle files
 
@@ -154,9 +154,18 @@ def get_elimination_dates(teams, data, results_teamwise):
     data.loc[(data['Eliminated'] == 'tie') & (data['Conference_id'] == 'West') \
                     & (data['Team_Name'] == west_tie_win), 'Elimination Date'] = 'Playoffs'
 
-    data = data[['Team_Name', 'Elimination Date']]
 
-    data.to_csv('output/elimination_dates.csv')
+    data = data[['Team_Name', 'Elimination Date']]
+    data.columns = ['Team', 'Date Eliminated']
+    data['Date Eliminated'].apply(lambda x: str(date.fromordinal(x.toordinal())) if x != 'Playoffs' else x)
+    data = data.set_index('Team')
+    pprint(data)
+
+    writer = pd.ExcelWriter('output/elimination_dates.xlsx',
+                        engine='xlsxwriter',
+                        datetime_format='mm/dd/yyyy',
+                        date_format='mmm/dd/yyyy')
+    data.to_excel(writer)
 
     return data
 
