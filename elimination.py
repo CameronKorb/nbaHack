@@ -157,7 +157,7 @@ def get_elimination_dates(teams, data, results_teamwise):
 
     data = data[['Team_Name', 'Elimination Date']]
     data.columns = ['Team', 'Date Eliminated']
-    data['Date Eliminated'].apply(lambda x: str(date.fromordinal(x.toordinal())) if x != 'Playoffs' else x)
+    data['Date Eliminated'] = data['Date Eliminated'].apply(lambda x: str(date.fromordinal(x.toordinal())) if x != 'Playoffs' else x)
     data = data.set_index('Team')
     pprint(data)
 
